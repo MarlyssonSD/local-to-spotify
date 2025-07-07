@@ -63,7 +63,7 @@ def main():
 
     # Salva as não encontradas em JSON
     if nao_encontradas:
-        with open("nao_encontradas.json", "w", encoding="utf-8") as f:
+        with open("database/nao_encontradas.json", "w", encoding="utf-8") as f:
             json.dump(nao_encontradas, f, indent=2, ensure_ascii=False)
         print(f"\n⚠️ {len(nao_encontradas)} músicas não foram encontradas e foram salvas em 'nao_encontradas.json'")
 
