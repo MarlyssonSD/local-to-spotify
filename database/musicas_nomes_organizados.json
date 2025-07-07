@@ -25,7 +25,12 @@
     "filename": "CJOTA - KARMA.mp3"
   },
   {
-    "title": "HYAGOD - ''Compasso''",
+    "title": "Duzz - Saúde e Dinheiro",
+    "artist": "duzz",
+    "filename": "Duzz - Saúde e Dinheiro.mp3"
+  },
+  {
+    "title": "HYAGOD - Compasso",
     "artist": "HYAGOD",
     "filename": "HYAGOD - Compasso.mp3"
   },
@@ -50,9 +55,34 @@
     "filename": "CJOTA - ROMEU.mp3"
   },
   {
+    "title": "Duzz - Uma Noite Longe do Stress",
+    "artist": "UCLÃ",
+    "filename": "Duzz - Uma Noite Longe do Stress.mp3"
+  },
+  {
+    "title": "Duzz - SATISFACCIÓN",
+    "artist": "duzz",
+    "filename": "Duzz - SATISFACCIÓN.mp3"
+  },
+  {
     "title": "Lmfraga - TPM",
     "artist": "lmfraga",
     "filename": "Lmfraga - TPM.mp3"
+  },
+  {
+    "title": "CJOTA - DUAS MULHERES",
+    "artist": "Cjota",
+    "filename": "CJOTA - DUAS MULHERES"
+  },
+  {
+    "title": "Duzz - Faroeste",
+    "artist": "Duzz",
+    "filename": "Duzz - Faroeste"
+  },
+  {
+    "title": "Duzz - O Mesmo",
+    "artist": "duzz",
+    "filename": "Duzz - O Mesmo.mp3"
   },
   {
     "title": "Black Alien - Take Ten",
@@ -60,9 +90,19 @@
     "filename": "Black Alien - Take Ten.mp3"
   },
   {
+    "title": "CJOTA - OS MENINO QUE SOLTA A VOZ",
+    "artist": "Cjota",
+    "filename": "CJOTA - OS MENINO QUE SOLTA A VOZ.mp3"
+  },
+  {
     "title": "Leozin - Medo Pro. D. Santana x Xizoh",
     "artist": "Leozin",
     "filename": "Leozin - Medo Pro. D. Santana x Xizoh.mp3"
+  },
+  {
+    "title": "Duzz - Atento aos Sinais",
+    "artist": "UCLÃ",
+    "filename": "Duzz - Atento aos Sinais.mp3"
   },
   {
     "title": "Duzz - Acqua Di Giò",
@@ -70,17 +110,22 @@
     "filename": "Duzz - Acqua Di Giò.mp3"
   },
   {
+    "title": "Ariana",
+    "artist": "CJota, OGBEATZZ, DONATTO",
+    "filename": "CJOTA - ARIANA.mp3"
+  },
+  {
     "title": "Gaal - re play",
     "artist": "Gaal",
     "filename": "Gaal - re play --.mp3"
   },
   {
-    "title": "HYAGOD - ''Noites em Tóquio''",
+    "title": "HYAGOD - Noites em Tóquio",
     "artist": "HYAGOD",
     "filename": "HYAGOD - Noites em Tóquio.mp3"
   },
   {
-    "title": "HYAGOD - ''PENSAMENTOS DE UM GANGSTA''",
+    "title": "HYAGOD - PENSAMENTOS DE UM GANGSTA",
     "artist": "HYAGOD",
     "filename": "HYAGOD - PENSAMENTOS DE UM GANGSTA.mp3"
   },
@@ -105,6 +150,16 @@
     "filename": "Leozin x Dudu - Tudo de novo.mp3"
   },
   {
+    "title": "Lmfraga - Done Dirty",
+    "artist": "Lmfraga",
+    "filename": "Lmfraga - Done Dirty.mp3"
+  },
+  {
+    "title": "Meed - PELIGRO",
+    "artist": "Meed",
+    "filename": "Meed - PELIGRO.mp3"
+  },
+  {
     "title": "Rock Danger",
     "artist": "Rock Danger",
     "filename": "Rock Danger feat Major RD E Borges - LIDERANÇA.mp3"
@@ -115,9 +170,99 @@
     "filename": "Thiago x Leozin - Pill.mp3"
   },
   {
+    "title": "TRÊS2 - entre com o coração aberto",
+    "artist": "Kweller",
+    "filename": "TRÊS2 - entre com o coração aberto.mp3"
+  },
+  {
+    "title": "VEIGH - NOVO BALANÇO",
+    "artist": "VEIGH",
+    "filename": "VEIGH - NOVO BALANÇO.mp3"
+  },
+  {
     "title": "CJOTA - 777",
     "artist": "Cjota",
     "filename": "CJOTA - 777.mp3"
+  },
+  {
+    "title": "Enzo Cello - MUNDO DE ESPELHOS",
+    "artist": "Enzo Cello",
+    "filename": "Enzo Cello - MUNDO DE ESPELHOS"
+  },
+  {
+    "title": "Krawk - Money Rain",
+    "artist": "Krawk",
+    "filename": "Krawk - Money Rain"
+  },
+  {
+    "title": "gecs - came to my show",
+    "artist": "gecs",
+    "filename": "gecs - came to my show OFFICIAL AUDIO.mp3"
+  },
+  {
+    "title": "gecs - gecgecgec",
+    "artist": "gecs",
+    "filename": "gecs - gecgecgec OFFICIAL AUDIO.mp3"
+  },
+  {
+    "title": "gecs - hand crushed by a mallet",
+    "artist": "gecs",
+    "filename": "gecs - hand crushed by a mallet MUSIC VIDEO.mp3"
+  },
+  {
+    "title": "gecs - money machine",
+    "artist": "gecs",
+    "filename": "gecs - money machine.mp3"
+  },
+  {
+    "title": "gecs - toothless",
+    "artist": "gecs",
+    "filename": "gecs - toothless OFFICIAL AUDIO.mp3"
+  },
+  {
+    "title": "gecs - xXXiwudnvrstøpÜXXx",
+    "artist": "gecs",
+    "filename": "gecs - xXXiwudnvrstøpÜXXx OFFICIAL AUDIO.mp3"
+  },
+  {
+    "title": "gecs - xXXiwudnvrstøpÜXXx",
+    "artist": "gecs",
+    "filename": "gecs - xXXiwudnvrstøpÜXXx OFFICIAL AUDIO.mp3"
+  },
+  {
+    "title": "gecs stupid horse",
+    "artist": "gecs",
+    "filename": "gecs stupid horse OFFICIAL MUSIC VIDEO.mp3"
+  },
+  {
+    "title": "Krawk - Calma Bro",
+    "artist": "Krawk",
+    "filename": "Krawk - Calma Bro.mp3"
+  },
+  {
+    "title": "Kweller - COMPONDO//ME RECOMPONDO",
+    "artist": "NAVII Ent.",
+    "filename": "Kweller - COMPONDOME RECOMPONDO.mp3"
+  },
+  {
+    "title": "Marcas de Batom",
+    "artist": "Cjota",
+    "filename": "Marcas de Batom.mp3"
+  },
+  {
+    "title": "Duzz - Mal-Aluno",
+    "artist": "duzz",
+    "filename": "Duzz - Mal-Aluno"
+  },
+  {
+    "title": "Duzz - A Pura",
+    "artist": "duzz",
+    "filename": "Duzz - A Pura"
+  },
+  {
+    "title": "Duzz - Posso Bater Palma?",
+    "artist": "duzz",
+    "filename": "Duzz - Posso Bater Palma.mp3"
   },
   {
     "title": "Kweller - INCOLOR",
@@ -140,9 +285,19 @@
     "filename": "Duzz - ESPERA.mp3"
   },
   {
+    "title": "INDEPENDENTE",
+    "artist": "Rudies Flacko",
+    "filename": "INDEPENDENTE"
+  },
+  {
     "title": "Bala Azul - Jovem Dex",
     "artist": "Jovem Dex",
     "filename": "Bala Azul - Jovem Dex.mp3"
+  },
+  {
+    "title": "Amor ou Grana?",
+    "artist": "CJota, MC Tuto, Pedro Lotto, Marquinho no Beat",
+    "filename": "CJOTA - AMOR OU GRANA"
   },
   {
     "title": "Dudu x Leozin - Tudo acaba",
@@ -155,9 +310,19 @@
     "filename": "Gaal - nite n day --.mp3"
   },
   {
-    "title": "HYAGOD - ''STICKER DO VICO''",
+    "title": "HYAGOD - STICKER DO VICO",
     "artist": "HYAGOD",
     "filename": "HYAGOD - STICKER DO VICO.mp3"
+  },
+  {
+    "title": "Krawk - Não era pra ser",
+    "artist": "Krawk",
+    "filename": "Krawk - Não era pra ser.mp3"
+  },
+  {
+    "title": "Kweller - insônia pt.2",
+    "artist": "Kweller",
+    "filename": "Kweller - insônia pt.2.mp3"
   },
   {
     "title": "Kweller & Enzo Cello - Vermelho Neon",
@@ -170,9 +335,19 @@
     "filename": "Leozin x Dudu – Convite.mp3"
   },
   {
+    "title": "Meed - TRAPSTAR",
+    "artist": "Meed",
+    "filename": "Meed - TRAPSTAR.mp3"
+  },
+  {
     "title": "Naipe - 3D",
     "artist": "Naipe",
     "filename": "Naipe - 3D.mp3"
+  },
+  {
+    "title": "Você Chegou / Tudo Desabou",
+    "artist": "Lil Zé",
+    "filename": "Você Chegou Tudo Desabou.mp3"
   },
   {
     "title": "Zonzo - Augüsto, Abrantxs, Gaal & Raizy",
@@ -185,14 +360,44 @@
     "filename": "mp3"
   },
   {
+    "title": "Savage - Bank Account",
+    "artist": "Savage",
+    "filename": "Savage - Bank Account.mp3"
+  },
+  {
+    "title": "Duzz - Kalashnikov",
+    "artist": "duzz",
+    "filename": "Duzz - Kalashnikov"
+  },
+  {
     "title": "24kGoldn - Coco",
     "artist": "24kGoldn",
     "filename": "24kGoldn - Coco"
   },
   {
+    "title": "24kGoldn - Mood",
+    "artist": "24kGoldn",
+    "filename": "24kGoldn - Mood"
+  },
+  {
+    "title": "Duzz - Te Degustar",
+    "artist": "duzz",
+    "filename": "Duzz - Te Degustar"
+  },
+  {
+    "title": "2gaudy - CHOPSTICKS",
+    "artist": "2gaudy",
+    "filename": "2gaudy - CHOPSTICKS.mp3"
+  },
+  {
     "title": "2KBABY x Marshmello - Like This",
     "artist": "2KBABY x Marshmello",
     "filename": "2KBABY x Marshmello - Like This.mp3"
+  },
+  {
+    "title": "Vou Morrer Com Meu Orgulho",
+    "artist": "CJota, Dfideliz, GvsnoBeat, Ribb",
+    "filename": "CJOTA - VOU MORRER COM MEU ORGULHO"
   },
   {
     "title": "Dudu x Leozin - Offline",
@@ -210,9 +415,24 @@
     "filename": "Major RD"
   },
   {
+    "title": "Meed - TELEPHONE",
+    "artist": "Meed",
+    "filename": "Meed - TELEPHONE.mp3"
+  },
+  {
     "title": "Rolex - Jovem Dex & Leozin",
     "artist": "Jovem Dex & Leozin",
     "filename": "Rolex - Jovem Dex Leozin.mp3"
+  },
+  {
+    "title": "TRÊS2 - coisas que me lembram de você",
+    "artist": "Kweller",
+    "filename": "TRÊS2 - coisas que me lembram de você.mp3"
+  },
+  {
+    "title": "Mundo de Ilusões 2012",
+    "artist": "3030",
+    "filename": "Mundo de Ilusões 2012.mp3"
   },
   {
     "title": "virgingod - 3051",
@@ -230,14 +450,29 @@
     "filename": "Dudu x Leozin - Ganância.mp3"
   },
   {
+    "title": "Gaal - melancolias em autotune",
+    "artist": "Gaal",
+    "filename": "Gaal - melancolias em autotune --.mp3"
+  },
+  {
     "title": "Gaal, VLS, Da Cap - receita",
     "artist": "Gaal, VLS, Da Cap",
     "filename": "Gaal VLS Da Cap - receita --.mp3"
   },
   {
-    "title": "HYAGOD - ''Linkin Park''",
+    "title": "HYAGOD - Linkin Park",
     "artist": "HYAGOD",
     "filename": "HYAGOD - Linkin Park"
+  },
+  {
+    "title": "Krawk - Eurotrip",
+    "artist": "Krawk",
+    "filename": "Krawk - Eurotrip.mp3"
+  },
+  {
+    "title": "Kweller - submerso",
+    "artist": "Kweller",
+    "filename": "Kweller - submerso.mp3"
   },
   {
     "title": "Leozin x Dudu - Slow mo 2",
@@ -253,6 +488,11 @@
     "title": "Massaru, EF - Aham",
     "artist": "Massaru",
     "filename": "Massaru EF - Aham.mp3"
+  },
+  {
+    "title": "Meed - SKID ROW",
+    "artist": "Meed",
+    "filename": "Meed - SKID ROW.mp3"
   },
   {
     "title": "GRAUS Mike, Veigh",
@@ -275,7 +515,7 @@
     "filename": "Gaal - cruzeiro do sul --.mp3"
   },
   {
-    "title": "HYAGOD - ''Vidro''",
+    "title": "HYAGOD - Vidro",
     "artist": "HYAGOD",
     "filename": "HYAGOD - Vidro"
   },
@@ -285,14 +525,39 @@
     "filename": "Krawk - Fácil"
   },
   {
+    "title": "Kweller - LENTE ABERTA",
+    "artist": "NAVII Ent.",
+    "filename": "Kweller - LENTE ABERTA"
+  },
+  {
+    "title": "Leozin x Dudu - Meu Ice Derreteu",
+    "artist": "Leozin",
+    "filename": "Leozin x Dudu - Meu Ice Derreteu"
+  },
+  {
     "title": "Leozin x Thiago - Outro Plano",
     "artist": "Leozin x Thiago",
     "filename": "Leozin x Thiago - Outro Plano.mp3"
   },
   {
+    "title": "Meed - MUMBLE",
+    "artist": "Meed",
+    "filename": "Meed - MUMBLE.mp3"
+  },
+  {
     "title": "TRÊS2 - coração no lixo",
     "artist": "Kweller",
     "filename": "TRÊS2 - coração no lixo.mp3"
+  },
+  {
+    "title": "VEIGH - CLICKBAIT",
+    "artist": "VEIGH",
+    "filename": "VEIGH - CLICKBAIT"
+  },
+  {
+    "title": "CJOTA - SEM MEDO",
+    "artist": "Cjota",
+    "filename": "CJOTA - SEM MEDO.mp3"
   },
   {
     "title": "Enzo Cello - INSÔNIA",
@@ -305,7 +570,7 @@
     "filename": "Gaal Cardenz - meia arrastão --.mp3"
   },
   {
-    "title": "HYAGOD - ''T.C.B 3''",
+    "title": "HYAGOD - T.C.B 3",
     "artist": "HYAGOD",
     "filename": "HYAGOD - T.C.B 3"
   },
@@ -315,9 +580,24 @@
     "filename": "Krawk"
   },
   {
+    "title": "Kweller - LENTE ABERTA, Pt. 2",
+    "artist": "NAVII Ent.",
+    "filename": "Kweller - LENTE ABERTA Pt. 2"
+  },
+  {
     "title": "Kweller & Enzo Cello - Dejavú",
     "artist": "Kweller & Enzo Cello",
     "filename": "Kweller Enzo Cello - Dejavú"
+  },
+  {
+    "title": "Você Não Voltou",
+    "artist": "Lil Zé",
+    "filename": "Você Não Voltou.mp3"
+  },
+  {
+    "title": "6o - Anxiety",
+    "artist": "6o",
+    "filename": "6o - Anxiety.mp3"
   },
   {
     "title": "6o - Try ????",
@@ -325,14 +605,34 @@
     "filename": "6o - Try --.mp3"
   },
   {
+    "title": "Agacê - MATHEUS",
+    "artist": "Agacê",
+    "filename": "Agacê - MATHEUS.mp3"
+  },
+  {
+    "title": "Marcas de Batom Pt.2",
+    "artist": "CJota, Marquinho no Beat",
+    "filename": "CJOTA - MARCAS DE BATOM PT 2.mp3"
+  },
+  {
     "title": "Enzo Cello - PRISCILA",
     "artist": "Enzo Cello",
     "filename": "Enzo Cello - PRISCILA"
   },
   {
+    "title": "Gaal - beta tester: sun 1.0",
+    "artist": "Gaal",
+    "filename": "Gaal - beta tester sun 1.0 --.mp3"
+  },
+  {
     "title": "Gaal, Wazy, Kaji, Jorgin - corsa vibes remix",
     "artist": "Gaal, Wazy, Kaji, Jorgin",
     "filename": "Gaal Wazy Kaji Jorgin - corsa vibes remix --.mp3"
+  },
+  {
+    "title": "Krawk - Kit Novo",
+    "artist": "Krawk",
+    "filename": "Krawk - Kit Novo.mp3"
   },
   {
     "title": "Kweller & Enzo Cello - Elevador",
@@ -345,19 +645,69 @@
     "filename": "Naipe Gaal - Knd.mp3"
   },
   {
+    "title": "747",
+    "artist": "Sacha Online",
+    "filename": "mp3"
+  },
+  {
+    "title": "7evin7ins - No Warning",
+    "artist": "7evin7ins",
+    "filename": "7evin7ins - No Warning.mp3"
+  },
+  {
     "title": "Gaal, GS, Naipe - errôneo",
     "artist": "Gaal, GS, Naipe",
     "filename": "Gaal GS Naipe - errôneo --.mp3"
   },
   {
-    "title": "HYAGOD - ''NÃO DÁ MAIS''",
+    "title": "HYAGOD - NÃO DÁ MAIS",
     "artist": "HYAGOD",
     "filename": "HYAGOD - NÃO DÁ MAIS.mp3"
   },
   {
-    "title": "HYAGOD - ''SHEIN''",
+    "title": "Krawk - Debochado",
+    "artist": "Krawk",
+    "filename": "Krawk - Debochado.mp3"
+  },
+  {
+    "title": "Kweller - AMIGO DA NOITE",
+    "artist": "Kweller",
+    "filename": "Kweller - AMIGO DA NOITE"
+  },
+  {
+    "title": "TRÊS2 - dó, ré, mi",
+    "artist": "Kweller",
+    "filename": "TRÊS2 - dó ré mi.mp3"
+  },
+  {
+    "title": "3cheers",
+    "artist": "8485",
+    "filename": "3cheers.mp3"
+  },
+  {
+    "title": "skinz",
+    "artist": "8485",
+    "filename": "skinz.mp3"
+  },
+  {
+    "title": "CJOTA - ESQUECEU O SALTO",
+    "artist": "Cjota",
+    "filename": "CJOTA - ESQUECEU O SALTO"
+  },
+  {
+    "title": "CJOTA- E SE EU FALASSE OQUE SINTO 2",
+    "artist": "Cjota",
+    "filename": "CJOTA- E SE EU FALASSE OQUE SINTO 2"
+  },
+  {
+    "title": "HYAGOD - SHEIN",
     "artist": "HYAGOD",
     "filename": "HYAGOD - SHEIN.mp3"
+  },
+  {
+    "title": "Krawk - Confesso",
+    "artist": "Krawk",
+    "filename": "Krawk - Confesso"
   },
   {
     "title": "Kweller & Enzo Cello - Malvada",
@@ -375,9 +725,19 @@
     "filename": "916frosty Joey Melrose - SPACE DASH.mp3"
   },
   {
+    "title": "93FEETOFSMOKE - Ive been outside",
+    "artist": "93FEETOFSMOKE",
+    "filename": "93FEETOFSMOKE - Ive been outside.mp3"
+  },
+  {
     "title": "Sacha Online - 97WONDERFUL",
     "artist": "Sacha Online",
     "filename": "97WONDERFUL.mp3"
+  },
+  {
+    "title": "Gapes - 999 - Lugar Nenhum",
+    "artist": "Gapes",
+    "filename": "Lugar Nenhum.mp3"
   },
   {
     "title": "Bonde do Maluco - A Beleza ou a Riqueza",
@@ -395,7 +755,7 @@
     "filename": "A Boogie Wit da Hoodie - DTB 4 Life"
   },
   {
-    "title": "A Boogie Wit da Hoodie - Hit 'Em Up",
+    "title": "A Boogie Wit da Hoodie - Hit Em Up",
     "artist": "A Boogie Wit da Hoodie",
     "filename": "A Boogie Wit da Hoodie - Hit Em Up"
   },
@@ -405,7 +765,7 @@
     "filename": "A Boogie Wit Da Hoodie - Into It"
   },
   {
-    "title": "A Boogie Wit Da Hoodie - It's Crazy",
+    "title": "A Boogie Wit Da Hoodie - Its Crazy",
     "artist": "A Boogie Wit Da Hoodie",
     "filename": "A Boogie Wit Da Hoodie - Its Crazy.mp3"
   },
@@ -440,9 +800,19 @@
     "filename": "A Boogie Wit Da Hoodie Don Q - Flood My Wrist.mp3"
   },
   {
+    "title": "Luísa Sonza - A Dona Aranha",
+    "artist": "Luísa Sonza",
+    "filename": "A Dona Aranha.mp3"
+  },
+  {
     "title": "A frmula do amor",
     "artist": "Kid Abelha",
     "filename": "A fórmula do amor.mp3"
+  },
+  {
+    "title": "Big Rush - A LÁ VONTÊ",
+    "artist": "Big Rush",
+    "filename": "A LÁ VONTÊ.mp3"
   },
   {
     "title": "Long Beatz · Xamã · Ryan RealcriaA - Noite",
@@ -450,9 +820,19 @@
     "filename": "A Noite.mp3"
   },
   {
+    "title": "A Raposa E As Uvas",
+    "artist": "Reginaldo Rossi - Topic",
+    "filename": "A Raposa E As Uvas.mp3"
+  },
+  {
     "title": "Pacificadores - A Rua",
     "artist": "Pacificadores",
     "filename": "A Rua.mp3"
+  },
+  {
+    "title": "Big Rush - A Última Queda do Amor",
+    "artist": "Big Rush",
+    "filename": "A Última Queda do Amor.mp3"
   },
   {
     "title": "pk - actup",
@@ -470,6 +850,26 @@
     "filename": "Adas - Often.mp3"
   },
   {
+    "title": "Doja Cat - Agora Hills",
+    "artist": "Doja Cat",
+    "filename": "Agora Hills.mp3"
+  },
+  {
+    "title": "Agora Ou Nunca Mais",
+    "artist": "Amado Batista",
+    "filename": "Agora Ou Nunca Mais.mp3"
+  },
+  {
+    "title": "Aimar - QUEM TÁ DE VOLTA?",
+    "artist": "Aimar",
+    "filename": "Aimar - QUEM TÁ DE VOLTA.mp3"
+  },
+  {
+    "title": "Ainda Gosto Dela",
+    "artist": "Skank",
+    "filename": "Ainda Gosto Dela.mp3"
+  },
+  {
     "title": "Aka Rasta - Ciumenta",
     "artist": "Aka Rasta",
     "filename": "Aka Rasta - Ciumenta"
@@ -478,6 +878,21 @@
     "title": "Aka Rasta - ROMÂNTICO",
     "artist": "Aka Rasta",
     "filename": "Aka Rasta - ROMÂNTICO.mp3"
+  },
+  {
+    "title": "Akon - Beautiful",
+    "artist": "Akon",
+    "filename": "Akon - Beautiful"
+  },
+  {
+    "title": "Akon - Dont Matter",
+    "artist": "Akon",
+    "filename": "Akon - Dont Matter.mp3"
+  },
+  {
+    "title": "Akon - Lonely",
+    "artist": "Akon",
+    "filename": "Akon - Lonely.mp3"
   },
   {
     "title": "Akon - Right Now / Traduçăo / Legendado",
@@ -495,14 +910,29 @@
     "filename": "albinzzs - neve.mp3"
   },
   {
-    "title": "Ali Gatie - It's You",
+    "title": "Alceu Valença - La Belle de Jour",
+    "artist": "Alceu Valença",
+    "filename": "Alceu Valença - La Belle de Jour.mp3"
+  },
+  {
+    "title": "Ali Gatie - Its You",
     "artist": "Ali Gatie",
     "filename": "Ali Gatie - Its You.mp3"
+  },
+  {
+    "title": "Alice",
+    "artist": "Kid Abelha e os Abóboras Selvagens",
+    "filename": "Alice.mp3"
   },
   {
     "title": "All-Star Brasil - Agora",
     "artist": "All-Star Brasil,",
     "filename": "All-Star Brasil - Agora"
+  },
+  {
+    "title": "alright",
+    "artist": "blxty",
+    "filename": "alright.mp3"
   },
   {
     "title": "Alu - Rainbow Rain",
@@ -515,9 +945,34 @@
     "filename": "ALÚ - TUDO EM VOLTA.mp3"
   },
   {
+    "title": "Menininha Meu Amor",
+    "artist": "Amado Batista",
+    "filename": "Amado Batista - Menininha Meu Amor.mp3"
+  },
+  {
     "title": "Amado Batista - O fruto do nosso amor",
     "artist": "BatistaAmado",
     "filename": "Amado Batista - O fruto do nosso amor.mp3"
+  },
+  {
+    "title": "Amado Batista - Seresteiro das Noites",
+    "artist": "amadobatistaVEVO",
+    "filename": "Amado Batista - Seresteiro das Noites.mp3"
+  },
+  {
+    "title": "Deko - ambush!",
+    "artist": "Deko",
+    "filename": "ambush.mp3"
+  },
+  {
+    "title": "Amigos Até Certa Instância",
+    "artist": "Jovem Dionisio",
+    "filename": "Amigos Até Certa Instância.mp3"
+  },
+  {
+    "title": "Amor Criminal",
+    "artist": "Krawk",
+    "filename": "Amor Criminal.mp3"
   },
   {
     "title": "Amor de Cão - Jovem Dionisio, Clara Valverde",
@@ -528,6 +983,21 @@
     "title": "Amor de Verdade - MC Kekel e MC Rita",
     "artist": "MC Kekel e MC Rita",
     "filename": "Amor de Verdade - MC Kekel e MC Rita.mp3"
+  },
+  {
+    "title": "Amor",
+    "artist": "Dudu",
+    "filename": "Amor.mp3"
+  },
+  {
+    "title": "Reginaldo Rossi - Amor, Amor, Amor",
+    "artist": "Reginaldo Rossi",
+    "filename": "Amor Amor Amor.mp3"
+  },
+  {
+    "title": "Amém",
+    "artist": "Krawk",
+    "filename": "Amém.mp3"
   },
   {
     "title": "Luísa Sonza - Ana Maria",
@@ -563,6 +1033,16 @@
     "title": "Anitta, Sam Smith - Ahi",
     "artist": "AnittaVEVO",
     "filename": "Anitta Sam Smith - Ahi.mp3"
+  },
+  {
+    "title": "Anna Julia Letra",
+    "artist": "Los hermanos",
+    "filename": "Anna Julia Letra.mp3"
+  },
+  {
+    "title": "Yung Buda - Aquelamusicaali",
+    "artist": "Yung Buda",
+    "filename": "Aquelamusicaali.mp3"
   },
   {
     "title": "Arizona Zervas - ROXANNE",
@@ -605,9 +1085,24 @@
     "filename": "Atração Pitbull.mp3"
   },
   {
+    "title": "Mari Versant - Até Quando Você Não Souber",
+    "artist": "Mari Versant",
+    "filename": "Até Quando Você Não Souber.mp3"
+  },
+  {
     "title": "Tiruru tirará",
     "artist": "Marlay",
     "filename": "AUD-20200907-WA0049.mp3"
+  },
+  {
+    "title": "Shawn Mendes, Justin Bieber - Monster",
+    "artist": "Shawn Mendes, Justin Bieber",
+    "filename": "AUD-20201213-WA0061.mp3"
+  },
+  {
+    "title": "R U Mine?",
+    "artist": "Artic Monkeys",
+    "filename": "AUD-20201213-WA0063.mp3"
   },
   {
     "title": "Sacha Online - audience",
@@ -615,9 +1110,29 @@
     "filename": "audience.mp3"
   },
   {
+    "title": "Audioslave - Like a Stone",
+    "artist": "AudioslaveVEVO",
+    "filename": "Audioslave - Like a Stone.mp3"
+  },
+  {
+    "title": "AURORA - Warrior",
+    "artist": "AURORA",
+    "filename": "AURORA - Warrior.mp3"
+  },
+  {
+    "title": "Burn-O - Aurora Boreal",
+    "artist": "Burn-O",
+    "filename": "Aurora Boreal.mp3"
+  },
+  {
     "title": "Yung Buda - Autumn Ring Mini",
     "artist": "Yung Buda",
     "filename": "Autumn Ring Mini.mp3"
+  },
+  {
+    "title": "Avicii - Sunset Jesus",
+    "artist": "Avicii",
+    "filename": "Avicii - Sunset Jesus 1.mp3"
   },
   {
     "title": "blxty - awful",
@@ -625,14 +1140,34 @@
     "filename": "awful.mp3"
   },
   {
+    "title": "awful 2",
+    "artist": "blxty",
+    "filename": "awful 2.mp3"
+  },
+  {
+    "title": "Ayo & Teo - Better Off Alone",
+    "artist": "AyoandTeoVEVO",
+    "filename": "Ayo Teo - Better Off Alone"
+  },
+  {
     "title": "Ayo & Teo - Comin Home",
     "artist": "Ayo & Teo",
     "filename": "Ayo Teo - Comin Home.mp3"
   },
   {
-    "title": "Ayo & Teo - Don’t Worry",
+    "title": "Ayo & Teo - Dont Worry",
     "artist": "Ayo & Teo",
     "filename": "Ayo Teo - Dont Worry.mp3"
+  },
+  {
+    "title": "Ayo & Teo - Fallen Angels",
+    "artist": "Ayo & Teo",
+    "filename": "Ayo Teo - Fallen Angels.mp3"
+  },
+  {
+    "title": "Ayo & Teo - Fly N Ghetto",
+    "artist": "Ayo & Teo",
+    "filename": "Ayo Teo - Fly N Ghetto.mp3"
   },
   {
     "title": "Ayo & Teo - Friends",
@@ -645,9 +1180,19 @@
     "filename": "Ayo Teo - GOKU.mp3"
   },
   {
+    "title": "Ayo & Teo - Hold My Sauce",
+    "artist": "Ayo & Teo",
+    "filename": "Ayo Teo - Hold My Sauce"
+  },
+  {
     "title": "Ayo & Teo - Like Us",
     "artist": "AyoandTeoVEVO",
     "filename": "Ayo Teo - Like Us.mp3"
+  },
+  {
+    "title": "Ayo & Teo - Nothin New",
+    "artist": "Ayo & Teo",
+    "filename": "Ayo Teo - Nothin New.mp3"
   },
   {
     "title": "Ayo & Teo - On The Road",
@@ -670,7 +1215,7 @@
     "filename": "Ayo Teo and Tory Lanez - Fly Shxt.mp3"
   },
   {
-    "title": "Ayo & Teo - Goin'",
+    "title": "Ayo & Teo - Goin",
     "artist": "Ayo & Teo",
     "filename": "Ayo Teo Goin.mp3"
   },
@@ -683,6 +1228,11 @@
     "title": "Ayo & Teo Yeat - Real Lyfë",
     "artist": "Yeat",
     "filename": "Ayo Teo Yeat - Real Lyfë.mp3"
+  },
+  {
+    "title": "Ayo & Teo- Last Forever",
+    "artist": "Ayo & Teo",
+    "filename": "Ayo Teo- Last Forever.mp3"
   },
   {
     "title": "Ayo & Teo, Lil Yachty - Ay3",
@@ -705,14 +1255,49 @@
     "filename": "B.I.G Carter"
   },
   {
+    "title": "pluglip - baby ce falo que me amava",
+    "artist": "pluglip",
+    "filename": "baby ce falo que me amava"
+  },
+  {
+    "title": "Baby Keem - lost souls",
+    "artist": "Baby Keem",
+    "filename": "Baby Keem - lost souls"
+  },
+  {
+    "title": "Baby Keem - Orange Soda",
+    "artist": "Baby Keem",
+    "filename": "Baby Keem - Orange Soda.mp3"
+  },
+  {
+    "title": "GaaL - Baby Pink Remix",
+    "artist": "GaaL",
+    "filename": "Baby Pink Remix.mp3"
+  },
+  {
     "title": "Baby T & Big Rush - Home Brew",
     "artist": "Baby T & Big Rush",
     "filename": "Baby T Big Rush - Home Brew.mp3"
   },
   {
+    "title": "Sacha Online - baby theyre playing our song",
+    "artist": "Sacha Online",
+    "filename": "baby theyre playing our song.mp3"
+  },
+  {
+    "title": "Backstreet Boys - I Want It That Way",
+    "artist": "BackstreetBoysVEVO",
+    "filename": "Backstreet Boys - I Want It That Way.mp3"
+  },
+  {
     "title": "Krawk",
     "artist": "Krawk",
     "filename": "Bad Bitch 2.mp3"
+  },
+  {
+    "title": "Sacha Online - bad water level",
+    "artist": "Sacha Online",
+    "filename": "bad water level.mp3"
   },
   {
     "title": "Eduh - Baila",
@@ -725,9 +1310,19 @@
     "filename": "BALAZUL - Mateca Teto.mp3"
   },
   {
+    "title": "Mais Ninguém",
+    "artist": "Banda do Mar",
+    "filename": "Banda do Mar - Mais Ninguém.mp3"
+  },
+  {
     "title": "Banda Tereza - Pistão",
     "artist": "bandatereza",
     "filename": "Banda Tereza - Pistão.mp3"
+  },
+  {
+    "title": "bandida",
+    "artist": "VirginGod, roddie",
+    "filename": "bandida.mp3"
   },
   {
     "title": "Bangers Only & Sannan - Stalker",
@@ -760,6 +1355,21 @@
     "filename": "BC Raff Abbot Só 1 Segundo.mp3"
   },
   {
+    "title": "BC Raff Beleza Exótica",
+    "artist": "Raffa Moreira",
+    "filename": "BC Raff Beleza Exótica"
+  },
+  {
+    "title": "Effie - Be the Real",
+    "artist": "Effie",
+    "filename": "Be the Real.mp3"
+  },
+  {
+    "title": "be urself",
+    "artist": "owtiss",
+    "filename": "be urself.mp3"
+  },
+  {
     "title": "bernard jabs",
     "artist": "Promoting Sounds",
     "filename": "bernard jabs"
@@ -768,6 +1378,16 @@
     "title": "Claudinho & Buchecha - Berreco",
     "artist": "Claudinho & Buchecha",
     "filename": "Berreco.mp3"
+  },
+  {
+    "title": "GaaL - Beta Tester: Sun 1.0",
+    "artist": "GaaL",
+    "filename": "Beta Tester Sun 1.0.mp3"
+  },
+  {
+    "title": "Bhertuy - best for u",
+    "artist": "Bhertuy",
+    "filename": "Bhertuy - best for u.mp3"
   },
   {
     "title": "Bhertuy - haven",
@@ -780,9 +1400,24 @@
     "filename": "BIG RUSH - A IMAGINAÇÃO áudio oficial.mp3"
   },
   {
+    "title": "BIG RUSH - BEM ME QUER, MAL ME QUER",
+    "artist": "big rush",
+    "filename": "BIG RUSH - BEM ME QUER MAL ME QUER.mp3"
+  },
+  {
+    "title": "Big Rush - Black Sabbath",
+    "artist": "Big Rush",
+    "filename": "BIG RUSH - Black Sabbath.mp3"
+  },
+  {
     "title": "BIG RUSH - C WALK INTERLÚDIO áudio oficial",
     "artist": "big rush",
     "filename": "BIG RUSH - C WALK INTERLÚDIO áudio oficial.mp3"
+  },
+  {
+    "title": "BIG RUSH - DIFÍCIL DIZER TCHAU",
+    "artist": "big rush",
+    "filename": "BIG RUSH - DIFÍCIL DIZER TCHAU.mp3"
   },
   {
     "title": "BIG RUSH - DIRETO AO PONTO áudio oficial",
@@ -840,9 +1475,24 @@
     "filename": "BIG RUSH - pateta freeverse"
   },
   {
+    "title": "BIG RUSH - VALDERRAMA",
+    "artist": "big rush",
+    "filename": "BIG RUSH - VALDERRAMA.mp3"
+  },
+  {
     "title": "BIG RUSH - YOKO ONO",
     "artist": "big rush",
     "filename": "BIG RUSH - YOKO ONO.mp3"
+  },
+  {
+    "title": "BIG RUSH - A Noite, Pt.3",
+    "artist": "BIG RUSH",
+    "filename": "BIG RUSH - A Noite Pt.3.mp3"
+  },
+  {
+    "title": "BIG RUSH - Esteja Pronto",
+    "artist": "big rush",
+    "filename": "BIG RUSH - Esteja Pronto.mp3"
   },
   {
     "title": "BIG RUSH - Mansão!",
@@ -853,6 +1503,11 @@
     "title": "BIG RUSH - No Más",
     "artist": "BIG RUSH",
     "filename": "BIG RUSH - No Más.mp3"
+  },
+  {
+    "title": "BIG RUSH - Sonhando Demais",
+    "artist": "BIG RUSH",
+    "filename": "BIG RUSH - Sonhando Demais.mp3"
   },
   {
     "title": "BIG RUSH - Up!",
@@ -893,6 +1548,26 @@
     "title": "BILLY BUEFFER - Fake Friends",
     "artist": "Promoting Sounds",
     "filename": "BILLY BUEFFER - Fake Friends.mp3"
+  },
+  {
+    "title": "Birdman - Cap Talk",
+    "artist": "BirdmanVEVO",
+    "filename": "Birdman - Cap Talk"
+  },
+  {
+    "title": "Raken - biridin",
+    "artist": "Raken",
+    "filename": "biridin.mp3"
+  },
+  {
+    "title": "Wilco - Black Moon",
+    "artist": "Wilco",
+    "filename": "Black Moon.mp3"
+  },
+  {
+    "title": "Maple - blackjack",
+    "artist": "Maple",
+    "filename": "blackjack.mp3"
   },
   {
     "title": "blackwinterwells + 8485 - just words",
@@ -965,9 +1640,24 @@
     "filename": "Blueface - Viral.mp3"
   },
   {
+    "title": "blxty - ambivert",
+    "artist": "blxty",
+    "filename": "blxty - ambivert"
+  },
+  {
+    "title": "blxty - bad time",
+    "artist": "blxty",
+    "filename": "blxty - bad time"
+  },
+  {
     "title": "blxty - foe",
     "artist": "blxty",
     "filename": "blxty - foe"
+  },
+  {
+    "title": "blxty - forever",
+    "artist": "blxty",
+    "filename": "blxty - forever.mp3"
   },
   {
     "title": "blxty - issue",
@@ -975,9 +1665,34 @@
     "filename": "blxty - issue.mp3"
   },
   {
+    "title": "BMO - Ela brisa no meu ice",
+    "artist": "BMO",
+    "filename": "BMO - Ela brisa no meu ice.mp3"
+  },
+  {
+    "title": "BMO - Eu nasci pra vencer",
+    "artist": "BMO",
+    "filename": "BMO - Eu nasci pra vencer.mp3"
+  },
+  {
     "title": "BMO",
     "artist": "BMO",
     "filename": "BMO"
+  },
+  {
+    "title": "BMO x Misael - Coração de quebrada",
+    "artist": "BMO x Misael",
+    "filename": "BMO x Misael - Coração de quebrada.mp3"
+  },
+  {
+    "title": "Boa Vida - Cazuza",
+    "artist": "Cazuza",
+    "filename": "Boa Vida - Cazuza.mp3"
+  },
+  {
+    "title": "Bonde do Maluco Solidão Não Tem Fim - 2009",
+    "artist": "Bonde do Maluco",
+    "filename": "Bonde do Maluco Solidão Não Tem Fim - 2009.mp3"
   },
   {
     "title": "Bonde do Maluco - Etiqueta - 2009",
@@ -993,6 +1708,11 @@
     "title": "Bonde do Maluco - Na Dança do Ventre - 2007",
     "artist": "Bonde do Maluco",
     "filename": "Bonde do Maluco - Na Dança do Ventre - 2007.mp3"
+  },
+  {
+    "title": "Bonde do Maluco - Não Vale Mais Chorar Por Ele - 2007",
+    "artist": "Bonde do Maluco",
+    "filename": "Bonde do Maluco - Não Vale Mais Chorar Por Ele - 2007.mp3"
   },
   {
     "title": "Bonde do Maluco - Sai da Frente Rapaz - 2007",
@@ -1020,9 +1740,29 @@
     "filename": "Bonde Tesão Gaiola das Popozudas - é nesse clima.mp3"
   },
   {
+    "title": "Boot Limitado - MC BMO",
+    "artist": "MC BMO",
+    "filename": "Boot Limitado - MC BMO.mp3"
+  },
+  {
     "title": "BORA - Washington Brasileiro, Forró Cintura de Mola",
     "artist": "Washington Brasileiro",
     "filename": "BORA - Washington Brasileiro Forró Cintura de Mola.mp3"
+  },
+  {
+    "title": "BAD HOP - Born This Way",
+    "artist": "BAD HOP",
+    "filename": "Born This Way.mp3"
+  },
+  {
+    "title": "Twikipedia - born to pwn",
+    "artist": "Twikipedia",
+    "filename": "born to pwn.mp3"
+  },
+  {
+    "title": "Leonardo - Boto Pra Remexer",
+    "artist": "Leonardo",
+    "filename": "Boto Pra Remexer.mp3"
   },
   {
     "title": "Brandon ThaKidd - I H4TE U",
@@ -1035,9 +1775,34 @@
     "filename": "break.mp3"
   },
   {
+    "title": "breakers",
+    "artist": "8485",
+    "filename": "breakers.mp3"
+  },
+  {
     "title": "BRENNAN SAVAGE - In My Dreams",
     "artist": "BRENNAN SAVAGE",
     "filename": "BRENNAN SAVAGE - In My Dreams"
+  },
+  {
+    "title": "BRICK ON WRIST",
+    "artist": "Deko",
+    "filename": "BRICK ON WRIST"
+  },
+  {
+    "title": "Ayo & Teo - Bring a Friend",
+    "artist": "Ayo & Teo",
+    "filename": "Bring a Friend.mp3"
+  },
+  {
+    "title": "Brocasito - P90",
+    "artist": "Brocasito",
+    "filename": "Brocasito - P90.mp3"
+  },
+  {
+    "title": "virgingod - Bruce Wayne",
+    "artist": "virgingod",
+    "filename": "Bruce Wayne.mp3"
   },
   {
     "title": "Bryan Behr - Da Cor Do Girassol",
@@ -1050,9 +1815,39 @@
     "filename": "Budah x Yunk Vino - Lingerie.mp3"
   },
   {
+    "title": "Sean Leon - BURN EVERYTHING",
+    "artist": "Sean Leon",
+    "filename": "BURN EVERYTHING.mp3"
+  },
+  {
+    "title": "BURN IT DOWN - Linkin Park",
+    "artist": "Linkin Park",
+    "filename": "BURN IT DOWN - Linkin Park.mp3"
+  },
+  {
+    "title": "Burn-O - Prisioneiros do Efeito Manada",
+    "artist": "Burn-O",
+    "filename": "Burn-O - Prisioneiros do Efeito Manada.mp3"
+  },
+  {
+    "title": "Burn-O - Top Tier",
+    "artist": "Burn-O",
+    "filename": "Burn-O - Top Tier.mp3"
+  },
+  {
+    "title": "Burn-O - Turmalina",
+    "artist": "Burn-O",
+    "filename": "Burn-O - Turmalina.mp3"
+  },
+  {
     "title": "Burn-O - Tênue",
     "artist": "Burn-O",
     "filename": "Burn-O - Tênue.mp3"
+  },
+  {
+    "title": "Burn-O - Voltagem",
+    "artist": "Burn-O",
+    "filename": "Burn-O - Voltagem.mp3"
   },
   {
     "title": "Burn-O, RCD - BAPE",
@@ -1060,14 +1855,34 @@
     "filename": "Burn-O RCD - BAPE.mp3"
   },
   {
+    "title": "Butterfly",
+    "artist": "Beast Inside Beats",
+    "filename": "Butterfly.mp3"
+  },
+  {
     "title": "Cabal",
     "artist": "Krawk, Cabal, M7EL",
     "filename": "Cabal"
   },
   {
+    "title": "Mamonas Assassinas - Cabeça De Bagre II / Sample: Baby Elephant Walk",
+    "artist": "Mamonas Assassinas",
+    "filename": "Cabeça De Bagre II Sample Baby Elephant Walk.mp3"
+  },
+  {
+    "title": "Bonde do Maluco - Cade os Cachaceiros / Sinta o Som",
+    "artist": "Bonde do Maluco",
+    "filename": "Cade os Cachaceiros Sinta o Som.mp3"
+  },
+  {
     "title": "Caio Shock - Vibe",
     "artist": "Meno Felps & Caio Shock",
     "filename": "Caio Shock - Vibe"
+  },
+  {
+    "title": "Calboy - Adam & Eve",
+    "artist": "CalboyVEVO",
+    "filename": "Calboy - Adam Eve.mp3"
   },
   {
     "title": "Yung Buda - Califórnia",
@@ -1090,9 +1905,29 @@
     "filename": "CAMERA.mp3"
   },
   {
+    "title": "Edson Gomes - Campo De Batalha",
+    "artist": "Edson Gomes",
+    "filename": "Campo De Batalha.mp3"
+  },
+  {
+    "title": "can we just restart",
+    "artist": "Capoxxo",
+    "filename": "can we just restart.mp3"
+  },
+  {
+    "title": "Capital Cities - Safe And Sound",
+    "artist": "Capital Cities",
+    "filename": "Capital Cities - Safe And Sound.mp3"
+  },
+  {
     "title": "Capital Inicial - À Sua Maneira",
     "artist": "capitalinicialVEVO",
     "filename": "Capital Inicial - À Sua Maneira.mp3"
+  },
+  {
+    "title": "capoxxo - DJTURNITUP",
+    "artist": "capoxxo",
+    "filename": "capoxxo - DJTURNITUP"
   },
   {
     "title": "capoxxo - gfuelinme @nightclub20xx",
@@ -1100,14 +1935,34 @@
     "filename": "capoxxo - gfuelinme nightclub20xx.mp3"
   },
   {
-    "title": "capoxxo - i'm stuck",
+    "title": "capoxxo - it was beautiful",
+    "artist": "capoxxo",
+    "filename": "capoxxo - it was beautiful.mp3"
+  },
+  {
+    "title": "capoxxo - im stuck",
     "artist": "capoxxo",
     "filename": "capoxxo - im stuck.mp3"
+  },
+  {
+    "title": "capoxxo - never guessed",
+    "artist": "capoxxo",
+    "filename": "capoxxo - never guessed.mp3"
+  },
+  {
+    "title": "capoxxo - ouueeoueou",
+    "artist": "capoxxo",
+    "filename": "capoxxo - ouueeoueou.mp3"
   },
   {
     "title": "capoxxo - perfect",
     "artist": "capoxxo,",
     "filename": "capoxxo - perfect"
+  },
+  {
+    "title": "capoxxo - sequence",
+    "artist": "capoxxo w/ mayh3mp",
+    "filename": "capoxxo - sequence.mp3"
   },
   {
     "title": "capoxxo - shawty",
@@ -1125,7 +1980,7 @@
     "filename": "capoxxo x keyblayde808 x mayh3mp - not the same.mp3"
   },
   {
-    "title": "capoxxo x lil koi - i can't tell",
+    "title": "capoxxo x lil koi - i cant tell",
     "artist": "capoxxo x lil koi",
     "filename": "capoxxo x lil koi - i cant tell.mp3"
   },
@@ -1150,14 +2005,34 @@
     "filename": "Carma Chinês.mp3"
   },
   {
+    "title": "Luísa Sonza - Carnificina",
+    "artist": "Luísa Sonza",
+    "filename": "Carnificina.mp3"
+  },
+  {
     "title": "Bonde do Maluco - Carro de Palozo",
     "artist": "Bonde do Maluco",
     "filename": "Carro de Palozo.mp3"
   },
   {
+    "title": "GaaL",
+    "artist": "GaaL",
+    "filename": "Carta de Aposentadoria.mp3"
+  },
+  {
+    "title": "Cartier",
+    "artist": "Only",
+    "filename": "Cartier.mp3"
+  },
+  {
     "title": "Cartoon - On & On",
     "artist": "Cartoon",
     "filename": "Cartoon - On On.mp3"
+  },
+  {
+    "title": "swoopy - Cashflow",
+    "artist": "swoopy",
+    "filename": "Cashflow.mp3"
   },
   {
     "title": "Casluh",
@@ -1180,14 +2055,64 @@
     "filename": "caspr - ummmthewrst.mp3"
   },
   {
+    "title": "CB13 - MIL E UMA NOITES",
+    "artist": "CB13",
+    "filename": "CB13 - MIL E UMA NOITES.mp3"
+  },
+  {
+    "title": "Cereja do Bolo",
+    "artist": "Krawk",
+    "filename": "Cereja do Bolo.mp3"
+  },
+  {
+    "title": "Cesar Mc - Art.ficial",
+    "artist": "Cesar Mc",
+    "filename": "Cesar Mc - Art.ficial.mp3"
+  },
+  {
     "title": "Cesar MC - Canção Infantil part. Cristal",
     "artist": "PineappleStormTV",
     "filename": "Cesar MC - Canção Infantil part. Cristal.mp3"
   },
   {
+    "title": "Cesar Mc - Conselho pros Crias",
+    "artist": "Cesar Mc",
+    "filename": "Cesar Mc - Conselho pros Crias.mp3"
+  },
+  {
+    "title": "Cesar Mc - Fora de Área",
+    "artist": "Cesar Mc",
+    "filename": "Cesar Mc - Fora de Área.mp3"
+  },
+  {
+    "title": "Cesar Mc - Melhor Assim",
+    "artist": "Cesar Mc",
+    "filename": "Cesar Mc - Melhor Assim"
+  },
+  {
+    "title": "Cesar Mc - Minha Última Letra",
+    "artist": "Pineapple StormTV",
+    "filename": "Cesar Mc - Minha Última Letra.mp3"
+  },
+  {
+    "title": "roddie - cest la vie",
+    "artist": "roddie",
+    "filename": "cest la vie.mp3"
+  },
+  {
+    "title": "Maple - chainsaww",
+    "artist": "Maple",
+    "filename": "chainsaww.mp3"
+  },
+  {
     "title": "CHAMA AS AMIGAS Horu$ x dreCoy x Saint Lukka x J",
     "artist": "JayA Luuck",
     "filename": "CHAMA AS AMIGAS Horu x dreCoy x Saint Lukka x J.mp3"
+  },
+  {
+    "title": "Charlie Puth - We Dont Talk Anymore",
+    "artist": "Charlie Puth",
+    "filename": "Charlie Puth - We Dont Talk Anymore.mp3"
   },
   {
     "title": "Chico Buarque - A Banda - Ilustrado",
@@ -1215,6 +2140,11 @@
     "filename": "Chris Brown Young Thug - Go Crazy.mp3"
   },
   {
+    "title": "CHRIS RAIN - What Im Looking For",
+    "artist": "CHRIS RAIN",
+    "filename": "CHRIS RAIN - What Im Looking For.mp3"
+  },
+  {
     "title": "Sacha Online - Church",
     "artist": "Sacha Online",
     "filename": "church.mp3"
@@ -1230,6 +2160,16 @@
     "filename": "Circunstâncias.mp3"
   },
   {
+    "title": "CJOTA - ELA É FÚTIL",
+    "artist": "Cjota",
+    "filename": "CJOTA - ELA É FÚTIL"
+  },
+  {
+    "title": "Clara La San - Want U",
+    "artist": "ghosty",
+    "filename": "Clara La San - Want U.mp3"
+  },
+  {
     "title": "Clarice Falcão - Monomania",
     "artist": "Clarice Falcão",
     "filename": "Clarice Falcão - Monomania.mp3"
@@ -1238,6 +2178,11 @@
     "title": "Claudinho e Buchecha - Fico assim sem Voce",
     "artist": "Claudinho e Buchecha",
     "filename": "Claudinho e Buchecha - Fico assim sem Voce.mp3"
+  },
+  {
+    "title": "Claudinho e Buchecha - Quero Te Encontrar",
+    "artist": "Claudinho e Buchecha",
+    "filename": "Claudinho e Buchecha - Quero Te Encontrar.mp3"
   },
   {
     "title": "Claudinho e Buchecha - Só Love",
@@ -1260,9 +2205,24 @@
     "filename": "Clau Cortesia Da Casa Haikaiss - Pouca Pausa.mp3"
   },
   {
+    "title": "Clearvision - Get Thru2u",
+    "artist": "Clearvision",
+    "filename": "Clearvision - Get Thru2u.mp3"
+  },
+  {
     "title": "Club Type Beat - Сrystal Drake x Offset Club Instrumental",
     "artist": "Beast Inside Beats",
     "filename": "Club Type Beat - Сrystal Drake x Offset Club Instrumental.mp3"
+  },
+  {
+    "title": "Clssico",
+    "artist": "Duzz, Stuani, Celo1st",
+    "filename": "Clássico.mp3"
+  },
+  {
+    "title": "Cochise - Hatchback",
+    "artist": "Cochise",
+    "filename": "Cochise - Hatchback 1.mp3"
   },
   {
     "title": "Cochise - JACKPOT",
@@ -1280,14 +2240,84 @@
     "filename": "Codinome Winchester - Espírito Velho.mp3"
   },
   {
+    "title": "Coldplay - Hymn For The Weekend",
+    "artist": "Nabil Aiman",
+    "filename": "Coldplay - Hymn For The Weekend.mp3"
+  },
+  {
+    "title": "Kid Abelha - Como Eu Quero",
+    "artist": "Kid Abelha",
+    "filename": "Como Eu Quero.mp3"
+  },
+  {
+    "title": "Charlie Brown Jr. - Como Tudo Deve Ser",
+    "artist": "Charlie Brown Jr.",
+    "filename": "Como Tudo Deve Ser.mp3"
+  },
+  {
+    "title": "Constelação",
+    "artist": "Aka Rasta",
+    "filename": "Constelação.mp3"
+  },
+  {
     "title": "KAROL G - CONTIGO",
     "artist": "KAROL G",
     "filename": "CONTIGO.mp3"
   },
   {
+    "title": "convolk - do 2 much",
+    "artist": "convolk",
+    "filename": "convolk - do 2 much.mp3"
+  },
+  {
+    "title": "convolk - dont nobody get me",
+    "artist": "convolk",
+    "filename": "convolk - dont nobody get me"
+  },
+  {
+    "title": "convolk - get lost",
+    "artist": "convolk",
+    "filename": "convolk - get lost.mp3"
+  },
+  {
+    "title": "convolk - ghost in the vein",
+    "artist": "convolk",
+    "filename": "convolk - ghost in the vein1.mp3"
+  },
+  {
+    "title": "convolk - i fucked up",
+    "artist": "convolk",
+    "filename": "convolk - i fucked up.mp3"
+  },
+  {
     "title": "convolk - i relapsed",
     "artist": "convolk",
     "filename": "convolk - i relapsed.mp3"
+  },
+  {
+    "title": "convolk - lonewolf",
+    "artist": "convolk",
+    "filename": "convolk - lonewolf.mp3"
+  },
+  {
+    "title": "convolk - new year old u",
+    "artist": "convolk",
+    "filename": "convolk - new year old u.mp3"
+  },
+  {
+    "title": "convolk - swear to god",
+    "artist": "Convolk",
+    "filename": "convolk - swear to god 1.mp3"
+  },
+  {
+    "title": "convolk - worldstar",
+    "artist": "convolk",
+    "filename": "convolk - worldstar.mp3"
+  },
+  {
+    "title": "convolk - worried sick",
+    "artist": "convolk",
+    "filename": "convolk - worried sick.mp3"
   },
   {
     "title": "convolk x 9TAILS x guardin - whatever it takes",
@@ -1298,6 +2328,31 @@
     "title": "Copacabana - Jovem Dionisio",
     "artist": "Jovem Dionisio",
     "filename": "Copacabana - Jovem Dionisio1.mp3"
+  },
+  {
+    "title": "Hungria Hip Hop - Coração de Aço",
+    "artist": "Hungria Hip Hop",
+    "filename": "Coração de Aço.mp3"
+  },
+  {
+    "title": "klouvz - Coração Quebrado",
+    "artist": "klouvz",
+    "filename": "Coração Quebrado.mp3"
+  },
+  {
+    "title": "GaaL - Corsa Vibes Remix",
+    "artist": "GaaL",
+    "filename": "Corsa Vibes Remix.mp3"
+  },
+  {
+    "title": "Corte Marroquino",
+    "artist": "Krawk",
+    "filename": "Corte Marroquino.mp3"
+  },
+  {
+    "title": "Costa Gold - N.A.D.A.B.O.M PT 3",
+    "artist": "Costa Gold",
+    "filename": "Costa Gold - N.A.D.A.B.O.M PT 3.mp3"
   },
   {
     "title": "Costa Gold - Grimme",
@@ -1325,9 +2380,44 @@
     "filename": "cresselia.mp3"
   },
   {
+    "title": "Edson Gomes - Criminalidade",
+    "artist": "Edson Gomes",
+    "filename": "Criminalidade.mp3"
+  },
+  {
+    "title": "cross it out",
+    "artist": "i9bonsai",
+    "filename": "cross it out.mp3"
+  },
+  {
     "title": "crystal ball ????.???*??????",
     "artist": "Deko",
     "filename": "crystal ball --..mp3"
+  },
+  {
+    "title": "ctrl",
+    "artist": "i9bonsai",
+    "filename": "ctrl.mp3"
+  },
+  {
+    "title": "Leandro & Leonardo - Cumade e Cumpade",
+    "artist": "Leandro & Leonardo",
+    "filename": "Cumade e Cumpade.mp3"
+  },
+  {
+    "title": "Cyber Baby Angel, Pt. 1",
+    "artist": "Cyber Baby Angel",
+    "filename": "Cyber Baby Angel Pt. 1.mp3"
+  },
+  {
+    "title": "Câmera Lenta",
+    "artist": "Krawk",
+    "filename": "Câmera Lenta.mp3"
+  },
+  {
+    "title": "Cães",
+    "artist": "Dudu",
+    "filename": "Cães.mp3"
   },
   {
     "title": "Edson Gomes - Cão De Raça",
@@ -1340,6 +2430,26 @@
     "filename": "d1v - 1 night"
   },
   {
+    "title": "d1v - kush ballad",
+    "artist": "d1v",
+    "filename": "d1v - kush ballad.mp3"
+  },
+  {
+    "title": "d1v - leave with u",
+    "artist": "d1v",
+    "filename": "d1v - leave with u.mp3"
+  },
+  {
+    "title": "d1v - the things u say",
+    "artist": "d1v",
+    "filename": "d1v - the things u say.mp3"
+  },
+  {
+    "title": "DaBaby – ROCKSTAR",
+    "artist": "DaBaby",
+    "filename": "DaBaby – ROCKSTAR"
+  },
+  {
     "title": "Daddy Kall & Latino - Dança Kuduro",
     "artist": "Daddy Kall & Latino",
     "filename": "Daddy Kall Latino - Dança Kuduro.mp3"
@@ -1350,9 +2460,24 @@
     "filename": "Dae Dae - Woke Up.mp3"
   },
   {
+    "title": "daine - bloody knees",
+    "artist": "Daine",
+    "filename": "daine - bloody knees.mp3"
+  },
+  {
     "title": "Ryu, The Runner - DAMN!",
     "artist": "Ryu, the Runner",
     "filename": "DAMN.mp3"
+  },
+  {
+    "title": "Bonde do Maluco - Dancando Ventre / Eu Vou Morrer / Paredao",
+    "artist": "Bonde do Maluco",
+    "filename": "Dancando Ventre Eu Vou Morrer Paredao.mp3"
+  },
+  {
+    "title": "dante red - movinglikeazombie umru remix",
+    "artist": "dante red",
+    "filename": "dante red - movinglikeazombie umru remix1.mp3"
   },
   {
     "title": "dante red - movinglikeazombie:) +odece & karasu",
@@ -1363,6 +2488,11 @@
     "title": "dante red - #UDontWantToDie",
     "artist": "dante red w/ SEBii + Fraxiom",
     "filename": "dante red - UDontWantToDie.mp3"
+  },
+  {
+    "title": "DAQUI, EU VOU",
+    "artist": "Big Rush",
+    "filename": "DAQUI EU VOU.mp3"
   },
   {
     "title": "David Guetta - Sexy B*itch",
@@ -1380,6 +2510,31 @@
     "filename": "davis - i keep listening to cars crash.mp3"
   },
   {
+    "title": "De borest - Kuase Nada",
+    "artist": "Canal do Reggae",
+    "filename": "De borest - Kuase Nada.mp3"
+  },
+  {
+    "title": "Sacha Online - death metal",
+    "artist": "Sacha Online",
+    "filename": "death metal.mp3"
+  },
+  {
+    "title": "december :*: deko",
+    "artist": "Deko",
+    "filename": "december deko.mp3"
+  },
+  {
+    "title": "Deixa Baixo - Dan Lellis",
+    "artist": "Misael",
+    "filename": "Deixa Baixo - Dan Lellis"
+  },
+  {
+    "title": "Big Rush - Deixar de Seguir",
+    "artist": "Big Rush",
+    "filename": "Deixar de Seguir.mp3"
+  },
+  {
     "title": "Deixe Brilhar - Azzy, Trunks, Dudu e Noventa",
     "artist": "ALTAMIRA TV",
     "filename": "Deixe Brilhar - Azzy Trunks Dudu e Noventa"
@@ -1390,14 +2545,79 @@
     "filename": "deko times we had ̩̩̥͙˚̩̥̩̥̩̩͙‧͙ •̩̩͙•̩̩͙˚.mp3"
   },
   {
+    "title": "deko - breathe ~~",
+    "artist": "deko",
+    "filename": "deko - breathe.mp3"
+  },
+  {
+    "title": "deko - aurora beam palace ‧̍̊˙˚˙",
+    "artist": "Deko",
+    "filename": "deko - aurora beam palace ‧̍̊˙˚˙.mp3"
+  },
+  {
     "title": "Deko - Crystal",
     "artist": "Deko",
     "filename": "Deko - Crystal.mp3"
   },
   {
+    "title": "deko - fuck your feelings",
+    "artist": "Deko",
+    "filename": "deko - fuck your feelings"
+  },
+  {
+    "title": "deko - gucci store",
+    "artist": "Deko",
+    "filename": "deko - gucci store.mp3"
+  },
+  {
+    "title": "deko - i called you sober",
+    "artist": "Deko",
+    "filename": "deko - i called you sober.mp3"
+  },
+  {
     "title": "deko - kitty purry .*+",
     "artist": "Deko",
     "filename": "deko - kitty purry ..mp3"
+  },
+  {
+    "title": "deko - mythbusters",
+    "artist": "Deko",
+    "filename": "deko - mythbusters"
+  },
+  {
+    "title": "deko - NEVER FELT LIKE THIS",
+    "artist": "deko",
+    "filename": "deko - NEVER FELT LIKE THIS.mp3"
+  },
+  {
+    "title": "deko - PHANTASY STAR ONLINE",
+    "artist": "Deko",
+    "filename": "deko - PHANTASY STAR ONLINE"
+  },
+  {
+    "title": "deko - pressure!",
+    "artist": "Deko",
+    "filename": "deko - pressure.mp3"
+  },
+  {
+    "title": "Deko - Sabertooth",
+    "artist": "Deko",
+    "filename": "Deko - Sabertooth"
+  },
+  {
+    "title": "deko - Thanos Freestyle",
+    "artist": "Deko",
+    "filename": "deko - Thanos Freestyle.mp3"
+  },
+  {
+    "title": "deko - valentine nebula 777",
+    "artist": "Deko",
+    "filename": "deko - valentine nebula 777"
+  },
+  {
+    "title": "delta - nunca mais",
+    "artist": "twikipedia",
+    "filename": "delta - nunca mais.mp3"
   },
   {
     "title": "demxntia & kaiyko - gave it my all",
@@ -1410,9 +2630,29 @@
     "filename": "Dennis - Vamos Beber"
   },
   {
+    "title": "DENZEL WASHINGTON",
+    "artist": "Big Rush",
+    "filename": "DENZEL WASHINGTON.mp3"
+  },
+  {
+    "title": "Depois do Baile",
+    "artist": "DENNIS, Veigh, WIU, MC PH, Budah, Djonga, Mc Don Juan, Hungria, Orochi, Azzy",
+    "filename": "DEPOIS DO BAILE - Dennis Azzy Budah Djonga Hungria MC Don Juan MC PH Orochi Veigh e Wiu.mp3"
+  },
+  {
+    "title": "vtze archive - DEPOIS DO PHONK",
+    "artist": "vtze archive",
+    "filename": "DEPOIS DO PHONK.mp3"
+  },
+  {
     "title": "Derrick Milano - Play Wit It",
     "artist": "hyyerr education",
     "filename": "Derrick Milano - Play Wit It.mp3"
+  },
+  {
+    "title": "Descaso",
+    "artist": "Lil Ví - Topic",
+    "filename": "Descaso.mp3"
   },
   {
     "title": "Claudinho & Buchecha - Destino",
@@ -1425,9 +2665,29 @@
     "filename": "detonado.mp3"
   },
   {
+    "title": "Dfideliz - Obrigado, Mãe.",
+    "artist": "Dfideliz",
+    "filename": "Dfideliz - Obrigado Mãe..mp3"
+  },
+  {
+    "title": "Dfideliz - PROGRESSO",
+    "artist": "Dfideliz",
+    "filename": "Dfideliz - PROGRESSO.mp3"
+  },
+  {
     "title": "Dfideliz",
     "artist": "Dfideliz",
     "filename": "Dfideliz"
+  },
+  {
+    "title": "Diamante",
+    "artist": "NGC Daddy Borges Neo BXD MC GP Oreozin MC Lugu MC PH",
+    "filename": "Diamante"
+  },
+  {
+    "title": "Charlie Brown Jr. - Dias De Luta, Dias De Gloria",
+    "artist": "Charlie Brown Jr.",
+    "filename": "Dias De Luta Dias De Gloria.mp3"
   },
   {
     "title": "Dig Bitch - Rich Ds, Brandão85, Leviano e Alee",
@@ -1438,6 +2698,11 @@
     "title": "Yung Buda - Digivice",
     "artist": "Yung Buda · Nicolas Kusanagi · D$ Luqi",
     "filename": "Digivice.mp3"
+  },
+  {
+    "title": "Gaal - Diputo",
+    "artist": "Gaal",
+    "filename": "diputo.mp3"
   },
   {
     "title": "Claudinho & Buchecha - Diretriz",
@@ -1460,9 +2725,19 @@
     "filename": "Dj FF Level 2 Remix.mp3"
   },
   {
-    "title": "Dj Khaled - I'm The One",
+    "title": "Dj Khaled - Im The One",
     "artist": "Justin Bieber, Quavo, Dj Khaled",
     "filename": "Dj Khaled - Im The One"
+  },
+  {
+    "title": "Djavan - Eu Te Devoro",
+    "artist": "DjavanVEVO",
+    "filename": "Djavan - Eu Te Devoro.mp3"
+  },
+  {
+    "title": "Djavan - Um Amor Puro",
+    "artist": "DjavanVEVO",
+    "filename": "Djavan - Um Amor Puro.mp3"
   },
   {
     "title": "Twikipedia - dna",
@@ -1470,14 +2745,29 @@
     "filename": "dna.mp3"
   },
   {
+    "title": "Big Rush - Doces & Travessuras",
+    "artist": "Big Rush",
+    "filename": "Doces Travessuras.mp3"
+  },
+  {
     "title": "virgingod - Dojo",
     "artist": "virgingod",
     "filename": "Dojo.mp3"
   },
   {
+    "title": "Doll",
+    "artist": "Blackwinterwells",
+    "filename": "Doll.mp3"
+  },
+  {
     "title": "Domingo - Leozin, Kweller, Jaya Luuck, Leo Rocatto",
     "artist": "Leozin, Kweller, Jaya Luuck, Leo Rocatto e Tchellin",
     "filename": "Domingo - Leozin Kweller Jaya Luuck Leo Rocatto.mp3"
+  },
+  {
+    "title": "DomLaike - Posturadão",
+    "artist": "DomLaike",
+    "filename": "DomLaike - Posturadão"
   },
   {
     "title": "Don Toliver - No Idea",
@@ -1495,9 +2785,19 @@
     "filename": "DOSE - Kweller Leozin.mp3"
   },
   {
+    "title": "Dr. Dre - The Next Episode",
+    "artist": "San Holo",
+    "filename": "Dr. Dre - The Next Episode.mp3"
+  },
+  {
     "title": "Dragon Ball GT - Abertura em Português - Sorr",
     "artist": "Dragon Ball GT",
     "filename": "Dragon Ball GT - Abertura em Português - Sorr.mp3"
+  },
+  {
+    "title": "Drake - Passionfruit",
+    "artist": "Drake",
+    "filename": "Drake - Passionfruit.mp3"
   },
   {
     "title": "Drawn To The Sky - I Sea Sirens",
@@ -1525,6 +2825,11 @@
     "filename": "drippin so pretty- Dior.mp3"
   },
   {
+    "title": "Russ - Drives",
+    "artist": "Russ",
+    "filename": "Drives.mp3"
+  },
+  {
     "title": "Yung buda7k - Drivesafe",
     "artist": "Yung buda",
     "filename": "Drivesafe.mp3"
@@ -1535,9 +2840,29 @@
     "filename": "Drizzy Burn-O - Pintura.mp3"
   },
   {
+    "title": "Maple - drop dead",
+    "artist": "Maple",
+    "filename": "drop dead.mp3"
+  },
+  {
+    "title": "droptop cedes",
+    "artist": "93FEETOFSMOKE & cxldface",
+    "filename": "droptop cedes.mp3"
+  },
+  {
     "title": "Hungria Hip Hop - Dubai",
     "artist": "Hungria Hip Hop",
     "filename": "Dubai - Hungria Hip Hop.mp3"
+  },
+  {
+    "title": "Dudu - alô amor",
+    "artist": "Dudu Mc",
+    "filename": "Dudu - alô amor.mp3"
+  },
+  {
+    "title": "Dudu - Patrocínio",
+    "artist": "Dudu",
+    "filename": "Dudu - Patrocínio"
   },
   {
     "title": "Dudu - WTF",
@@ -1590,6 +2915,21 @@
     "filename": "Dudu Leozin Tibery – All In.mp3"
   },
   {
+    "title": "Dudu, Mello - Seja Pra Mim",
+    "artist": "Dudu, Mello",
+    "filename": "Dudu Mello - Seja Pra Mim.mp3"
+  },
+  {
+    "title": "Dudu, Moyz - Cheio de Marra",
+    "artist": "Dudu, Moyz",
+    "filename": "Dudu Moyz - Cheio de Marra.mp3"
+  },
+  {
+    "title": "Dudu, Moyz - Olhos de Rubi",
+    "artist": "Dudu, Moyz",
+    "filename": "Dudu Moyz - Olhos de Rubi.mp3"
+  },
+  {
     "title": "Dudu, Nolly - Popstar",
     "artist": "Dudu, Nolly",
     "filename": "Dudu Nolly - Popstar.mp3"
@@ -1608,6 +2948,41 @@
     "title": "Dudu, Yunk Vino, Felipe Artioli - Baby Girl",
     "artist": "Dudu, Yunk Vino, Felipe Artioli",
     "filename": "Dudu Yunk Vino Felipe Artioli - Baby Girl 1.mp3"
+  },
+  {
+    "title": "Duquesa - Purple Rain",
+    "artist": "Duquesa",
+    "filename": "Duquesa - Purple Rain"
+  },
+  {
+    "title": "DUZZ - PATRÍCIOS",
+    "artist": "DUZZ",
+    "filename": "DUZZ - PATRÍCIOS.mp3"
+  },
+  {
+    "title": "D$ Luqi - Amava nada",
+    "artist": "D$ Luqi",
+    "filename": "D Luqi - Amava nada.mp3"
+  },
+  {
+    "title": "D$ Luqi - Bem-vindo à Seita",
+    "artist": "D$ Luqi",
+    "filename": "D Luqi - Bem-vindo à Seita.mp3"
+  },
+  {
+    "title": "D$ Luqi - Cabelo azul e rosa",
+    "artist": "D$ Luqi",
+    "filename": "D Luqi - Cabelo azul e rosa.mp3"
+  },
+  {
+    "title": "D$ Luqi - Esta ação terá consequências",
+    "artist": "D$ Luqi",
+    "filename": "D Luqi - Esta ação terá consequências.mp3"
+  },
+  {
+    "title": "D$ Luqi - Você sabe que comigo é melhor",
+    "artist": "D$ Luqi",
+    "filename": "D Luqi - Você sabe que comigo é melhor.mp3"
   },
   {
     "title": "D$ Luqi - É uma pena",
@@ -1680,9 +3055,34 @@
     "filename": "EEYUH.mp3"
   },
   {
+    "title": "EEYUH! X FLUXXWAVE",
+    "artist": "Irokz",
+    "filename": "EEYUH X FLUXXWAVE.mp3"
+  },
+  {
+    "title": "Effie - After high",
+    "artist": "Effie",
+    "filename": "Effie - After high.mp3"
+  },
+  {
+    "title": "Effie - Do or Die",
+    "artist": "Effie",
+    "filename": "Effie - Do or Die.mp3"
+  },
+  {
     "title": "Effie - Over w/ d1v",
     "artist": "Effie w/ d1v",
     "filename": "Effie - Over w d1v.mp3"
+  },
+  {
+    "title": "Effie - Highway",
+    "artist": "Effie",
+    "filename": "Effie-Highway.mp3"
+  },
+  {
+    "title": "Ela Quer Fumar",
+    "artist": "Dudu",
+    "filename": "Ela Quer Fumar.mp3"
   },
   {
     "title": "Ellie Goulding & Juice WRLD - Hate Me",
@@ -1695,6 +3095,21 @@
     "filename": "elysian - rainbow road w virgingod.mp3"
   },
   {
+    "title": "Eminem - The Real Slim Shady",
+    "artist": "Eminem",
+    "filename": "Eminem - The Real Slim Shady.mp3"
+  },
+  {
+    "title": "emotionals - always on my mind",
+    "artist": "emotionals",
+    "filename": "emotionals - always on my mind.mp3"
+  },
+  {
+    "title": "Anderson Neiff - Empina Esse Cachorro Vira Lata",
+    "artist": "Anderson Neiff",
+    "filename": "Empina Esse Cachorro Vira Lata.mp3"
+  },
+  {
     "title": "prkr blu - ENEMYY",
     "artist": "prkr blu",
     "filename": "ENEMYY.mp3"
@@ -1705,14 +3120,29 @@
     "filename": "Energia.mp3"
   },
   {
+    "title": "Engenheiros Do Hawaii - Era Um Garoto Que Como Eu Amava Os Beatles E Os Rolling Stones",
+    "artist": "Engenheiros Do Hawaii",
+    "filename": "Engenheiros Do Hawaii - Era Um Garoto Que Como Eu Amava Os Beatles E Os Rolling Stones.mp3"
+  },
+  {
     "title": "Engenheiros Do Hawaii - Infinita Highway",
     "artist": "EngenheirosVEVO",
     "filename": "Engenheiros Do Hawaii - Infinita Highway.mp3"
   },
   {
+    "title": "Entre Linhas - MELHORIA",
+    "artist": "Entre linhas",
+    "filename": "Entre Linhas - MELHORIA 1.mp3"
+  },
+  {
     "title": "Entre Linhas x Leozin x Thiago - NORMAL",
     "artist": "Entre Linhas",
     "filename": "Entre Linhas x Leozin x Thiago - NORMAL"
+  },
+  {
+    "title": "virgingod - entrosa não",
+    "artist": "virgingod",
+    "filename": "entrosa não.mp3"
   },
   {
     "title": "Enzo Cello - Atento",
@@ -1725,9 +3155,29 @@
     "filename": "ericdoa - 2008 AMV.mp3"
   },
   {
+    "title": "ericdoa - Falling from heaven",
+    "artist": "ericdoa",
+    "filename": "ericdoa - Falling from heaven.mp3"
+  },
+  {
+    "title": "ericdoa - fantasize",
+    "artist": "ericdoa",
+    "filename": "ericdoa - fantasize.mp3"
+  },
+  {
+    "title": "ericdoa - fool4love",
+    "artist": "ericdoa",
+    "filename": "ericdoa - fool4love.mp3"
+  },
+  {
     "title": "ericdoa - I Can Do Anything",
     "artist": "ericdoa",
     "filename": "ericdoa - I Can Do Anything.mp3"
+  },
+  {
+    "title": "ericdoa - likewise",
+    "artist": "ericdoa",
+    "filename": "ericdoa - likewise.mp3"
   },
   {
     "title": "ericdoa - pain n b",
@@ -1740,14 +3190,64 @@
     "filename": "ericdoa - sad4whattt.mp3"
   },
   {
-    "title": "Ericdoa- # ThemThangsThanging'",
+    "title": "Ericdoa- # ThemThangsThanging",
     "artist": "ericdoa",
     "filename": "Ericdoa- ThemThangsThanging.mp3"
+  },
+  {
+    "title": "ero808 - RUNAWAY",
+    "artist": "ero808",
+    "filename": "ero808 - RUNAWAY.mp3"
+  },
+  {
+    "title": "Esqueceu seu brinco",
+    "artist": "Aka Rasta",
+    "filename": "Esqueceu seu brinco.mp3"
+  },
+  {
+    "title": "Big Rush - Esqueci que te esqueci",
+    "artist": "Big Rush",
+    "filename": "Esqueci que te esqueci.mp3"
+  },
+  {
+    "title": "Deko - Ethereal Sakura",
+    "artist": "Deko",
+    "filename": "Ethereal Sakura.mp3"
+  },
+  {
+    "title": "Misael - Eu e Ela",
+    "artist": "Misael",
+    "filename": "Eu e Ela.mp3"
+  },
+  {
+    "title": "Big Rush - Eu posso ser mais",
+    "artist": "Big Rush",
+    "filename": "Eu posso ser mais.mp3"
+  },
+  {
+    "title": "Eu sou de todo mundo - Bonde Tesão",
+    "artist": "Bonde Tesão",
+    "filename": "Eu sou de todo mundo - Bonde Tesão.mp3"
+  },
+  {
+    "title": "Eurotrip 3",
+    "artist": "Krawk",
+    "filename": "Eurotrip 3.mp3"
+  },
+  {
+    "title": "Exagerado",
+    "artist": "Cazuza",
+    "filename": "Exagerado.mp3"
   },
   {
     "title": "blackwinterwells - exe",
     "artist": "blackwinterwells",
     "filename": "exe.mp3"
+  },
+  {
+    "title": "F8 zera",
+    "artist": "Krawk",
+    "filename": "F8 zera.mp3"
   },
   {
     "title": "virgingod - Fada",
@@ -1760,7 +3260,7 @@
     "filename": "fairy song.mp3"
   },
   {
-    "title": "familypet - I'll live forever",
+    "title": "familypet - Ill live forever",
     "artist": "familypet",
     "filename": "familypet - Ill live forever.mp3"
   },
@@ -1770,24 +3270,59 @@
     "filename": "familypet - payphone"
   },
   {
+    "title": "virgingod - Fantasia Final",
+    "artist": "virgingod",
+    "filename": "Fantasia Final.mp3"
+  },
+  {
+    "title": "Legião Urbana - Faroeste Caboclo",
+    "artist": "Legião Urbana",
+    "filename": "Faroeste Caboclo.mp3"
+  },
+  {
     "title": "Fast Type Beat Trap/Rap Instrumental Free Like Me",
     "artist": "Beast Inside Beats",
     "filename": "Fast Type Beat TrapRap Instrumental Free Like Me.mp3"
   },
   {
-    "title": "fats'e - mybad w/ blackwinterwells",
-    "artist": "fats'e w/ blackwinterwells",
+    "title": "fatse - mybad w/ blackwinterwells",
+    "artist": "fatse w/ blackwinterwells",
     "filename": "fatse - mybad w blackwinterwells.mp3"
   },
   {
-    "title": "fats'e - OLD ME",
-    "artist": "fats'e",
+    "title": "fatse - OLD ME",
+    "artist": "fatse",
     "filename": "fatse - OLD ME"
   },
   {
-    "title": "fats’e x lil narnia x anxiety attacks! - another night on the edge",
-    "artist": "fats’e x lil narnia x anxiety attacks",
+    "title": "fatse x lil narnia x anxiety attacks! - another night on the edge",
+    "artist": "fatse x lil narnia x anxiety attacks",
     "filename": "fatse x lil narnia x anxiety attacks - another night on the edge.mp3"
+  },
+  {
+    "title": "Volp - Favorita",
+    "artist": "Volp",
+    "filename": "Favorita.mp3"
+  },
+  {
+    "title": "Feel It",
+    "artist": "kiryano",
+    "filename": "Feel It.mp3"
+  },
+  {
+    "title": "feel the way i feel",
+    "artist": "familypet",
+    "filename": "feel the way i feel.mp3"
+  },
+  {
+    "title": "Feeling yummy x righteously",
+    "artist": "aurora",
+    "filename": "Feeling yummy x righteously.mp3"
+  },
+  {
+    "title": "VESUV - FEELINGS",
+    "artist": "VESUV",
+    "filename": "FEELINGS.mp3"
   },
   {
     "title": "Claudinho & Buchecha - Feitceira",
@@ -1803,6 +3338,11 @@
     "title": "fijimar - i know",
     "artist": "fijimar",
     "filename": "fijimar - i know.mp3"
+  },
+  {
+    "title": "Filho da Noite",
+    "artist": "Dudu",
+    "filename": "Filho da Noite.mp3"
   },
   {
     "title": "Filipe Ret ILUSÃO ⏳",
@@ -1830,6 +3370,11 @@
     "filename": "Fingir que não existe amor.mp3"
   },
   {
+    "title": "FIRMA",
+    "artist": "Big Rush",
+    "filename": "FIRMA.mp3"
+  },
+  {
     "title": "Fixupboy - Problems",
     "artist": "Promoting Sounds",
     "filename": "Fixupboy - Problems.mp3"
@@ -1843,6 +3388,11 @@
     "title": "Flipp Dinero - No No No",
     "artist": "Flipp Dinero",
     "filename": "Flipp Dinero - No No No"
+  },
+  {
+    "title": "Flo Rida - Good Feeling",
+    "artist": "Flo Rida",
+    "filename": "Flo Rida - Good Feeling.mp3"
   },
   {
     "title": "FLORENCE - CANDY CRUSH - @florenceindigo",
@@ -1860,6 +3410,11 @@
     "filename": "FLORENCE - FINO.mp3"
   },
   {
+    "title": "FLORENCE - MAIS ALEM",
+    "artist": "Florence Indigo",
+    "filename": "FLORENCE - MAIS ALEM.mp3"
+  },
+  {
     "title": "Florence - MANA",
     "artist": "Florence Indigo",
     "filename": "Florence - MANA.mp3"
@@ -1875,6 +3430,26 @@
     "filename": "FLORENCE - PRA FRENTE - florenceindigo.mp3"
   },
   {
+    "title": "FLORENCE - QUEIMA TIPO BECK",
+    "artist": "Florence Indigo",
+    "filename": "FLORENCE - QUEIMA TIPO BECK"
+  },
+  {
+    "title": "FLORENCE - SE A RUA FOSSE MINHA",
+    "artist": "Florence Indigo",
+    "filename": "FLORENCE - SE A RUA FOSSE MINHA"
+  },
+  {
+    "title": "FLORENCE - SLIME SEASON - @",
+    "artist": "Florence Indigo",
+    "filename": "FLORENCE - SLIME SEASON"
+  },
+  {
+    "title": "FLORENCE - STARSTRUCK",
+    "artist": "Florence Indigo",
+    "filename": "FLORENCE - STARSTRUCK"
+  },
+  {
     "title": "FLORENCE - XIAOMI - @florenceindigo",
     "artist": "Florence Indigo",
     "filename": "FLORENCE - XIAOMI - florenceindigo.mp3"
@@ -1885,9 +3460,19 @@
     "filename": "FLORENCE - ZIKA"
   },
   {
+    "title": "Releases - Fluxxwave",
+    "artist": "Releases",
+    "filename": "Fluxxwave.mp3"
+  },
+  {
     "title": "Sacha Online - fly away",
     "artist": "Sacha Online",
     "filename": "fly away.mp3"
+  },
+  {
+    "title": "Maple - FLYFARAWAY!",
+    "artist": "Maple",
+    "filename": "FLYFARAWAY.mp3"
   },
   {
     "title": "Kweller x Enzo Cello - Fogo Todo Dia",
@@ -1895,14 +3480,54 @@
     "filename": "Fogo Todo Dia.mp3"
   },
   {
+    "title": "Shinigami - free 4 all",
+    "artist": "Shinigami",
+    "filename": "free 4 all.mp3"
+  },
+  {
+    "title": "Sacha Online - fright night",
+    "artist": "Sacha Online",
+    "filename": "fright night.mp3"
+  },
+  {
+    "title": "Virgingod - frio em SP",
+    "artist": "Virgingod",
+    "filename": "frio em SP.mp3"
+  },
+  {
     "title": "Froid - Gucci & Chanel VIDEOCLIPE",
     "artist": "Froid",
     "filename": "Froid - Gucci Chanel VIDEOCLIPE.mp3"
   },
   {
+    "title": "Fujifilm",
+    "artist": "Franco The Sir!",
+    "filename": "Fujifilm.mp3"
+  },
+  {
     "title": "funeral - trying AMV",
     "artist": "funeral",
     "filename": "funeral - trying AMV.mp3"
+  },
+  {
+    "title": "FUNK DO COREANO DO TTK",
+    "artist": "CLUB DA DZ7 - animada",
+    "filename": "FUNK DO COREANO DO TTK -.mp3"
+  },
+  {
+    "title": "Future - Crushed Up",
+    "artist": "FutureVEVO",
+    "filename": "Future - Crushed Up.mp3"
+  },
+  {
+    "title": "Future - Mask Off",
+    "artist": "Future",
+    "filename": "Future - Mask Off.mp3"
+  },
+  {
+    "title": "future victim",
+    "artist": "Sacha Online",
+    "filename": "future victim.mp3"
   },
   {
     "title": "Future, Juice WRLD - Fine China",
@@ -1925,6 +3550,16 @@
     "filename": "G Moore - Dash.mp3"
   },
   {
+    "title": "G Sounds - adventure time 2",
+    "artist": "G Sounds",
+    "filename": "G Sounds - adventure time 2.mp3"
+  },
+  {
+    "title": "G Sounds - adventure time",
+    "artist": "G Sounds",
+    "filename": "G Sounds - adventure time.mp3"
+  },
+  {
     "title": "G Sounds - apple and pear",
     "artist": "G Sounds",
     "filename": "G Sounds - apple and pear.mp3"
@@ -1945,6 +3580,11 @@
     "filename": "G Sounds - chillin in hanói.mp3"
   },
   {
+    "title": "G Sounds - constellations",
+    "artist": "G Sounds",
+    "filename": "G Sounds - constellations.mp3"
+  },
+  {
     "title": "G Sounds - cresselia 2",
     "artist": "G Sounds",
     "filename": "G Sounds - cresselia 2.mp3"
@@ -1953,6 +3593,11 @@
     "title": "G Sounds - diamonds",
     "artist": "G Sounds",
     "filename": "G Sounds - diamonds.mp3"
+  },
+  {
+    "title": "G Sounds - final fantasy",
+    "artist": "G Sounds",
+    "filename": "G Sounds - final fantasy.mp3"
   },
   {
     "title": "G Sounds - firefly",
@@ -1985,9 +3630,19 @@
     "filename": "G Sounds - laboon.mp3"
   },
   {
+    "title": "G Sounds - levitating",
+    "artist": "G Sounds",
+    "filename": "G Sounds - levitating.mp3"
+  },
+  {
     "title": "G Sounds - life intro",
     "artist": "G Sounds",
     "filename": "G Sounds - life intro.mp3"
+  },
+  {
+    "title": "G Sounds - love in your eyes",
+    "artist": "G Sounds",
+    "filename": "G Sounds - love in your eyes.mp3"
   },
   {
     "title": "G Sounds - lullaby",
@@ -2035,14 +3690,34 @@
     "filename": "G Sounds - nostalgic piano.mp3"
   },
   {
+    "title": "G Sounds - oceanside",
+    "artist": "G Sounds",
+    "filename": "G Sounds - oceanside.mp3"
+  },
+  {
     "title": "G Sounds - owl city",
     "artist": "G Sounds",
     "filename": "G Sounds - owl city.mp3"
   },
   {
+    "title": "G Sounds - peaceful song",
+    "artist": "G Sounds",
+    "filename": "G Sounds - peaceful song.mp3"
+  },
+  {
     "title": "G Sounds - pixels",
     "artist": "G Sounds",
     "filename": "G Sounds - pixels.mp3"
+  },
+  {
+    "title": "G Sounds - romance garbage lofi 2",
+    "artist": "G Sounds",
+    "filename": "G Sounds - romance garbage lofi 2.mp3"
+  },
+  {
+    "title": "G Sounds - romance garbage lofi",
+    "artist": "G Sounds",
+    "filename": "G Sounds - romance garbage lofi.mp3"
   },
   {
     "title": "G Sounds - sample this ᐸ3",
@@ -2060,9 +3735,24 @@
     "filename": "G Sounds - smooth song.mp3"
   },
   {
+    "title": "G Sounds - super chill",
+    "artist": "G Sounds",
+    "filename": "G Sounds - super chill.mp3"
+  },
+  {
     "title": "G Sounds - sweet guitar",
     "artist": "G Sounds",
     "filename": "G Sounds - sweet guitar.mp3"
+  },
+  {
+    "title": "G Sounds - sweet melodic",
+    "artist": "G Sounds",
+    "filename": "G Sounds - sweet melodic.mp3"
+  },
+  {
+    "title": "G Sounds - wet hands",
+    "artist": "G Sounds",
+    "filename": "G Sounds - wet hands.mp3"
   },
   {
     "title": "G Sounds - your name",
@@ -2083,6 +3773,16 @@
     "title": "G Sounds & lotus leaf - dreaming",
     "artist": "G Sounds & lotus leaf",
     "filename": "G Sounds lotus leaf - dreaming.mp3"
+  },
+  {
+    "title": "G.A - Contagem",
+    "artist": "G.A",
+    "filename": "G.A - Contagem"
+  },
+  {
+    "title": "Gaab e Chris - O que você pensa de mim",
+    "artist": "Pineapple",
+    "filename": "Gaab e Chris - O que você pensa de mim.mp3"
   },
   {
     "title": "Gaal - baby pink",
@@ -2110,6 +3810,21 @@
     "filename": "GALA - Freed from desire.mp3"
   },
   {
+    "title": "Gapes - Espelho Meu",
+    "artist": "Nineverso",
+    "filename": "Gapes - Espelho Meu.mp3"
+  },
+  {
+    "title": "Gapes - Peste Negra",
+    "artist": "Nineverso",
+    "filename": "Gapes - Peste Negra.mp3"
+  },
+  {
+    "title": "Gapes - Se você ficar comigo",
+    "artist": "Gapes",
+    "filename": "Gapes - Se você ficar comigo.mp3"
+  },
+  {
     "title": "Gapes x Fallkee - Bad Songs",
     "artist": "Gapes x Fallkee",
     "filename": "Gapes x Fallkee - Bad Songs.mp3"
@@ -2125,9 +3840,44 @@
     "filename": "garden.mp3"
   },
   {
+    "title": "Gareth Dunlop - Trick of the Moonlight Lyric Video",
+    "artist": "Moraine Music Group",
+    "filename": "Gareth Dunlop - Trick of the Moonlight Lyric Video.mp3"
+  },
+  {
+    "title": "Gata Linda Morena",
+    "artist": "PCN Boladão",
+    "filename": "Gata Linda Morena.mp3"
+  },
+  {
+    "title": "Virgingod - Gengar Freestyle",
+    "artist": "Virgingod",
+    "filename": "Gengar Freestyle.mp3"
+  },
+  {
     "title": "ghoul001 - I thought you were good on your own, guess not",
     "artist": "ghoul001",
     "filename": "ghoul001 - I thought you were good on your own guess not.mp3"
+  },
+  {
+    "title": "Gilsons - Love Love",
+    "artist": "Gilsons Oficial",
+    "filename": "Gilsons - Love Love.mp3"
+  },
+  {
+    "title": "Gilsons - Proposta",
+    "artist": "Gilsons Oficial",
+    "filename": "Gilsons - Proposta.mp3"
+  },
+  {
+    "title": "girl in red - we fell in love in october",
+    "artist": "girl in red",
+    "filename": "girl in red - we fell in love in october.mp3"
+  },
+  {
+    "title": "GIULIA BE - matching tattoo",
+    "artist": "GIULIA",
+    "filename": "GIULIA BE - matching tattoo.mp3"
   },
   {
     "title": "D1v - give in",
@@ -2155,7 +3905,7 @@
     "filename": "Global Dan - Deserve it Official Musi.mp3"
   },
   {
-    "title": "Global Dan - Don't Worry",
+    "title": "Global Dan - Dont Worry",
     "artist": "Global Dan",
     "filename": "Global Dan - Dont Worry.mp3"
   },
@@ -2168,6 +3918,16 @@
     "title": "Global Dan - Flossin",
     "artist": "Global Dan",
     "filename": "Global Dan - Flossin"
+  },
+  {
+    "title": "Global Dan - for a reason",
+    "artist": "Global Dan",
+    "filename": "Global Dan - for a reason.mp3"
+  },
+  {
+    "title": "Global Dan - Had me at goodbye",
+    "artist": "Global Dan",
+    "filename": "Global Dan - Had me at goodbye.mp3"
   },
   {
     "title": "Global Dan - Iphone",
@@ -2200,6 +3960,16 @@
     "filename": "Global Dan - Stunna.mp3"
   },
   {
+    "title": "Global Dan - Too friendly",
+    "artist": "Global Dan",
+    "filename": "Global Dan - Too friendly.mp3"
+  },
+  {
+    "title": "Global Dan - Toss it back",
+    "artist": "Global Dan",
+    "filename": "Global Dan - Toss it back.mp3"
+  },
+  {
     "title": "Global Dan - we lit",
     "artist": "Global Dan",
     "filename": "Global Dan - we lit"
@@ -2230,6 +4000,21 @@
     "filename": "GOBLIN.mp3"
   },
   {
+    "title": "GPT",
+    "artist": "Big Rush",
+    "filename": "GPT.mp3"
+  },
+  {
+    "title": "Grandee - Sour",
+    "artist": "grandee",
+    "filename": "Grandee - Sour.mp3"
+  },
+  {
+    "title": "green lipstick",
+    "artist": "i9bonsai",
+    "filename": "green lipstick.mp3"
+  },
+  {
     "title": "Greg Ferreira - BLESSED",
     "artist": "Greg Ferreira",
     "filename": "Greg Ferreira - BLESSED.mp3"
@@ -2245,6 +4030,16 @@
     "filename": "GS - Subtraio"
   },
   {
+    "title": "Guapdad 4000 Bitch Im On",
+    "artist": "WORLDSTARHIPHOP",
+    "filename": "Guapdad 4000 Bitch Im On"
+  },
+  {
+    "title": "guardin - boy on the internet",
+    "artist": "you are safe here",
+    "filename": "guardin - boy on the internet"
+  },
+  {
     "title": "guardin - willow ave",
     "artist": "guardin",
     "filename": "guardin - willow ave.mp3"
@@ -2253,6 +4048,51 @@
     "title": "guccihighwaters - expectations",
     "artist": "guccihighwaters",
     "filename": "guccihighwaters - expectations.mp3"
+  },
+  {
+    "title": "guccihighwaters - straight jacket",
+    "artist": "guccihighwaters",
+    "filename": "guccihighwaters - straight jacket 1.mp3"
+  },
+  {
+    "title": "GUHHL - Cansei De Ser Bandido @SHOTBYBZK",
+    "artist": "GUHHL",
+    "filename": "GUHHL - Cansei De Ser Bandido SHOTBYBZK.mp3"
+  },
+  {
+    "title": "Gunna - fukumean",
+    "artist": "Gunna",
+    "filename": "Gunna - fukumean.mp3"
+  },
+  {
+    "title": "Gunna - one of wun",
+    "artist": "Gunna",
+    "filename": "Gunna - one of wun.mp3"
+  },
+  {
+    "title": "Gët Busy",
+    "artist": "Yeat",
+    "filename": "Gët Busy.mp3"
+  },
+  {
+    "title": "Haikaiss - Sem Graça",
+    "artist": "HAIKAISS",
+    "filename": "Haikaiss - Sem Graça.mp3"
+  },
+  {
+    "title": "blackwinterwells - Hallowed Ground",
+    "artist": "blackwinterwells",
+    "filename": "Hallowed Ground.mp3"
+  },
+  {
+    "title": "hamilton - dead or alive",
+    "artist": "sad chɨll",
+    "filename": "hamilton - dead or alive.mp3"
+  },
+  {
+    "title": "hamilton - true love",
+    "artist": "hamilton",
+    "filename": "hamilton - true love.mp3"
   },
   {
     "title": "global dan - Handz Up",
@@ -2265,9 +4105,19 @@
     "filename": "HARRY WAS HERE - die.mp3"
   },
   {
+    "title": "Sacha Online - hate yourself",
+    "artist": "Sacha Online",
+    "filename": "hate yourself.mp3"
+  },
+  {
     "title": "hauhwii - 123",
     "artist": "hauhwii",
     "filename": "hauhwii - 123.mp3"
+  },
+  {
+    "title": "hauhwii - designer",
+    "artist": "hauhwii",
+    "filename": "hauhwii - designer.mp3"
   },
   {
     "title": "hauhwii - pieces",
@@ -2280,9 +4130,19 @@
     "filename": "Headache 1.mp3"
   },
   {
+    "title": "good gasoline - Heart in Tokyo",
+    "artist": "good gasoline",
+    "filename": "Heart in Tokyo.mp3"
+  },
+  {
     "title": "Hello Marlyy",
     "artist": "Marlay",
     "filename": "Hello Marlyy.mp3"
+  },
+  {
+    "title": "Hello",
+    "artist": "OMFG",
+    "filename": "Hello.mp3"
   },
   {
     "title": "HELLSTRVCK - Someone",
@@ -2303,6 +4163,11 @@
     "title": "Hide",
     "artist": "Juice WRLD - Topic",
     "filename": "Hide.mp3"
+  },
+  {
+    "title": "High Top Versace",
+    "artist": "Chainz - Topic",
+    "filename": "High Top Versace.mp3"
   },
   {
     "title": "Hit do Subúrbio - Cesar Mc e Xamã",
@@ -2330,9 +4195,34 @@
     "filename": "Hott Headzz So Icy"
   },
   {
+    "title": "Eminem - Houdini",
+    "artist": "Eminem",
+    "filename": "Houdini.mp3"
+  },
+  {
+    "title": "virgingod - how you doing",
+    "artist": "virgingod",
+    "filename": "how you doing.mp3"
+  },
+  {
+    "title": "Hungria - Chevette do Jacó",
+    "artist": "Hungria",
+    "filename": "Hungria - Chevette do Jacó.mp3"
+  },
+  {
+    "title": "Hungria Hip Hop - Beijo Com Trap",
+    "artist": "Hungria Hip Hop",
+    "filename": "Hungria Hip Hop - Beijo Com Trap.mp3"
+  },
+  {
     "title": "Hungria Hip Hop - Carruagem",
     "artist": "Hungria Hip Hop",
     "filename": "Hungria Hip Hop - Carruagem.mp3"
+  },
+  {
+    "title": "Hungria Hip Hop - Coração de Carro Forte",
+    "artist": "Hungria Hip Hop",
+    "filename": "Hungria Hip Hop - Coração de Carro Forte.mp3"
   },
   {
     "title": "Hungria Hip Hop - Detalhes",
@@ -2343,6 +4233,11 @@
     "title": "Hungria Hip Hop - Meu Carona",
     "artist": "Hungria Hip Hop",
     "filename": "Hungria Hip Hop - Meu Carona.mp3"
+  },
+  {
+    "title": "Hungria Hip Hop - Não Tenho Freio",
+    "artist": "Hungria Hip Hop",
+    "filename": "Hungria Hip Hop - Não Tenho Freio.mp3"
   },
   {
     "title": "Hungria Hip Hop - Não Troco",
@@ -2358,6 +4253,16 @@
     "title": "Hungria Hip Hop - Um Pedido",
     "artist": "Hungria Hip Hop",
     "filename": "Hungria Hip Hop - Um Pedido.mp3"
+  },
+  {
+    "title": "Hungria Hip Hop - Universo Particular",
+    "artist": "Hungria Hip Hop",
+    "filename": "Hungria Hip Hop - Universo Particular.mp3"
+  },
+  {
+    "title": "Hungria Hip Hop - Zorro do Asfalto",
+    "artist": "Hungria Hip Hop",
+    "filename": "Hungria Hip Hop - Zorro do Asfalto.mp3"
   },
   {
     "title": "Hungria Hip Hop e Krawk - PLAYBOY",
@@ -2395,34 +4300,44 @@
     "filename": "Hyago.mp3"
   },
   {
-    "title": "HYAGOD - ''Acende o Cigarro''",
+    "title": "HYAGOD - Acende o Cigarro",
     "artist": "HYAGOD",
     "filename": "HYAGOD - Acende o Cigarro.mp3"
   },
   {
-    "title": "HYAGOD - ''Levi'' edit by @Thiago.dzn",
+    "title": "HYAGOD - Levi edit by @Thiago.dzn",
     "artist": "HYAGOD",
     "filename": "HYAGOD - Levi edit by Thiago.dzn.mp3"
   },
   {
-    "title": "HYAGOD - ''ROLE NO GERMÂNIA / TE ENTENDO YUNG LIXO''",
+    "title": "HYAGOD - ROLE NO GERMÂNIA / TE ENTENDO YUNG LIXO",
     "artist": "HYAGOD",
     "filename": "HYAGOD - ROLE NO GERMÂNIA TE ENTENDO YUNG LIXO.mp3"
   },
   {
-    "title": "HYAGOD - ''RUÍNAS''",
+    "title": "HYAGOD - RUÍNAS",
     "artist": "HYAGOD",
     "filename": "HYAGOD - RUÍNAS.mp3"
   },
   {
-    "title": "HYAGOD - ''SAMURAI''",
+    "title": "HYAGOD - SAMURAI",
     "artist": "HYAGOD",
     "filename": "HYAGOD - SAMURAI.mp3"
   },
   {
-    "title": "HYAGOD - ''TUDO POR VOCÊ''",
+    "title": "HYAGOD - TUDO POR VOCÊ",
     "artist": "HYAGOD",
     "filename": "HYAGOD - TUDO POR VOCÊ"
+  },
+  {
+    "title": "Yung Buda - Hydrobalance",
+    "artist": "Yung Buda · Nicolas Kusanagi · D$ Luqi",
+    "filename": "Hydrobalance.mp3"
+  },
+  {
+    "title": "Deko - hyper phonics",
+    "artist": "Deko",
+    "filename": "hyper phonics.mp3"
   },
   {
     "title": "Virgingod - hyperbeam",
@@ -2435,14 +4350,44 @@
     "filename": "I Am.mp3"
   },
   {
+    "title": "Ayo & Teo - I Got You Girl",
+    "artist": "Ayo & Teo",
+    "filename": "I Got You Girl.mp3"
+  },
+  {
+    "title": "Sacha Online - i just wanna dance",
+    "artist": "Sacha Online",
+    "filename": "i just wanna dance.mp3"
+  },
+  {
     "title": "I lose :) Deadinparis x silver / Deadinparis +methboi",
     "artist": "caspr",
     "filename": "I lose ) Deadinparis x silver Deadinparis methboi.mp3"
   },
   {
+    "title": "i shouldnt have drove",
+    "artist": "familypet",
+    "filename": "i shouldnt have drove.mp3"
+  },
+  {
+    "title": "Akon - I Wanna Love You",
+    "artist": "Akon",
+    "filename": "I Wanna Love You1.mp3"
+  },
+  {
+    "title": "i9bonsai - 2harts1soul",
+    "artist": "i9bonsai",
+    "filename": "i9bonsai - 2harts1soul.mp3"
+  },
+  {
     "title": "i9bonsai - Mixd Up",
     "artist": "i9bonsai",
     "filename": "i9bonsai - Mixd Up.mp3"
+  },
+  {
+    "title": "i9bonsai - nthn",
+    "artist": "i9bonsai",
+    "filename": "i9bonsai - nthn.mp3"
   },
   {
     "title": "i9bonsai - ur name",
@@ -2453,6 +4398,16 @@
     "title": "i9bonsai :: locksmith MV ~ \\",
     "artist": "i9bonsai",
     "filename": "i9bonsai locksmith MV.mp3"
+  },
+  {
+    "title": "Iann dior - crash my whip",
+    "artist": "Iann dior",
+    "filename": "Ian dior - crash my whip.mp3"
+  },
+  {
+    "title": "iann dior - Edge of Tomorrow",
+    "artist": "iann dior",
+    "filename": "iann dior - Edge of Tomorrow.mp3"
   },
   {
     "title": "iann dior - emotions",
@@ -2475,6 +4430,11 @@
     "filename": "iann dior - Good Day.mp3"
   },
   {
+    "title": "Iann Dior - Holding On",
+    "artist": "Iann Dior",
+    "filename": "Iann Dior - Holding On 1.mp3"
+  },
+  {
     "title": "iann dior - molly",
     "artist": "iann dior",
     "filename": "iann dior - molly"
@@ -2495,6 +4455,11 @@
     "filename": "iann dior - pouring.mp3"
   },
   {
+    "title": "iann dior - Pretty Girls",
+    "artist": "Iann Dior",
+    "filename": "iann dior - Pretty Girls.mp3"
+  },
+  {
     "title": "iann dior - romance361",
     "artist": "iann dior",
     "filename": "iann dior - romance361.mp3"
@@ -2510,9 +4475,34 @@
     "filename": "iann dior - Sickness.mp3"
   },
   {
+    "title": "iann dior - stressed out",
+    "artist": "iann dior",
+    "filename": "iann dior - stressed out.mp3"
+  },
+  {
     "title": "iann dior - V12",
     "artist": "iann dior",
     "filename": "iann dior - V12"
+  },
+  {
+    "title": "iann dior - what is real",
+    "artist": "iann dior",
+    "filename": "iann dior - what is real.mp3"
+  },
+  {
+    "title": "iann dior – Feel It Coming",
+    "artist": "Iann dior",
+    "filename": "iann dior – Feel It Coming.mp3"
+  },
+  {
+    "title": "iann dior – In Too Deep",
+    "artist": "iann dior",
+    "filename": "iann dior – In Too Deep.mp3"
+  },
+  {
+    "title": "iann dior – Never Is Enough",
+    "artist": "iann dior",
+    "filename": "iann dior – Never Is Enough.mp3"
   },
   {
     "title": "iann dior – Problems",
@@ -2545,14 +4535,44 @@
     "filename": "ilytte.mp3"
   },
   {
+    "title": "Sacha Online - im just like you",
+    "artist": "Sacha Online",
+    "filename": "im just like you.mp3"
+  },
+  {
     "title": "d0llywood1 - Imgonnagetmyrevenge",
     "artist": "d0llywood1",
     "filename": "Imgonnagetmyrevenge.mp3"
   },
   {
+    "title": "roddie - IMPACIENTE",
+    "artist": "roddie",
+    "filename": "IMPACIENTE.mp3"
+  },
+  {
+    "title": "in my head",
+    "artist": "Sacha Online",
+    "filename": "in my head.mp3"
+  },
+  {
+    "title": "Virgingod - incomodo demais",
+    "artist": "Virgingod",
+    "filename": "incomodo demais.mp3"
+  },
+  {
+    "title": "Indecisão",
+    "artist": "Dudu",
+    "filename": "Indecisão.mp3"
+  },
+  {
     "title": "Yung Buda - Indigo Plateau",
     "artist": "Yung Buda · Nicolas Kusanagi · Brtt · Nikito",
     "filename": "Indigo Plateau.mp3"
+  },
+  {
+    "title": "Instagram Stories",
+    "artist": "yung van",
+    "filename": "Instagram Stories.mp3"
   },
   {
     "title": "Insônia - Tribo da Periferia part Hungria Hip Hop",
@@ -2570,6 +4590,11 @@
     "filename": "Internet Money – JETSKI"
   },
   {
+    "title": "INVENCÍVEL",
+    "artist": "Big Rush",
+    "filename": "INVENCÍVEL.mp3"
+  },
+  {
     "title": "blackwinterwells - IRIS",
     "artist": "blackwinterwells",
     "filename": "IRIS1.mp3"
@@ -2583,6 +4608,21 @@
     "title": "bastos - ISSO É OURO!",
     "artist": "bastos",
     "filename": "ISSO É OURO.mp3"
+  },
+  {
+    "title": "its gotten so much worse",
+    "artist": "Sacha Online",
+    "filename": "its gotten so much worse.mp3"
+  },
+  {
+    "title": "James Blunt - Same Mistake",
+    "artist": "Same Mistake",
+    "filename": "James Blunt - Same Mistake 1.mp3"
+  },
+  {
+    "title": "Japa - After Party",
+    "artist": "Japa",
+    "filename": "Japa - After Party"
   },
   {
     "title": "Japa - Arigato",
@@ -2615,6 +4655,11 @@
     "filename": "Japa - ye.mp3"
   },
   {
+    "title": "Japa - Águas Rasas",
+    "artist": "Japa",
+    "filename": "Japa - Águas Rasas.mp3"
+  },
+  {
     "title": "Japa & Ryu, The Runner - FNB",
     "artist": "Japa",
     "filename": "Japa Ryu The Runner - FNB.mp3"
@@ -2623,6 +4668,11 @@
     "title": "Jason Derulo - Bubblegum",
     "artist": "Jason Derulo",
     "filename": "Jason Derulo - Bubblegum"
+  },
+  {
+    "title": "Jay Portal - I Doubt It",
+    "artist": "Promoting Sounds",
+    "filename": "Jay Portal - I Doubt It.mp3"
   },
   {
     "title": "JayA Luuck - Nemo",
@@ -2635,9 +4685,29 @@
     "filename": "JayA Luuck e Bel4triz - OnlyFans.mp3"
   },
   {
+    "title": "Jhony Convida #10 - Revolta Do Condomínio - Jhony Mc, Neo BXD, Nog, Spike, MT",
+    "artist": "CMK BEATS",
+    "filename": "Jhony Convida 10 - Revolta Do Condomínio - Jhony Mc Neo BXD Nog Spike MT.mp3"
+  },
+  {
+    "title": "Joji - YEAH RIGHT",
+    "artist": "Joji",
+    "filename": "Joji - YEAH RIGHT1.mp3"
+  },
+  {
     "title": "JORDAN KNOWS - WASSUP?",
     "artist": "JORDAN KNOWS, Thekidszn, LXST & Tomm",
     "filename": "JORDAN KNOWS - WASSUP.mp3"
+  },
+  {
+    "title": "Jorge Bask - SEMPRE EM CHAMAS",
+    "artist": "Jorge Bask",
+    "filename": "Jorge Bask - SEMPRE EM CHAMAS"
+  },
+  {
+    "title": "Jorja Smith X Preditah - On My Mind",
+    "artist": "JorjaSmithVEVO",
+    "filename": "Jorja Smith X Preditah - On My Mind.mp3"
   },
   {
     "title": "Jovem Dex - DROP",
@@ -2665,14 +4735,39 @@
     "filename": "Jovem Dex é o Cara- Money Letra Legenda Down.mp3"
   },
   {
+    "title": "Jovem Dionisio - Romance Frito",
+    "artist": "Jovem Dionisio",
+    "filename": "Jovem Dionisio - Romance Frito.mp3"
+  },
+  {
     "title": "João Bosco & Vinícius - Chora, Me Liga",
     "artist": "boscoeviniciusVEVO",
     "filename": "João Bosco Vinícius - Chora Me Liga.mp3"
   },
   {
+    "title": "Juice WRLD - Already Dead",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Already Dead.mp3"
+  },
+  {
+    "title": "Juice WRLD - Armed & Dangerous",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Armed Dangerous.mp3"
+  },
+  {
+    "title": "Juice WRLD - Bad Energy",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Bad Energy.mp3"
+  },
+  {
     "title": "Juice WRLD - Bandit",
     "artist": "Lyrical lemonade",
     "filename": "Juice WRLD - Bandit"
+  },
+  {
+    "title": "Juice WRLD - Black & White",
+    "artist": "Juice WRLD JuiceWRLDVEVO",
+    "filename": "Juice WRLD - Black White.mp3"
   },
   {
     "title": "Juice WRLD - Both Ways",
@@ -2685,6 +4780,16 @@
     "filename": "Juice WRLD - Change You Down.mp3"
   },
   {
+    "title": "Juice WRLD - Conversations",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Conversations.mp3"
+  },
+  {
+    "title": "Cuffed",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Cuffed.mp3"
+  },
+  {
     "title": "Juice WRLD - Drugs And Love",
     "artist": "Juice WRLD",
     "filename": "Juice WRLD - Drugs And Love.mp3"
@@ -2693,6 +4798,11 @@
     "title": "Juice WRLD - Empty",
     "artist": "Juice WRLD",
     "filename": "Juice WRLD - Empty.mp3"
+  },
+  {
+    "title": "Juice Wrld - Face 2 Face",
+    "artist": "Juice Wrld",
+    "filename": "Juice Wrld - Face 2 Face.mp3"
   },
   {
     "title": "Juice WRLD - Fast",
@@ -2710,6 +4820,16 @@
     "filename": "Juice WRLD - Feline.mp3"
   },
   {
+    "title": "Juice WRLD - Fighting Demons",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Fighting Demons.mp3"
+  },
+  {
+    "title": "Juice WRLD - Hear Me Calling",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Hear Me Calling.mp3"
+  },
+  {
     "title": "Juice WRLD - HeMotions",
     "artist": "Juice WRLD",
     "filename": "Juice WRLD - HeMotions.mp3"
@@ -2720,14 +4840,39 @@
     "filename": "Juice WRLD - Higher and Higher.mp3"
   },
   {
-    "title": "Juice WRLD - I Wan't It",
+    "title": "Juice WRLD - I Want It",
     "artist": "Juice WRLD",
     "filename": "Juice WRLD - I Want It.mp3"
+  },
+  {
+    "title": "Juice WRLD - In My Head",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - In My Head.mp3"
+  },
+  {
+    "title": "Juice WRLD - Lean Wit Me",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Lean Wit Me 1.mp3"
   },
   {
     "title": "Juice WRLD - Legends",
     "artist": "Juice WRLD",
     "filename": "Juice WRLD - Legends.mp3"
+  },
+  {
+    "title": "Lightyears",
+    "artist": "Juice WRLD, Young Thug",
+    "filename": "Juice WRLD - Lightyears"
+  },
+  {
+    "title": "Juice WRLD - Lucid Dreams",
+    "artist": "Juice WRLD and Lyrical Lemonade",
+    "filename": "Juice WRLD - Lucid Dreams.mp3"
+  },
+  {
+    "title": "Juice WRLD - Man Of The Year",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Man Of The Year.mp3"
   },
   {
     "title": "Juice WRLD - Maze",
@@ -2770,9 +4915,29 @@
     "filename": "Juice WRLD - Titanic.mp3"
   },
   {
+    "title": "Juice WRLD - Up Up And Away",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Up Up And Away.mp3"
+  },
+  {
+    "title": "Juice WRLD - Who Shot Cupid",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Who Shot Cupid.mp3"
+  },
+  {
+    "title": "Juice WRLD - Wishing Well",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Wishing Well.mp3"
+  },
+  {
     "title": "Juice WRLD - You and me",
     "artist": "Juice WRLD, XXXTENTACION, Trippie red",
     "filename": "Juice WRLD - You and me"
+  },
+  {
+    "title": "Juice WRLD - Rich And Blind",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD - Rich And Blind.mp3"
   },
   {
     "title": "Juice WRLD",
@@ -2800,6 +4965,11 @@
     "filename": "Juice WRLD The Kid Laroi - Remind Me Of You 1.mp3"
   },
   {
+    "title": "Juice WRLD All Girls Are The Same",
+    "artist": "Juice WRLD",
+    "filename": "Juice WRLD All Girls Are The Same"
+  },
+  {
     "title": "Juice WRLD Sticks & Stones",
     "artist": "Juice WRLD",
     "filename": "Juice WRLD Sticks Stones.mp3"
@@ -2808,6 +4978,16 @@
     "title": "Juice WRLD – Wasted",
     "artist": "Juice WRLD",
     "filename": "Juice WRLD – Wasted 1.mp3"
+  },
+  {
+    "title": "Juice WRLD, Eminem & benny blanco - Lace It",
+    "artist": "Juice Wrld",
+    "filename": "Juice WRLD Eminem benny blanco - Lace It.mp3"
+  },
+  {
+    "title": "Jumpin Out The Face",
+    "artist": "Lil Mosey",
+    "filename": "Jumpin Out The Face1.mp3"
   },
   {
     "title": "Maple - jump!",
@@ -2830,14 +5010,34 @@
     "filename": "Junior Angelim - Até Ficar Velhinho - DVD Esquecer.mp3"
   },
   {
+    "title": "Just Dance",
+    "artist": "Mamijor",
+    "filename": "Just Dance.mp3"
+  },
+  {
     "title": "Just Valery - Your Love Is My Drug",
     "artist": "Illuminati Music",
     "filename": "Just Valery - Your Love Is My Drug.mp3"
   },
   {
+    "title": "Lil Uzi Vert - Just Wanna Rock",
+    "artist": "Lil Uzi Vert",
+    "filename": "Just Wanna Rock.mp3"
+  },
+  {
+    "title": "Justin Bieber - Beauty And A Beat",
+    "artist": "JustinBieberVEVO",
+    "filename": "Justin Bieber - Beauty And A Beat"
+  },
+  {
     "title": "Justin Starling - My Bad",
     "artist": "Promoting Sounds",
     "filename": "Justin Starling - My Bad.mp3"
+  },
+  {
+    "title": "Jutes - Bad Dream",
+    "artist": "Jutes",
+    "filename": "Jutes - Bad Dream1.mp3"
   },
   {
     "title": "Júpiter Dayane - Knust Cesar Mc Xamã Chris",
@@ -2875,6 +5075,16 @@
     "filename": "Kaiser York - WOAH.mp3"
   },
   {
+    "title": "Kalli - Kallidade",
+    "artist": "Kalli",
+    "filename": "Kalli - Kallidade.mp3"
+  },
+  {
+    "title": "Kant - Hi, Tyler",
+    "artist": "Kant",
+    "filename": "Kant - Hi Tyler"
+  },
+  {
     "title": "Kant",
     "artist": "Kant",
     "filename": "Kant"
@@ -2883,6 +5093,21 @@
     "title": "Kant x Lucas Lucco x Krawk x Nauta - Muy Guapa",
     "artist": "Kant x Lucas Lucco x Krawk x Nauta",
     "filename": "Kant x Lucas Lucco x Krawk x Nauta - Muy Guapa"
+  },
+  {
+    "title": "Kanye West & Lil Pump",
+    "artist": "Lil pump",
+    "filename": "Kanye West Lil Pump"
+  },
+  {
+    "title": "kassgocrazy - on my own",
+    "artist": "kassgocrazy",
+    "filename": "kassgocrazy - on my own.mp3"
+  },
+  {
+    "title": "KATO",
+    "artist": "Big Rush",
+    "filename": "KATO.mp3"
   },
   {
     "title": "Kawe & Mikezin - Brilho Original",
@@ -2900,6 +5125,16 @@
     "filename": "Kayblack - Bonjour.mp3"
   },
   {
+    "title": "Key Glock - Ambition For Cash",
+    "artist": "KeyGlockVEVO",
+    "filename": "Key Glock - Ambition For Cash.mp3"
+  },
+  {
+    "title": "keyblayde808 - trust issues",
+    "artist": "keyblayde808",
+    "filename": "keyblayde808 - trust issues.mp3"
+  },
+  {
     "title": "Kiaz - Cê ta bem ? 🤷‍",
     "artist": "Kiaz",
     "filename": "Kiaz - Cê ta bem 🤷‍.mp3"
@@ -2915,7 +5150,17 @@
     "filename": "Kid Moon - insane.mp3"
   },
   {
-    "title": "killbunk - i don't want it",
+    "title": "Kid Trash - PALM ANGELS",
+    "artist": "Kid Trash",
+    "filename": "Kid Trash - PALM ANGELS.mp3"
+  },
+  {
+    "title": "KILJ - better off alone",
+    "artist": "Promoting Sounds",
+    "filename": "KILJ - better off alone.mp3"
+  },
+  {
+    "title": "killbunk - i dont want it",
     "artist": "killbunk",
     "filename": "killbunk - i dont want it.mp3"
   },
@@ -2933,6 +5178,16 @@
     "title": "Killua e Duzz - Esse Ano",
     "artist": "Killua e Duzz",
     "filename": "Killua e Duzz - Esse Ano.mp3"
+  },
+  {
+    "title": "killval - ghost girl",
+    "artist": "Promoting Sounds",
+    "filename": "killval - ghost girl.mp3"
+  },
+  {
+    "title": "killval - SPACE RANGER",
+    "artist": "killval",
+    "filename": "killval - SPACE RANGER.mp3"
   },
   {
     "title": "kiryano - 7pm + emotionals + pitfall",
@@ -2953,6 +5208,11 @@
     "title": "Kiryano - Memory",
     "artist": "Kiryano",
     "filename": "Kiryano - Memory.mp3"
+  },
+  {
+    "title": "kiryano - nothings fading",
+    "artist": "kiryano",
+    "filename": "kiryano - nothings fading.mp3"
   },
   {
     "title": "KK2K ft.DUDU - Fake Thug",
@@ -2980,9 +5240,29 @@
     "filename": "Krawk - 2AM"
   },
   {
+    "title": "Krawk - A 1 Passo",
+    "artist": "Krawk",
+    "filename": "Krawk - A 1 Passo"
+  },
+  {
+    "title": "Krawk - Balenciaga",
+    "artist": "Krawk",
+    "filename": "Krawk - Balenciaga.mp3"
+  },
+  {
+    "title": "Krawk - DEUS É BOM",
+    "artist": "Krawk",
+    "filename": "Krawk - DEUS É BOM.mp3"
+  },
+  {
     "title": "Krawk - EUROTRIP 2",
     "artist": "Krawk",
     "filename": "Krawk - EUROTRIP 2.mp3"
+  },
+  {
+    "title": "Krawk - Fake Homies",
+    "artist": "Krawk",
+    "filename": "Krawk - Fake Homies"
   },
   {
     "title": "Krawk - Famoso",
@@ -2990,9 +5270,29 @@
     "filename": "Krawk - Famoso"
   },
   {
+    "title": "Krawk - Gucci & Dior",
+    "artist": "Krawk",
+    "filename": "Krawk - Gucci Dior"
+  },
+  {
+    "title": "Krawk - Hey Baby",
+    "artist": "Krawk",
+    "filename": "Krawk - Hey Baby"
+  },
+  {
+    "title": "Krawk - Jogador Não Olha Pra Foto",
+    "artist": "Krawk",
+    "filename": "Krawk - Jogador Não Olha Pra Foto"
+  },
+  {
     "title": "Krawk - Krawk",
     "artist": "Krawk",
     "filename": "Krawk - Krawk.mp3"
+  },
+  {
+    "title": "Krawk - Lembra de Mim, Pai?",
+    "artist": "Krawk",
+    "filename": "Krawk - Lembra de Mim Pai.mp3"
   },
   {
     "title": "Krawk - Rainha",
@@ -3018,6 +5318,21 @@
     "title": "Krawk - Wally",
     "artist": "Krawk",
     "filename": "Krawk - Wally.mp3"
+  },
+  {
+    "title": "Krawk - Exceção",
+    "artist": "Krawk",
+    "filename": "Krawk - Exceção.mp3"
+  },
+  {
+    "title": "Krawk - HB20 MONSTRA",
+    "artist": "Krawk",
+    "filename": "Krawk - HB20 MONSTRA.mp3"
+  },
+  {
+    "title": "Krawk - Trajadão de Fé",
+    "artist": "Krawk",
+    "filename": "Krawk - Trajadão de Fé.mp3"
   },
   {
     "title": "Krawk e Menor do Chapa - LOKO CONSCIENTE",
@@ -3095,6 +5410,11 @@
     "filename": "Kweller - PONTO G.mp3"
   },
   {
+    "title": "Kweller - #voltavida",
+    "artist": "Kweller",
+    "filename": "Kweller - voltavida"
+  },
+  {
     "title": "Kweller e Enzo Cello",
     "artist": "Kweller",
     "filename": "Kweller e Enzo Cello"
@@ -3145,14 +5465,49 @@
     "filename": "L7NNON - Vamo Marolar part. MC Cabelinho IRRASTREÁVEL.mp3"
   },
   {
+    "title": "La Noche",
+    "artist": "Yago Oproprio",
+    "filename": "La Noche.mp3"
+  },
+  {
+    "title": "Lagum - Bem Melhor",
+    "artist": "Lagum",
+    "filename": "Lagum - Bem Melhor.mp3"
+  },
+  {
+    "title": "Lagum - Detesto Despedidas",
+    "artist": "Lagum",
+    "filename": "Lagum - Detesto Despedidas.mp3"
+  },
+  {
+    "title": "Lagum - Hoje Eu Quero Me Perder",
+    "artist": "Lagum",
+    "filename": "Lagum - Hoje Eu Quero Me Perder.mp3"
+  },
+  {
     "title": "Lagum - Oi",
     "artist": "Lagum",
     "filename": "Lagum - Oi.mp3"
   },
   {
+    "title": "Lagum - VEJA BABY",
+    "artist": "Lagum",
+    "filename": "Lagum - VEJA BABY.mp3"
+  },
+  {
     "title": "Lagum, IZA - Será",
     "artist": "Lagum, IZA",
     "filename": "Lagum IZA - Será.mp3"
+  },
+  {
+    "title": "LaLion - Sold My Soul in Mexico",
+    "artist": "Promoting Sounds",
+    "filename": "LaLion - Sold My Soul in Mexico.mp3"
+  },
+  {
+    "title": "Lanterna Dos Afogados",
+    "artist": "Paralamas do sucesso",
+    "filename": "Lanterna Dos Afogados.mp3"
   },
   {
     "title": "Twikipedia - laps",
@@ -3165,9 +5520,29 @@
     "filename": "larissa - Matheus Queiroz Part. Kweller e Enzo Cello.mp3"
   },
   {
+    "title": "Papa Roach - Last Resort",
+    "artist": "Papa Roach",
+    "filename": "Last Resort - Papa Roach.mp3"
+  },
+  {
+    "title": "Layen - Shelter In Place",
+    "artist": "Layen",
+    "filename": "Layen - Shelter In Place.mp3"
+  },
+  {
+    "title": "LEALL Jóias do Bairro",
+    "artist": "LEALL",
+    "filename": "LEALL Jóias do Bairro"
+  },
+  {
     "title": "Hungria Hip Hop - Lembranças",
     "artist": "Hungria Hip Hop",
     "filename": "Lembranças - Hungria Hip Hop.mp3"
+  },
+  {
+    "title": "Lembranças",
+    "artist": "Banda Puro Desejo - Topic",
+    "filename": "Lembranças.mp3"
   },
   {
     "title": "Leo Square, Mc Lele JP - Refletor",
@@ -3200,6 +5575,11 @@
     "filename": "leozin - freestyle.mp3.mp3"
   },
   {
+    "title": "Leozin - Longe do Lean",
+    "artist": "Leozin",
+    "filename": "Leozin - Longe do Lean.mp3"
+  },
+  {
     "title": "Leozin - Vilão",
     "artist": "Leozin",
     "filename": "Leozin - Vilão.mp3"
@@ -3220,6 +5600,11 @@
     "filename": "levitate.mp3"
   },
   {
+    "title": "LG Izz - What I Do",
+    "artist": "LG Izz",
+    "filename": "LG Izz - What I Do.mp3"
+  },
+  {
     "title": "LH CHUCRO - CORNO",
     "artist": "riic",
     "filename": "LH CHUCRO - CORNO.mp3"
@@ -3230,9 +5615,29 @@
     "filename": "Liar.mp3"
   },
   {
+    "title": "lieu - back2u",
+    "artist": "lieu",
+    "filename": "lieu - back2u.mp3"
+  },
+  {
+    "title": "Like Me",
+    "artist": "Beast Inside Beats",
+    "filename": "Like Me.mp3"
+  },
+  {
     "title": "Lil Baby - Woah",
     "artist": "Lil Baby",
     "filename": "Lil Baby - Woah.mp3"
+  },
+  {
+    "title": "Lil Baby x Gunna - Drip Too Hard",
+    "artist": "LilBabyVEVO",
+    "filename": "Lil Baby x Gunna - Drip Too Hard.mp3"
+  },
+  {
+    "title": "Lil Chainz x Mikezin - Jacaré de estimação",
+    "artist": "Lil Chainz x Mikezin",
+    "filename": "Lil Chainz x Mikezin - Jacaré de estimação --.mp3"
   },
   {
     "title": "Lil Durk - Broadway Girls",
@@ -3260,9 +5665,19 @@
     "filename": "Lil Gnar"
   },
   {
+    "title": "Lil Keed - Cold World",
+    "artist": "Lil Keed",
+    "filename": "Lil Keed - Cold World.mp3"
+  },
+  {
     "title": "Lil Keed - Here",
     "artist": "Lil Keed",
     "filename": "Lil Keed - Here.mp3"
+  },
+  {
+    "title": "Lil Keed - Just A Dream",
+    "artist": "Lil Keed",
+    "filename": "Lil Keed - Just A Dream.mp3"
   },
   {
     "title": "Lil Keed - Million Dollar Mansion",
@@ -3275,9 +5690,24 @@
     "filename": "Lil Keed - Nameless.mp3"
   },
   {
+    "title": "Lil Keed - Obama Coupe",
+    "artist": "Lil Keed",
+    "filename": "Lil Keed - Obama Coupe.mp3"
+  },
+  {
+    "title": "Lil Keed - Oh My God",
+    "artist": "Lil Keed",
+    "filename": "Lil Keed - Oh My God.mp3"
+  },
+  {
     "title": "Lil Keed - She Know",
     "artist": "Lil Keed",
     "filename": "Lil Keed - She Know.mp3"
+  },
+  {
+    "title": "Lil Keed - Tighten Up",
+    "artist": "Lil Keed",
+    "filename": "Lil Keed - Tighten Up.mp3"
   },
   {
     "title": "LIL LOTUS - Rooftop",
@@ -3290,9 +5720,29 @@
     "filename": "Lil Mosey - Anybody.mp3"
   },
   {
+    "title": "Lil Mosey - Bands Out The Roof",
+    "artist": "Lil Mosey",
+    "filename": "Lil Mosey - Bands Out The Roof.mp3"
+  },
+  {
     "title": "Lil Mosey - Bankroll",
     "artist": "Lil Mosey",
     "filename": "Lil Mosey - Bankroll.mp3"
+  },
+  {
+    "title": "Lil Mosey - Burberry Headband",
+    "artist": "LilMosey",
+    "filename": "Lil Mosey - Burberry Headband.mp3"
+  },
+  {
+    "title": "lil Mosey - By Yourself",
+    "artist": "Lil mosey",
+    "filename": "lil Mosey - By Yourself.mp3"
+  },
+  {
+    "title": "Lil Mosey - Do it again",
+    "artist": "Lil Mosey",
+    "filename": "Lil Mosey - Do it again.mp3"
   },
   {
     "title": "Lil Mosey - Dreamin",
@@ -3305,9 +5755,29 @@
     "filename": "Lil Mosey - Enough.mp3"
   },
   {
+    "title": "Lil Mosey - Focus On Me",
+    "artist": "Lil Mosey",
+    "filename": "Lil Mosey - Focus On Me.mp3"
+  },
+  {
+    "title": "Lil Mosey - Holy Water",
+    "artist": "Lil Mosey",
+    "filename": "Lil Mosey - Holy Water.mp3"
+  },
+  {
+    "title": "Lil Mosey - Jet To The West",
+    "artist": "Lil Mosey",
+    "filename": "Lil Mosey - Jet To The West.mp3"
+  },
+  {
     "title": "Lil Mosey - Kamikaze",
     "artist": "Lil Mosey",
     "filename": "Lil Mosey - Kamikaze.mp3"
+  },
+  {
+    "title": "Lil Mosey - Live This Wild",
+    "artist": "Lil Mosey",
+    "filename": "Lil Mosey - Live This Wild.mp3"
   },
   {
     "title": "Lil mosey - Money Callin",
@@ -3318,6 +5788,11 @@
     "title": "Lil Mosey - Never Scared",
     "artist": "Lil Mosey",
     "filename": "Lil Mosey - Never Scared"
+  },
+  {
+    "title": "Lil Mosey - Not The Same God As Mine",
+    "artist": "Lil Mosey",
+    "filename": "Lil Mosey - Not The Same God As Mine.mp3"
   },
   {
     "title": "Lil Mosey - Not You",
@@ -3348,6 +5823,26 @@
     "title": "Lil Mosey - So Fast",
     "artist": "Lil Mosey",
     "filename": "Lil Mosey - So Fast.mp3"
+  },
+  {
+    "title": "Lil Mosey - Speed Racin",
+    "artist": "Lil Mosey",
+    "filename": "Lil Mosey - Speed Racin.mp3"
+  },
+  {
+    "title": "Lil Mosey - Stuck In A Dream",
+    "artist": "Lil Mosey",
+    "filename": "Lil Mosey - Stuck In A Dream"
+  },
+  {
+    "title": "Lil Mosey - Thats My Bitch",
+    "artist": "Lil Mosey",
+    "filename": "Lil Mosey - Thats My Bitch.mp3"
+  },
+  {
+    "title": "lil Mosey - Thug Popstar",
+    "artist": "Lil mosey",
+    "filename": "lil Mosey - Thug Popstar.mp3"
   },
   {
     "title": "Lil Mosey - Top Gone",
@@ -3405,6 +5900,16 @@
     "filename": "Lil Skies - Creeping"
   },
   {
+    "title": "Lil Skies - Dead Broke",
+    "artist": "Lil Skies",
+    "filename": "Lil Skies - Dead Broke.mp3"
+  },
+  {
+    "title": "High Maintenance",
+    "artist": "Lil Skies",
+    "filename": "Lil Skies - High Maintenance.mp3"
+  },
+  {
     "title": "Lil Skies - Locked Up",
     "artist": "Lil Skies",
     "filename": "Lil Skies - Locked Up.mp3"
@@ -3418,6 +5923,11 @@
     "title": "Lil Skies - Lyrical Lemonade – This My Life",
     "artist": "Lil Skies",
     "filename": "Lil Skies - Lyrical Lemonade – This My Life"
+  },
+  {
+    "title": "Lil Skies - Make A Toast",
+    "artist": "Lil Skies",
+    "filename": "Lil Skies - Make A Toast.mp3"
   },
   {
     "title": "Lil Skies - Nowadays",
@@ -3445,9 +5955,19 @@
     "filename": "Lil Skies - Take 5.mp3"
   },
   {
+    "title": "LIL SKIES - The Clique",
+    "artist": "Lil Skies",
+    "filename": "LIL SKIES - The Clique"
+  },
+  {
     "title": "Lil Skies - THOUSANDS",
     "artist": "Lil Skies",
     "filename": "Lil Skies - THOUSANDS.mp3"
+  },
+  {
+    "title": "Lil Story - DANGEROUS BITCH",
+    "artist": "Lil Story",
+    "filename": "Lil Story - DANGEROUS BITCH.mp3"
   },
   {
     "title": "Lil Tecca - BANK TELLER",
@@ -3463,6 +5983,11 @@
     "title": "Lil Tecca - Need Me",
     "artist": "Lil Tecca",
     "filename": "Lil Tecca - Need Me.mp3"
+  },
+  {
+    "title": "Lil Tecca - Never Last",
+    "artist": "Lil Tecca",
+    "filename": "Lil Tecca - Never Last.mp3"
   },
   {
     "title": "Lil Tecca - Number 2",
@@ -3488,6 +6013,11 @@
     "title": "Lil Tecca",
     "artist": "Lil Tecca",
     "filename": "Lil Tecca"
+  },
+  {
+    "title": "Lil Tjay - Calling My Phone",
+    "artist": "Lil Tjay",
+    "filename": "Lil Tjay - Calling My Phone.mp3"
   },
   {
     "title": "Lil Tjay - Hold On",
@@ -3525,9 +6055,19 @@
     "filename": "Lil Uzi Vert - Bag.mp3"
   },
   {
+    "title": "Lil Uzi Vert - Bigger Than Life",
+    "artist": "Lil Uzi Vert",
+    "filename": "Lil Uzi Vert - Bigger Than Life.mp3"
+  },
+  {
     "title": "Lil Uzi Vert - Bust Me",
     "artist": "Lil Uzi Vert",
     "filename": "Lil Uzi Vert - Bust Me.mp3"
+  },
+  {
+    "title": "Lil Uzi Vert - Celebration Station",
+    "artist": "Lil Uzi Vert",
+    "filename": "Lil Uzi Vert - Celebration Station"
   },
   {
     "title": "Lil Uzi Vert - Dark Queen",
@@ -3545,12 +6085,27 @@
     "filename": "Lil Uzi Vert - Endless Fashion.mp3"
   },
   {
+    "title": "Lil Uzi Vert - Futsal Shuffle 2020",
+    "artist": "LIL UZI VERT",
+    "filename": "Lil Uzi Vert - Futsal Shuffle 2020.mp3"
+  },
+  {
+    "title": "Lil Uzi Vert - Glock In My Purse",
+    "artist": "Lil Uzi Vert",
+    "filename": "Lil Uzi Vert - Glock In My Purse.mp3"
+  },
+  {
+    "title": "Lil Uzi Vert - Got The Guap",
+    "artist": "Lil Uzi Vert",
+    "filename": "Lil Uzi Vert - Got The Guap"
+  },
+  {
     "title": "Lil Uzi Vert - I Gotta",
     "artist": "Lil Uzi Vert",
     "filename": "Lil Uzi Vert - I Gotta 1.mp3"
   },
   {
-    "title": "Lil Uzi Vert - I'm Sorry",
+    "title": "Lil Uzi Vert - Im Sorry",
     "artist": "Lil Uzi Vert",
     "filename": "Lil Uzi Vert - Im Sorry.mp3"
   },
@@ -3560,9 +6115,19 @@
     "filename": "Lil Uzi Vert - Leaders"
   },
   {
+    "title": "Lil Uzi Vert - Mama, Im Sorry",
+    "artist": "Lil Uzi Vert",
+    "filename": "Lil Uzi Vert - Mama Im Sorry.mp3"
+  },
+  {
     "title": "Lil Uzi Vert - New Patek",
     "artist": "LIL UZI VERT",
     "filename": "Lil Uzi Vert - New Patek.mp3"
+  },
+  {
+    "title": "Lil Uzi Vert - No Sleep Leak",
+    "artist": "LIL UZI VERT",
+    "filename": "Lil Uzi Vert - No Sleep Leak.mp3"
   },
   {
     "title": "Lil Uzi Vert - P2",
@@ -3575,6 +6140,11 @@
     "filename": "Lil Uzi Vert - Pretty Mami.mp3"
   },
   {
+    "title": "Lil Uzi Vert - Sanguine Paradise",
+    "artist": "LIL UZI VERT",
+    "filename": "Lil Uzi Vert - Sanguine Paradise.mp3"
+  },
+  {
     "title": "Lil Uzi Vert - That Fiya",
     "artist": "Lil Uzi Vert",
     "filename": "Lil Uzi Vert - That Fiya.mp3"
@@ -3583,6 +6153,11 @@
     "title": "Lil Uzi Vert - That Way",
     "artist": "Lil Uzi Vert",
     "filename": "Lil Uzi Vert - That Way.mp3"
+  },
+  {
+    "title": "Lil Uzi Vert - Thats A Rack",
+    "artist": "LIL UZI VERT",
+    "filename": "Lil Uzi Vert - Thats A Rack.mp3"
   },
   {
     "title": "Lil Uzi Vert - Trap This Way",
@@ -3595,9 +6170,29 @@
     "filename": "Lil Uzi Vert - Venetia.mp3"
   },
   {
+    "title": "Lil Uzi Vert - XO Tour Llif3",
+    "artist": "LIL UZI VERT",
+    "filename": "Lil Uzi Vert - XO Tour Llif3"
+  },
+  {
     "title": "Lil Uzi Vert - Zoom",
     "artist": "Lil Uzi Vert",
     "filename": "Lil Uzi Vert - Zoom.mp3"
+  },
+  {
+    "title": "LIL XAN - WHO ARE YOU",
+    "artist": "Lil Xan",
+    "filename": "LIL XAN - WHO ARE YOU.mp3"
+  },
+  {
+    "title": "Lil Xan - Wide Awake",
+    "artist": "Lil Xan",
+    "filename": "Lil Xan - Wide Awake.mp3"
+  },
+  {
+    "title": "Lil Zé - Insuficiente",
+    "artist": "Lil Zé",
+    "filename": "Lil Zé - Insuficiente.mp3"
   },
   {
     "title": "Lil Zé Heart",
@@ -3605,14 +6200,89 @@
     "filename": "Lil Zé Heart.mp3"
   },
   {
+    "title": "LilAJ - Papercut$",
+    "artist": "Promoting Sounds",
+    "filename": "LilAJ - Papercut.mp3"
+  },
+  {
+    "title": "lilgiela33 - Quando Ela Me Deixou",
+    "artist": "lilgiela33",
+    "filename": "lilgiela33 - Quando Ela Me Deixou.mp3"
+  },
+  {
     "title": "Lilly Wood & The Prick and Robin Schulz - Prayer In C",
     "artist": "Robin Schulz",
     "filename": "Lilly Wood The Prick and Robin Schulz - Prayer In C.mp3"
   },
   {
+    "title": "Limera - Gratidão",
+    "artist": "Limera",
+    "filename": "Limera - Gratidão.mp3"
+  },
+  {
     "title": "Limera - Hot",
     "artist": "Limera",
     "filename": "Limera - Hot.mp3"
+  },
+  {
+    "title": "Limera - Tô Bem",
+    "artist": "Limera",
+    "filename": "Limera - Tô Bem.mp3"
+  },
+  {
+    "title": "Limera",
+    "artist": "Limera",
+    "filename": "Limera"
+  },
+  {
+    "title": "Limera",
+    "artist": "Limera",
+    "filename": "Limera"
+  },
+  {
+    "title": "Limera",
+    "artist": "Limera",
+    "filename": "Limera"
+  },
+  {
+    "title": "Limera",
+    "artist": "Limera",
+    "filename": "Limera"
+  },
+  {
+    "title": "Limera",
+    "artist": "Limera",
+    "filename": "Limera"
+  },
+  {
+    "title": "Limera",
+    "artist": "Limera",
+    "filename": "Limera"
+  },
+  {
+    "title": "Limera",
+    "artist": "Limera",
+    "filename": "Limera"
+  },
+  {
+    "title": "Limera",
+    "artist": "Limera",
+    "filename": "Limera"
+  },
+  {
+    "title": "Limera",
+    "artist": "Limera",
+    "filename": "Limera"
+  },
+  {
+    "title": "Limera",
+    "artist": "Limera",
+    "filename": "Limera"
+  },
+  {
+    "title": "Link do Zap - A Última Diamba",
+    "artist": "Link do Zap",
+    "filename": "Link do Zap - A Última Diamba.mp3"
   },
   {
     "title": "Link do Zap - antes",
@@ -3625,9 +6295,29 @@
     "filename": "Link do Zap - BADBIH.mp3"
   },
   {
+    "title": "Link do Zap - Berserk Caipira",
+    "artist": "Link do Zap",
+    "filename": "Link do Zap - Berserk Caipira.mp3"
+  },
+  {
+    "title": "Link do Zap - Filmes de romance",
+    "artist": "Link do Zap",
+    "filename": "Link do Zap - Filmes de romance.mp3"
+  },
+  {
     "title": "Link do Zap - oceano",
     "artist": "Link do Zap",
     "filename": "Link do Zap - oceano.mp3"
+  },
+  {
+    "title": "Link do Zap - Oclin pra chorar",
+    "artist": "Link do Zap",
+    "filename": "Link do Zap - Oclin pra chorar.mp3"
+  },
+  {
+    "title": "Link do Zap - presente de d",
+    "artist": "Link do Zap",
+    "filename": "Link do Zap - presente de d.mp3"
   },
   {
     "title": "Link do Zap - Tão Down",
@@ -3645,9 +6335,19 @@
     "filename": "Litemyselfonfire x Lil Tracy - ELEMENT.mp3"
   },
   {
+    "title": "Lithe - Fall Back",
+    "artist": "Lithe",
+    "filename": "Lithe - Fall Back.mp3"
+  },
+  {
     "title": "Lithe - I need",
     "artist": "Lithe",
     "filename": "Lithe - I need.mp3"
+  },
+  {
+    "title": "Lithe - Like We Wrote",
+    "artist": "Lithe",
+    "filename": "Lithe - Like We Wrote.mp3"
   },
   {
     "title": "Lithe - Signs",
@@ -3660,6 +6360,11 @@
     "filename": "Liu e Samantha machado-Nave espacial Remix.mp3"
   },
   {
+    "title": "Livin on a Prayer",
+    "artist": "Gisele Abramoff",
+    "filename": "Livin on a Prayer.mp3"
+  },
+  {
     "title": "LMFraga - Safari 2",
     "artist": "LMFraga",
     "filename": "LMFraga - Safari 2"
@@ -3670,12 +6375,27 @@
     "filename": "Lmfraga - Design.mp3"
   },
   {
+    "title": "virgingod - Lockdown Freestyle",
+    "artist": "virgingod",
+    "filename": "Lockdown Freestyle.mp3"
+  },
+  {
+    "title": "Logic - 1-800-273-8255",
+    "artist": "Visionary Music Group",
+    "filename": "Logic - 1-800-273-8255"
+  },
+  {
     "title": "Virgingod - Loja",
     "artist": "Virgingod",
     "filename": "Loja.mp3"
   },
   {
-    "title": "Losin' It - Brakence, Glaive, Ericdoa, Osquinn, Kmoe, Valentine \\\\ LYRICS + Line Distribution",
+    "title": "losing it",
+    "artist": "Xxcrush",
+    "filename": "losing it.mp3"
+  },
+  {
+    "title": "Losin It - Brakence, Glaive, Ericdoa, Osquinn, Kmoe, Valentine \\\\ LYRICS + Line Distribution",
     "artist": "Brakence, Glaive, Ericdoa, Osquinn, Kmoe, Valentine",
     "filename": "Losin It - Brakence Glaive Ericdoa Osquinn Kmoe Valentine LYRICS Line Distribution.mp3"
   },
@@ -3700,6 +6420,11 @@
     "filename": "LOVEONFRIDAY - GTA.mp3"
   },
   {
+    "title": "LOVEONLINE - ON THE BEACH AT NIGHT",
+    "artist": "Grooverelly",
+    "filename": "LOVEONLINE - ON THE BEACH AT NIGHT"
+  },
+  {
     "title": "LOVEONLINE - Wedding Ring",
     "artist": "LOVEONILNE",
     "filename": "LOVEONLINE - Wedding Ring.mp3"
@@ -3710,9 +6435,19 @@
     "filename": "Loyalty Means Everything.mp3"
   },
   {
+    "title": "LP - Lost On You",
+    "artist": "LP",
+    "filename": "LP - Lost On You.mp3"
+  },
+  {
     "title": "lucidbeatz - Gone",
     "artist": "lucidbeatz",
     "filename": "lucidbeatz - Gone.mp3"
+  },
+  {
+    "title": "LUCKHAOS - É a união FLASCO",
+    "artist": "LUCKHAOS",
+    "filename": "LUCKHAOS - É a união FLASCO.mp3"
   },
   {
     "title": "Lucus - Malibu",
@@ -3725,9 +6460,54 @@
     "filename": "Luiz Caldas - Nega do Cabelo Duro.mp3"
   },
   {
+    "title": "lullaby for a girl i hate",
+    "artist": "lullaby for a girl i hate",
+    "filename": "lullaby for a girl i hate 1.mp3"
+  },
+  {
+    "title": "lullabyboy - where are you now?",
+    "artist": "lullabyboy",
+    "filename": "lullabyboy - where are you now.mp3"
+  },
+  {
+    "title": "Lund - F*ck Love",
+    "artist": "Lund",
+    "filename": "Lund - Fck Love.mp3"
+  },
+  {
     "title": "Lund - Torn",
     "artist": "Lund",
     "filename": "Lund - Torn.mp3"
+  },
+  {
+    "title": "Lupa - Bixinho",
+    "artist": "Lupa",
+    "filename": "Lupa - Bixinho.mp3"
+  },
+  {
+    "title": "Lupa - E Se Não Der Pra Esperar?",
+    "artist": "Lupa",
+    "filename": "Lupa - E Se Não Der Pra Esperar.mp3"
+  },
+  {
+    "title": "Lupa - Essa Cidade é um Saco",
+    "artist": "Banda Lupa",
+    "filename": "Lupa - Essa Cidade é um Saco.mp3"
+  },
+  {
+    "title": "Lupa - EU NÃO TÔ LEGAL",
+    "artist": "Banda Lupa",
+    "filename": "Lupa - EU NÃO TÔ LEGAL.mp3"
+  },
+  {
+    "title": "Lupa - Justo Eu",
+    "artist": "Lupa",
+    "filename": "Lupa - Justo Eu.mp3"
+  },
+  {
+    "title": "Lupa - Lunático",
+    "artist": "Lupa",
+    "filename": "Lupa - Lunático.mp3"
   },
   {
     "title": "Lupa - Oi :)",
@@ -3735,9 +6515,44 @@
     "filename": "Lupa - Oi ).mp3"
   },
   {
+    "title": "Lupa - Se Você Quiser",
+    "artist": "Banda Lupa",
+    "filename": "Lupa - Se Você Quiser.mp3"
+  },
+  {
+    "title": "Lupa - Só Não Pode Acostumá",
+    "artist": "Banda Lupa",
+    "filename": "Lupa - Só Não Pode Acostumá.mp3"
+  },
+  {
+    "title": "Lupa - Trisal",
+    "artist": "Banda Lupa",
+    "filename": "Lupa - Trisal.mp3"
+  },
+  {
+    "title": "Lupa - Tudo Dnv",
+    "artist": "Banda Lupa",
+    "filename": "Lupa - Tudo Dnv.mp3"
+  },
+  {
+    "title": "Lupa - Vai Doer",
+    "artist": "Lupa",
+    "filename": "Lupa - Vai Doer.mp3"
+  },
+  {
     "title": "Claudinho & Buchecha - Luz De Primavera",
     "artist": "Claudinho & Buchecha",
     "filename": "Luz De Primavera.mp3"
+  },
+  {
+    "title": "LXNGVX - Montagem Mysterious Game",
+    "artist": "LXNGVX",
+    "filename": "LXNGVX - Montagem Mysterious Game.mp3"
+  },
+  {
+    "title": "LXVI - The Reason Why",
+    "artist": "Promoting Sounds",
+    "filename": "LXVI - The Reason Why.mp3"
   },
   {
     "title": "LX, ECOLOGYK - ZIRIGUIDUM",
@@ -3750,9 +6565,24 @@
     "filename": "Lá Vem O Alemão.mp3"
   },
   {
+    "title": "Lábios Divididos",
+    "artist": "Banda Djavú",
+    "filename": "Lábios Divididos.mp3"
+  },
+  {
+    "title": "Flameboi Matt - LÁGRIMAS DE ANJO",
+    "artist": "Flameboi Matt",
+    "filename": "LÁGRIMAS DE ANJO - Flameboi Matt.mp3"
+  },
+  {
     "title": "LÓTUS - ANNA",
     "artist": "ANNA - Orange Money Gang",
     "filename": "LÓTUS - ANNA.mp3"
+  },
+  {
+    "title": "Mac Júlia x Pejota - Sofá, Breja e Netflix",
+    "artist": "Mac Júlia x Pejota",
+    "filename": "Mac Júlia x Pejota - Sofá Breja e Netflix.mp3"
   },
   {
     "title": "MAGIA",
@@ -3765,6 +6595,26 @@
     "filename": "maim.mp3"
   },
   {
+    "title": "pluglip - mais nada",
+    "artist": "pluglip",
+    "filename": "mais nada.mp3"
+  },
+  {
+    "title": "Mais Uma Vez - Renato Russo",
+    "artist": "Renato Russo",
+    "filename": "Mais Uma Vez - Renato Russo.mp3"
+  },
+  {
+    "title": "Major Lazer - Know No Better",
+    "artist": "Major Lazer",
+    "filename": "Major Lazer - Know No Better"
+  },
+  {
+    "title": "Edson Gomes - Malandrinha",
+    "artist": "Edson Gomes",
+    "filename": "Malandrinha.mp3"
+  },
+  {
     "title": "Claudinho & Buchecha - Males",
     "artist": "Claudinho & Buchecha",
     "filename": "Males.mp3"
@@ -3773,6 +6623,11 @@
     "title": "Maluma - GPS",
     "artist": "Maluma",
     "filename": "Maluma - GPS"
+  },
+  {
+    "title": "Mamonas Assassinas - Pelados em Santos",
+    "artist": "Mamonas Para Sempre! FC",
+    "filename": "Mamonas Assassinas - Pelados em Santos.mp3"
   },
   {
     "title": "Mamonas Assassinas - Vira-Vira",
@@ -3790,6 +6645,21 @@
     "filename": "Maple - 09 ocean.mp3"
   },
   {
+    "title": "Maple - hellbent",
+    "artist": "Maple",
+    "filename": "Maple - hellbent.mp3"
+  },
+  {
+    "title": "The Fevers - Mar De Rosas",
+    "artist": "The Fevers",
+    "filename": "Mar De Rosas.mp3"
+  },
+  {
+    "title": "Marchi - Devaneios",
+    "artist": "Marchi",
+    "filename": "Marchi - Devaneios.mp3"
+  },
+  {
     "title": "Tribo da Periferia - Marciano",
     "artist": "Tribo da Periferia",
     "filename": "Marciano.mp3"
@@ -3798,6 +6668,21 @@
     "title": "Mari Versant, @IagoCozzali - Toda Sorte do Mundo",
     "artist": "Mari Versant ft.IagoCozzali",
     "filename": "Mari Versant IagoCozzali - Toda Sorte do Mundo.mp3"
+  },
+  {
+    "title": "Marina Sena - Dano Sarrada",
+    "artist": "Dj Brunin XM",
+    "filename": "Marina Sena - Dano Sarrada.mp3"
+  },
+  {
+    "title": "MARINA SENA - POR SUPUESTO",
+    "artist": "MARINA SENA",
+    "filename": "MARINA SENA - POR SUPUESTO.mp3"
+  },
+  {
+    "title": "Maroon 5 - Girls Like You",
+    "artist": "Maroon5VEVO",
+    "filename": "Maroon 5 - Girls Like You"
   },
   {
     "title": "Maroon 5 - Memories",
@@ -3820,7 +6705,7 @@
     "filename": "Marshmello"
   },
   {
-    "title": "Marshmello x 42 Dugg - Baggin'",
+    "title": "Marshmello x 42 Dugg - Baggin",
     "artist": "Marshmello x 42 Dugg",
     "filename": "Marshmello x 42 Dugg - Baggin.mp3"
   },
@@ -3833,6 +6718,26 @@
     "title": "Martin Garrix & Bebe Rexha - In The Name Of Love",
     "artist": "Martin Garrix & Bebe Rexha",
     "filename": "Martin Garrix Bebe Rexha - In The Name Of Love.mp3"
+  },
+  {
+    "title": "Shinigami - marykate & ashley",
+    "artist": "Shinigami",
+    "filename": "marykate ashley.mp3"
+  },
+  {
+    "title": "BIN - Marília Mendonça",
+    "artist": "BIN",
+    "filename": "Marília Mendonça.mp3"
+  },
+  {
+    "title": "Maskavo - Mais Linda",
+    "artist": "Maskavo",
+    "filename": "Maskavo - Mais Linda.mp3"
+  },
+  {
+    "title": "Massaru - Só/Sim ou Não",
+    "artist": "Massaru",
+    "filename": "Massaru - SóSim ou Não.mp3"
   },
   {
     "title": "Krawk",
@@ -3855,9 +6760,54 @@
     "filename": "Matuê - Antes.mp3"
   },
   {
+    "title": "Matuê - Castlevania",
+    "artist": "30PRAUM",
+    "filename": "Matuê - Castlevania.mp3"
+  },
+  {
+    "title": "Matuê - Cogulândia",
+    "artist": "Matuê",
+    "filename": "Matuê - Cogulândia.mp3"
+  },
+  {
+    "title": "Matuê - Crack com Mussilon",
+    "artist": "30PRAUM",
+    "filename": "Matuê - Crack com Mussilon.mp3"
+  },
+  {
+    "title": "Matuê - Kenny G",
+    "artist": "Matuê",
+    "filename": "Matuê - Kenny G.mp3"
+  },
+  {
     "title": "Matuê - Maria",
     "artist": "30PRAUM",
     "filename": "Matuê - Maria.mp3"
+  },
+  {
+    "title": "Matuê - Máquina do Tempo",
+    "artist": "Matuê",
+    "filename": "Matuê - Máquina do Tempo.mp3"
+  },
+  {
+    "title": "Matuê - Quem Manda é a 30",
+    "artist": "Matuê",
+    "filename": "Matuê - Quem Manda é a 30.mp3"
+  },
+  {
+    "title": "Matuê - Vem Chapar",
+    "artist": "Matuê",
+    "filename": "Matuê - Vem Chapar.mp3"
+  },
+  {
+    "title": "Matuê - É Sal",
+    "artist": "Matuê",
+    "filename": "Matuê - É Sal.mp3"
+  },
+  {
+    "title": "maybe",
+    "artist": "Xxcrush",
+    "filename": "maybe.mp3"
   },
   {
     "title": "MC Joãozinho VT, MC Leozinho ZS, Krawk, MC King e Caverinha - Viver Bem",
@@ -3880,6 +6830,16 @@
     "filename": "Mc Marcinho Glamurosa.mp3"
   },
   {
+    "title": "Big Rush - ME DELETAR",
+    "artist": "Big Rush",
+    "filename": "ME DELETAR.mp3"
+  },
+  {
+    "title": "Latino - Me Leva",
+    "artist": "Latino",
+    "filename": "Me Leva.mp3"
+  },
+  {
     "title": "Banda Djavú e DJ Juninho Portugal - Me Libera",
     "artist": "Banda Djavú e DJ Juninho Portugal",
     "filename": "Me Libera.mp3"
@@ -3890,6 +6850,21 @@
     "filename": "Me Paga.mp3"
   },
   {
+    "title": "Me sinto cansado",
+    "artist": "Krawk",
+    "filename": "Me sinto cansado.mp3"
+  },
+  {
+    "title": "medicine",
+    "artist": "blxty",
+    "filename": "medicine.mp3"
+  },
+  {
+    "title": "Medusa - Andarilha",
+    "artist": "Medusa oficial",
+    "filename": "Medusa - Andarilha 1.mp3"
+  },
+  {
     "title": "Meed - Pouso",
     "artist": "Meed",
     "filename": "Meed - Pouso.mp3"
@@ -3898,6 +6873,11 @@
     "title": "Meek Mill, Drake - Going Bad",
     "artist": "Meek Mill",
     "filename": "Meek Mill Drake - Going Bad.mp3"
+  },
+  {
+    "title": "GaaL - Meia Arrastão",
+    "artist": "GaaL",
+    "filename": "Meia Arrastão.mp3"
   },
   {
     "title": "Menino Bobo - Mari Versant",
@@ -3918,6 +6898,21 @@
     "title": "mental + mitsu - reasons",
     "artist": "mental + mitsu",
     "filename": "mental mitsu - reasons.mp3"
+  },
+  {
+    "title": "mental - friends",
+    "artist": "mental",
+    "filename": "mental - friends"
+  },
+  {
+    "title": "merge! + yameii ++ lonely at the top",
+    "artist": "merge + yameii",
+    "filename": "merge yameii lonely at the top.mp3"
+  },
+  {
+    "title": "Mesmo que seja eu - Erasmo Carlos",
+    "artist": "Erasmo Carlos",
+    "filename": "Mesmo que seja eu - Erasmo Carlos.mp3"
   },
   {
     "title": "META",
@@ -3960,14 +6955,44 @@
     "filename": "Michael Jackson - Billie Jean.mp3"
   },
   {
+    "title": "Michael Jackson - Black Or White",
+    "artist": "Michael Jackson",
+    "filename": "Michael Jackson - Black Or White.mp3"
+  },
+  {
+    "title": "Michael Jackson - Dont Stop Til You Get Enough",
+    "artist": "Michael Jackson",
+    "filename": "Michael Jackson - Dont Stop Til You Get Enough.mp3"
+  },
+  {
     "title": "Michael Jackson - Earth Song",
     "artist": "michaeljackson",
     "filename": "Michael Jackson - Earth Song.mp3"
   },
   {
+    "title": "Michael Jackson - Smooth Criminal",
+    "artist": "Michael Jackson",
+    "filename": "Michael Jackson - Smooth Criminal.mp3"
+  },
+  {
+    "title": "Michael Jackson - You Are Not Alone",
+    "artist": "Michael Jackson",
+    "filename": "Michael Jackson - You Are Not Alone.mp3"
+  },
+  {
     "title": "Deko - Midnight Tokyo -- *°:⋆ₓₒ",
     "artist": "Deko",
     "filename": "Midnight Tokyo -- °⋆ₓₒ Deko.mp3"
+  },
+  {
+    "title": "Migos - Bad and Boujee",
+    "artist": "Migos ATL",
+    "filename": "Migos - Bad and Boujee"
+  },
+  {
+    "title": "Migos - Walk It Talk It",
+    "artist": "MigosVEVO",
+    "filename": "Migos - Walk It Talk It"
   },
   {
     "title": "Mike Alva JayA Luuck - Bye Bye",
@@ -4005,6 +7030,16 @@
     "filename": "MINE.mp3"
   },
   {
+    "title": "Minha Fama de Mau",
+    "artist": "Erasmo Carlos",
+    "filename": "Minha Fama de Mau.mp3"
+  },
+  {
+    "title": "Minha Juventude Parte 1 e 2",
+    "artist": "Mr Gyn",
+    "filename": "Minha Juventude Parte 1 e 2.mp3"
+  },
+  {
     "title": "Italo Melo - Mini Saia",
     "artist": "Italo Melo",
     "filename": "Mini Saia.mp3"
@@ -4015,9 +7050,29 @@
     "filename": "mirror.mp3"
   },
   {
+    "title": "Misael - Festa na Favela",
+    "artist": "Misael",
+    "filename": "Misael - Festa na Favela.mp3"
+  },
+  {
+    "title": "Misael - Mente Louca",
+    "artist": "Misael",
+    "filename": "Misael - Mente Louca.mp3"
+  },
+  {
+    "title": "Misael - Projeto M",
+    "artist": "Misael",
+    "filename": "Misael - Projeto M.mp3"
+  },
+  {
     "title": "Misael - Senha do Wi-Fi",
     "artist": "Misael",
     "filename": "Misael - Senha do Wi-Fi.mp3"
+  },
+  {
+    "title": "Misael - Um Plano",
+    "artist": "Misael",
+    "filename": "Misael - Um Plano.mp3"
   },
   {
     "title": "Misael",
@@ -4025,9 +7080,19 @@
     "filename": "Misael"
   },
   {
+    "title": "Misael, MC Lipi - Festa dos Bacanas",
+    "artist": "Misael, MC Lipi",
+    "filename": "Misael MC Lipi - Festa dos Bacanas.mp3"
+  },
+  {
     "title": "MISOGI - Forget—me—not!",
     "artist": "MISOGI",
     "filename": "MISOGI - Forgetmenot 1.mp3"
+  },
+  {
+    "title": "Missão",
+    "artist": "Dudu",
+    "filename": "Missão.mp3"
   },
   {
     "title": "mitsu - hangover +veezuh",
@@ -4050,6 +7115,11 @@
     "filename": "Modelos.mp3"
   },
   {
+    "title": "Molly Carti",
+    "artist": "Molly Carti",
+    "filename": "Molly Carti.mp3"
+  },
+  {
     "title": "Yung Buda - Monstro",
     "artist": "Yung Buda · Nicolas Kusanagi",
     "filename": "Monstro.mp3"
@@ -4068,6 +7138,16 @@
     "title": "MRA$TA - AK47",
     "artist": "Mra$ta",
     "filename": "MRATA - AK47.mp3"
+  },
+  {
+    "title": "MTG CHIHIRO by Mulú",
+    "artist": "Mulú",
+    "filename": "MTG CHIHIRO by Mulú.mp3"
+  },
+  {
+    "title": "MTG CHIHIRO by Mulú",
+    "artist": "Unique Vibes",
+    "filename": "MTG CHIHIRO by Mulú.mp3"
   },
   {
     "title": "Virgingod - mudo",
@@ -4095,9 +7175,44 @@
     "filename": "my reason1.mp3"
   },
   {
+    "title": "My Teacher",
+    "artist": "Please No",
+    "filename": "My Teacher.mp3"
+  },
+  {
+    "title": "NA RABA TOMA BUTTERCUP",
+    "artist": "PMM",
+    "filename": "NA RABA TOMA BUTTERCUP.mp3"
+  },
+  {
+    "title": "Na Sola Da Bota",
+    "artist": "Rionegro & Solimões - Topic",
+    "filename": "Na Sola Da Bota.mp3"
+  },
+  {
+    "title": "Lil Vi - Nada Muda",
+    "artist": "Lil Vi",
+    "filename": "Nada Muda.mp3"
+  },
+  {
+    "title": "NADA, NADA",
+    "artist": "Big Rush",
+    "filename": "NADA NADA.mp3"
+  },
+  {
+    "title": "Naits - good day",
+    "artist": "Naits",
+    "filename": "Naits - good day.mp3"
+  },
+  {
     "title": "NAV - Bag",
     "artist": "NAV",
     "filename": "NAV - Bag.mp3"
+  },
+  {
+    "title": "NAV - Baller",
+    "artist": "NAV",
+    "filename": "NAV - Baller.mp3"
   },
   {
     "title": "NAV - Brown Boy",
@@ -4105,9 +7220,39 @@
     "filename": "NAV - Brown Boy.mp3"
   },
   {
+    "title": "NAV - Champion",
+    "artist": "NAV",
+    "filename": "NAV - Champion"
+  },
+  {
     "title": "NAV - Codeine",
     "artist": "NAV",
     "filename": "NAV - Codeine"
+  },
+  {
+    "title": "NAV - Did You Wrong",
+    "artist": "NAV",
+    "filename": "NAV - Did You Wrong.mp3"
+  },
+  {
+    "title": "NAV - Go To Hell",
+    "artist": "NAV",
+    "filename": "NAV - Go To Hell.mp3"
+  },
+  {
+    "title": "NAV - Good Intentions",
+    "artist": "NAV",
+    "filename": "NAV - Good Intentions.mp3"
+  },
+  {
+    "title": "NAV - My Business",
+    "artist": "NAV",
+    "filename": "NAV - My Business"
+  },
+  {
+    "title": "Nav - Myself",
+    "artist": "NAV",
+    "filename": "Nav - Myself.mp3"
   },
   {
     "title": "NAV - No Ice",
@@ -4130,6 +7275,11 @@
     "filename": "NAV - Relax.mp3"
   },
   {
+    "title": "NAV - Taking Chances",
+    "artist": "NAV",
+    "filename": "NAV - Taking Chances.mp3"
+  },
+  {
     "title": "NAV - Tap",
     "artist": "NAV",
     "filename": "NAV - Tap"
@@ -4148,6 +7298,11 @@
     "title": "Nebu Kiniza - All In Vevo DSCVR ARTISTS T",
     "artist": "Vevo DSCVR",
     "filename": "Nebu Kiniza - All In Vevo DSCVR ARTISTS T.mp3"
+  },
+  {
+    "title": "Yung Buda - Necronomicon",
+    "artist": "Yung Buda · Nicolas Kusanagi · Lukanni",
+    "filename": "Necronomicon.mp3"
   },
   {
     "title": "NEFFEX - Cold No.60",
@@ -4175,6 +7330,11 @@
     "filename": "NEFFEX - Michael Jordan No.234.mp3"
   },
   {
+    "title": "NEFFEX - NO TURNING BACK No.111",
+    "artist": "NEFFEX",
+    "filename": "NEFFEX - NO TURNING BACK No.111.mp3"
+  },
+  {
     "title": "NEFFEX - Purpose No.177",
     "artist": "NEFFEX",
     "filename": "NEFFEX - Purpose No.177.mp3"
@@ -4183,6 +7343,11 @@
     "title": "NEFFEX - Soldier No.34",
     "artist": "NEFFEX",
     "filename": "NEFFEX - Soldier No.34.mp3"
+  },
+  {
+    "title": "NEFFEX - This Is Not A Christmas Song No.130",
+    "artist": "NEFFEX",
+    "filename": "NEFFEX - This Is Not A Christmas Song No.130.mp3"
   },
   {
     "title": "Bonde do Maluco - Neném do Papai",
@@ -4200,6 +7365,11 @@
     "filename": "next2u.mp3"
   },
   {
+    "title": "Nick Bonin - fell too far",
+    "artist": "Promoting Sounds",
+    "filename": "Nick Bonin - fell too far.mp3"
+  },
+  {
     "title": "blackwinterwells",
     "artist": "blackwinterwells",
     "filename": "nicotine.mp3"
@@ -4210,14 +7380,49 @@
     "filename": "Nikes.mp3"
   },
   {
+    "title": "NIKK - Bagunceira",
+    "artist": "NIKK",
+    "filename": "NIKK - Bagunceira.mp3"
+  },
+  {
     "title": "NIKK - Meta",
     "artist": "NIKK",
     "filename": "NIKK - Meta"
   },
   {
+    "title": "NIKK - Perfume",
+    "artist": "NIKK",
+    "filename": "NIKK - Perfume"
+  },
+  {
+    "title": "pluglip - ninguem como você",
+    "artist": "pluglip",
+    "filename": "ninguem como você.mp3"
+  },
+  {
+    "title": "GaaL - Nite N Day",
+    "artist": "GaaL",
+    "filename": "Nite N Day.mp3"
+  },
+  {
     "title": "NLE Choppa - Shotta Flow Remix",
     "artist": "Lyrical Lemonade",
     "filename": "NLE Choppa - Shotta Flow Remix"
+  },
+  {
+    "title": "NLE Choppa - Walk Em Down",
+    "artist": "NLE Choppa",
+    "filename": "NLE Choppa - Walk Em Down"
+  },
+  {
+    "title": "Sacha Online - no crying in Esports",
+    "artist": "Sacha Online",
+    "filename": "no crying in Esports.mp3"
+  },
+  {
+    "title": "No Rome",
+    "artist": "No Rome",
+    "filename": "No Rome"
   },
   {
     "title": "No Stress - Hoodie Rob Uzumaki",
@@ -4228,6 +7433,21 @@
     "title": "nomu - dress",
     "artist": "nomu",
     "filename": "nomu - dress.mp3"
+  },
+  {
+    "title": "Nossa Toca - Não Temos Tempo",
+    "artist": "Nossa Toca",
+    "filename": "Nossa Toca - Não Temos Tempo.mp3"
+  },
+  {
+    "title": "Nossa Vitória",
+    "artist": "Dudu",
+    "filename": "Nossa Vitória.mp3"
+  },
+  {
+    "title": "blackwinterwells not impressed",
+    "artist": "blackwinterwells",
+    "filename": "not impressed.mp3"
   },
   {
     "title": "nothing,nowhere. - LUV ME",
@@ -4250,6 +7470,16 @@
     "filename": "Novo Namorado.mp3"
   },
   {
+    "title": "NUMB",
+    "artist": "xxxtentacion",
+    "filename": "NUMB.mp3"
+  },
+  {
+    "title": "Lil Vi - Nuvem Freestyle",
+    "artist": "Lil Vi",
+    "filename": "Nuvem Freestyle.mp3"
+  },
+  {
     "title": "Sacha Online - nvr4getu",
     "artist": "Sacha Online",
     "filename": "nvr4getu.mp3"
@@ -4265,6 +7495,26 @@
     "filename": "Não Fica Nessa ifra Bob 13 Andrade"
   },
   {
+    "title": "Não me deixe só",
+    "artist": "Krawk",
+    "filename": "Não me deixe só.mp3"
+  },
+  {
+    "title": "Burn-O - Não Some",
+    "artist": "Burn-O",
+    "filename": "Não Some.mp3"
+  },
+  {
+    "title": "Luísa Sonza - Não Sou Demais",
+    "artist": "Luísa Sonza",
+    "filename": "Não Sou Demais.mp3"
+  },
+  {
+    "title": "NÃO É DE MENTIRA",
+    "artist": "Big Rush",
+    "filename": "NÃO É DE MENTIRA.mp3"
+  },
+  {
     "title": "Henricco Simplicio - Não É Real",
     "artist": "Henricco Simplicio",
     "filename": "Não É Real.mp3"
@@ -4275,7 +7525,7 @@
     "filename": "número um - flameboimatt.mp3"
   },
   {
-    "title": "O Brabo Tem Nome Mob'55, Mr Dreka, Nauí",
+    "title": "O Brabo Tem Nome Mob55, Mr Dreka, Nauí",
     "artist": "Aldeia Records",
     "filename": "O Brabo Tem Nome Mob55 Mr Dreka Nauí"
   },
@@ -4285,9 +7535,49 @@
     "filename": "O Útimo Dia.mp3"
   },
   {
+    "title": "oaf1 - doing it wrong",
+    "artist": "oaf1",
+    "filename": "oaf1 - doing it wrong"
+  },
+  {
+    "title": "oaf1 - free now",
+    "artist": "oaf1",
+    "filename": "oaf1 - free now.mp3"
+  },
+  {
+    "title": "oaf1 - its hard",
+    "artist": "oaf1",
+    "filename": "oaf1 - its hard.mp3"
+  },
+  {
+    "title": "oaf1 - someone else",
+    "artist": "oaf1",
+    "filename": "oaf1 - someone else 1.mp3"
+  },
+  {
+    "title": "oaf1 - think abt it",
+    "artist": "oaf1",
+    "filename": "oaf1 - think abt it"
+  },
+  {
+    "title": "oaf1 - waste uv time w/ lain",
+    "artist": "oaf1",
+    "filename": "oaf1 - waste uv time w lain 1.mp3"
+  },
+  {
+    "title": "oaf1 ~ ilove urr girl",
+    "artist": "oaf1",
+    "filename": "oaf1 ilove urr girl.mp3"
+  },
+  {
     "title": "oaf1 ~ wait 4 it w/capoxxo",
     "artist": "oaf1",
     "filename": "oaf1 wait 4 it wcapoxxo.mp3"
+  },
+  {
+    "title": "Obra de Arte",
+    "artist": "Krawk",
+    "filename": "Obra de Arte.mp3"
   },
   {
     "title": "Flameboi Matt - Ocupado",
@@ -4310,6 +7600,21 @@
     "filename": "OG K GUAPO - TWO GANGZ"
   },
   {
+    "title": "OG",
+    "artist": "Dudu",
+    "filename": "OG.mp3"
+  },
+  {
+    "title": "Oi baby",
+    "artist": "Marlay",
+    "filename": "Oi baby.mp3"
+  },
+  {
+    "title": "OIK - Pedaço de Mim",
+    "artist": "OIK",
+    "filename": "OIK - Pedaço de Mim"
+  },
+  {
     "title": "Twikipedia - ok like",
     "artist": "Twikipedia",
     "filename": "ok like.mp3"
@@ -4318,6 +7623,11 @@
     "title": "OMI - Cheerleader",
     "artist": "OMI",
     "filename": "OMI - Cheerleader"
+  },
+  {
+    "title": "one more life",
+    "artist": "d1v",
+    "filename": "one more life.mp3"
   },
   {
     "title": "one",
@@ -4330,6 +7640,11 @@
     "filename": "Oque Ela Quer - Schulz e Pedrin Mc.mp3"
   },
   {
+    "title": "Óculos",
+    "artist": "Os Paralamas Do Sucesso",
+    "filename": "Os Paralamas do Sucesso - Óculos.mp3"
+  },
+  {
     "title": "blackwinterwells - Ouch!",
     "artist": "blackwinterwells",
     "filename": "Ouch.mp3"
@@ -4340,9 +7655,19 @@
     "filename": "Ovelha.mp3"
   },
   {
+    "title": "Over",
+    "artist": "Sg Lily",
+    "filename": "Over.mp3"
+  },
+  {
     "title": "OVER BOARD BEAT",
     "artist": "Hiii Key",
     "filename": "OVER BOARD BEAT"
+  },
+  {
+    "title": "Overdrive",
+    "artist": "hinoni",
+    "filename": "Overdrive.mp3"
   },
   {
     "title": "Shinigami - OXYGEN",
@@ -4350,9 +7675,24 @@
     "filename": "OXYGEN.mp3"
   },
   {
+    "title": "Pacato Cidadão / Let Em In",
+    "artist": "Skank",
+    "filename": "Pacato Cidadão Let Em In.mp3"
+  },
+  {
+    "title": "Legião Urbana - Pais E Filhos",
+    "artist": "Legião Urbana",
+    "filename": "Pais E Filhos.mp3"
+  },
+  {
     "title": "Claudinho & Buchecha - Parem De Brigar",
     "artist": "Claudinho & Buchecha",
     "filename": "Parem De Brigar.mp3"
+  },
+  {
+    "title": "Big Rush - PARÊNTESES",
+    "artist": "Big Rush",
+    "filename": "PARÊNTESES.mp3"
   },
   {
     "title": "Pasto Flocco - Shawn M! *BONUS*",
@@ -4370,9 +7710,19 @@
     "filename": "Pedrwthekid - Planos Remix"
   },
   {
+    "title": "Edy Lemond - Pensando em Voce",
+    "artist": "Edy Lemond",
+    "filename": "Pensando em Voce.mp3"
+  },
+  {
     "title": "roddie",
     "artist": "roddie",
     "filename": "Penso Demais.mp3"
+  },
+  {
+    "title": "Maple - perfect",
+    "artist": "Maple",
+    "filename": "perfect.mp3"
   },
   {
     "title": "perfectother. - red eye.",
@@ -4380,9 +7730,24 @@
     "filename": "perfectother. - red eye.mp3"
   },
   {
+    "title": "Perfeita Simetria",
+    "artist": "Engenheiros do Hawaii - Topic",
+    "filename": "Perfeita Simetria.mp3"
+  },
+  {
+    "title": "Perfil #60 - Cesar Mc - Quem tem boca vaia Roma",
+    "artist": "Pineapple StormTV",
+    "filename": "Perfil 60 - Cesar Mc - Quem tem boca vaia Roma"
+  },
+  {
     "title": "Flameboi Matt - PERSONA",
     "artist": "Flameboi Matt",
     "filename": "PERSONA.mp3"
+  },
+  {
+    "title": "Bgnzinho - PHONK NATION",
+    "artist": "Bgnzinho",
+    "filename": "PHONK NATION.mp3"
   },
   {
     "title": "pichu - make u okay w/ starfall and kyra",
@@ -4390,12 +7755,22 @@
     "filename": "pichu - make u okay w starfall and kyra.mp3"
   },
   {
+    "title": "pichu - my fault",
+    "artist": "pichu",
+    "filename": "pichu - my fault.mp3"
+  },
+  {
+    "title": "Pichu - Stand Out",
+    "artist": "Pichu",
+    "filename": "Pichu - Stand Out.mp3"
+  },
+  {
     "title": "Yung Buda - Piloto",
     "artist": "Yung Buda",
     "filename": "Piloto.mp3"
   },
   {
-    "title": "PinkPantheress, Ice Spice - Boy’s a liar Pt. 2",
+    "title": "PinkPantheress, Ice Spice - Boys a liar Pt. 2",
     "artist": "Pinkpantheress",
     "filename": "PinkPantheress Ice Spice - Boys a liar Pt. 2.mp3"
   },
@@ -4425,6 +7800,16 @@
     "filename": "Pisadinha do Maluco.mp3"
   },
   {
+    "title": "Shinigami - PLACEBO",
+    "artist": "Shinigami",
+    "filename": "PLACEBO.mp3"
+  },
+  {
+    "title": "Play Hard",
+    "artist": "feat. Ne-Yo & Akon",
+    "filename": "Play Hard 1.mp3"
+  },
+  {
     "title": "Playboi Carti - Control",
     "artist": "Playboi Carti",
     "filename": "Playboi Carti - Control 1.mp3"
@@ -4433,6 +7818,11 @@
     "title": "Playboi Carti - King Vamp",
     "artist": "Playboi Carti",
     "filename": "Playboi Carti - King Vamp 1.mp3"
+  },
+  {
+    "title": "PlayBoi Carti - Molly",
+    "artist": "PlayBoi Carti - Molly",
+    "filename": "PlayBoi Carti - Molly.mp3"
   },
   {
     "title": "Playboi Carti - Shoota",
@@ -4460,9 +7850,39 @@
     "filename": "Please No - My Teacher.mp3"
   },
   {
+    "title": "Sacha Online - please take me back",
+    "artist": "Sacha Online",
+    "filename": "please take me back.mp3"
+  },
+  {
+    "title": "PLK - Problèmes",
+    "artist": "PLK",
+    "filename": "PLK - Problèmes.mp3"
+  },
+  {
+    "title": "GaaL",
+    "artist": "GaaL",
+    "filename": "Plug Pa Ela.mp3"
+  },
+  {
+    "title": "LV KILL - Plug pra Ela",
+    "artist": "LV KILL",
+    "filename": "Plug pra Ela.mp3"
+  },
+  {
+    "title": "LV KILL - Plug pra Ela, Pt. 2",
+    "artist": "LV KILL",
+    "filename": "Plug pra Ela Pt. 2.mp3"
+  },
+  {
     "title": "pluglip - vazio",
     "artist": "pluglip",
     "filename": "pluglip - vazio.mp3"
+  },
+  {
+    "title": "PnB Rock - Middle Child",
+    "artist": "PnB Rock and XXXTENTACION",
+    "filename": "PnB Rock - Middle Child"
   },
   {
     "title": "PnB Rock - ZaZa",
@@ -4473,6 +7893,11 @@
     "title": "Pollo - Vagalumes - Clipe Ofici",
     "artist": "PEXERA COM",
     "filename": "Pollo - Vagalumes - Clipe Ofici.mp3"
+  },
+  {
+    "title": "Pollo e Mc Pedrinho - Fim de Semana Na Quebrada",
+    "artist": "Pollo",
+    "filename": "Pollo e Mc Pedrinho - Fim de Semana Na Quebrada -.mp3"
   },
   {
     "title": "Pollo e Mc Pedrinho",
@@ -4490,6 +7915,11 @@
     "filename": "Polo G"
   },
   {
+    "title": "Pontos de Exclamação",
+    "artist": "Jovem Dionisio",
+    "filename": "Pontos de Exclamação.mp3"
+  },
+  {
     "title": "Pop Smoke - For The Night",
     "artist": "Pop Smoke",
     "filename": "Pop Smoke - For The Night"
@@ -4503,6 +7933,16 @@
     "title": "Popp Hunna",
     "artist": "Popp Hunna",
     "filename": "Popp Hunna"
+  },
+  {
+    "title": "Post Malone - Candy Paint",
+    "artist": "Post Malone",
+    "filename": "Post Malone - Candy Paint.mp3"
+  },
+  {
+    "title": "Post Malone - Congratulations",
+    "artist": "PostMaloneVEVO",
+    "filename": "Post Malone - Congratulations"
   },
   {
     "title": "Post Malone - Go Flex",
@@ -4545,9 +7985,24 @@
     "filename": "Powfu - I hate not knowing where you are 1.mp3"
   },
   {
+    "title": "Powfu - ICE HEART",
+    "artist": "Powfu",
+    "filename": "Powfu - ICE HEART.mp3"
+  },
+  {
+    "title": "Powfu - mindurmanners",
+    "artist": "Powfu",
+    "filename": "Powfu - mindurmanners.mp3"
+  },
+  {
     "title": "Big Rush - Poxa",
     "artist": "Big Rush",
     "filename": "Poxa.mp3"
+  },
+  {
+    "title": "ppgcasper - Been Touched",
+    "artist": "ppgcasper",
+    "filename": "ppgcasper - Been Touched"
   },
   {
     "title": "ppgcasper - Concords",
@@ -4555,7 +8010,7 @@
     "filename": "ppgcasper - Concords 1.mp3"
   },
   {
-    "title": "ppgcasper - Don't Wanna Dance",
+    "title": "ppgcasper - Dont Wanna Dance",
     "artist": "ppgcasper",
     "filename": "ppgcasper - Dont Wanna Dance"
   },
@@ -4610,9 +8065,29 @@
     "filename": "pradababy - Frozen.mp3"
   },
   {
+    "title": "pradababy",
+    "artist": "pradababy",
+    "filename": "pradababy"
+  },
+  {
+    "title": "Praia mansa",
+    "artist": "Aka Rasta",
+    "filename": "Praia mansa.mp3"
+  },
+  {
     "title": "Sacha Online - PRAY",
     "artist": "Sacha Online",
     "filename": "PRAY.mp3"
+  },
+  {
+    "title": "PRAYER - Fucked Up",
+    "artist": "PRAYER",
+    "filename": "PRAYER - Fucked Up.mp3"
+  },
+  {
+    "title": "PRAYER - OFTEN",
+    "artist": "PRAYER",
+    "filename": "PRAYER - OFTEN1.mp3"
   },
   {
     "title": "Bonde do Maluco - Preciso Dizer",
@@ -4625,6 +8100,26 @@
     "filename": "prettyheartbreak Maybe Tomorrow - Act Out.mp3"
   },
   {
+    "title": "Projota - Ela Só Quer Paz",
+    "artist": "ProjVEVO",
+    "filename": "Projota - Ela Só Quer Paz.mp3"
+  },
+  {
+    "title": "Projota - Numa Esquina Do Universo",
+    "artist": "Projota",
+    "filename": "Projota - Numa Esquina Do Universo.mp3"
+  },
+  {
+    "title": "Projota - O Homem Que Não Tinha Nada",
+    "artist": "Projota",
+    "filename": "Projota - O Homem Que Não Tinha Nada.mp3"
+  },
+  {
+    "title": "Projota - Oh Meu Deus",
+    "artist": "ProjVEVO",
+    "filename": "Projota - Oh Meu Deus.mp3"
+  },
+  {
     "title": "Projota - Ombrim",
     "artist": "Projota",
     "filename": "Projota - Ombrim.mp3"
@@ -4635,14 +8130,44 @@
     "filename": "Projota - Volta.mp3"
   },
   {
+    "title": "Big Rush - PROMESSA É DÚVIDA",
+    "artist": "Big Rush",
+    "filename": "PROMESSA É DÚVIDA.mp3"
+  },
+  {
     "title": "Ben Howard - Promise",
     "artist": "Ben Howard",
     "filename": "Promise.mp3"
   },
   {
+    "title": "Prostituta",
+    "artist": "Lambasaia",
+    "filename": "Prostituta.mp3"
+  },
+  {
     "title": "Hungria Hip Hop - Provavelmente",
     "artist": "Hungria Hip Hop",
     "filename": "Provavelmente - Hungria Hip Hop.mp3"
+  },
+  {
+    "title": "PROVOCAÇÕES",
+    "artist": "Big Rush",
+    "filename": "PROVOCAÇÕES.mp3"
+  },
+  {
+    "title": "Prá Você",
+    "artist": "O File Do Brega",
+    "filename": "Prá Você.mp3"
+  },
+  {
+    "title": "Ps & Qs",
+    "artist": "Lil Uzi Vert - Topic",
+    "filename": "Ps Qs.mp3"
+  },
+  {
+    "title": "psycho",
+    "artist": "blxty",
+    "filename": "psycho.mp3"
   },
   {
     "title": "Pulse",
@@ -4655,6 +8180,11 @@
     "filename": "Pupila- ANAVITÓRIA Vitor kley.mp3"
   },
   {
+    "title": "Put It On Me",
+    "artist": "Algum ae",
+    "filename": "Put It On Me.mp3"
+  },
+  {
     "title": "Pvscale x Capoxxo - Shoplifting",
     "artist": "Pvscale x Capoxxo",
     "filename": "Pvscale x Capoxxo - Shoplifting.mp3"
@@ -4665,14 +8195,44 @@
     "filename": "Pés No Chão - Guinho da rua 5 - Vitinho SE - Mc Marcio.mp3"
   },
   {
+    "title": "bastos - quantas vezes !",
+    "artist": "bastos",
+    "filename": "quantas vezes"
+  },
+  {
+    "title": "Legião Urbana - Quase Sem Querer",
+    "artist": "Legião Urbana",
+    "filename": "Quase Sem Querer.mp3"
+  },
+  {
+    "title": "Que horas são?",
+    "artist": "Aka Rasta",
+    "filename": "Que horas são.mp3"
+  },
+  {
+    "title": "Quero Ser Feliz Também",
+    "artist": "Natiruts",
+    "filename": "Quero Ser Feliz Também.mp3"
+  },
+  {
     "title": "Quit Cat",
     "artist": "Quit Cat",
     "filename": "Quit Cat"
   },
   {
+    "title": "Rae Sremmurd - Black Beatles",
+    "artist": "Rae Sremmurd - Gucci Mane",
+    "filename": "Rae Sremmurd - Black Beatles"
+  },
+  {
     "title": "Rae Sremmurd - Not So Bad",
     "artist": "Rae Sremmurd",
     "filename": "Rae Sremmurd - Not So Bad.mp3"
+  },
+  {
+    "title": "Raimundos - mulher de fases",
+    "artist": "Raimundos",
+    "filename": "Raimundos - mulher de fases.mp3"
   },
   {
     "title": "Deko - rain",
@@ -4715,6 +8275,11 @@
     "filename": "Real Big.mp3"
   },
   {
+    "title": "Juice WRLD - Realer N Realer",
+    "artist": "Juice WRLD",
+    "filename": "Realer N Realer.mp3"
+  },
+  {
     "title": "Bonde do Maluco - Reboladinha",
     "artist": "Bonde do Maluco",
     "filename": "Reboladinha.mp3"
@@ -4725,9 +8290,24 @@
     "filename": "redeye.mp3"
   },
   {
+    "title": "Regard - Ride it",
+    "artist": "Dj Regard Official",
+    "filename": "Regard - Ride it.mp3"
+  },
+  {
     "title": "blxty - regret",
     "artist": "blxty",
     "filename": "regret.mp3"
+  },
+  {
+    "title": "Maple - reindeer avenue",
+    "artist": "Maple",
+    "filename": "reindeer avenue.mp3"
+  },
+  {
+    "title": "RELACIONAMENTOS ACABAM",
+    "artist": "Big Rush",
+    "filename": "RELACIONAMENTOS ACABAM.mp3"
   },
   {
     "title": "Rema - Calm Down",
@@ -4760,14 +8340,34 @@
     "filename": "Rionegro Solimões - Peão Apaixonado.mp3"
   },
   {
+    "title": "Rise Up",
+    "artist": "Beast Inside Beats",
+    "filename": "Rise Up.mp3"
+  },
+  {
     "title": "Ritmada Interestelar - MC Lipivox, MC Rondom, DJ Duarte, DJ Kayo original",
     "artist": "DJ DUARTE",
     "filename": "Ritmada Interestelar - MC Lipivox MC Rondom DJ Duarte DJ Kayo original.mp3"
   },
   {
+    "title": "Ri$hin - Big Slatt",
+    "artist": "Ri$hin",
+    "filename": "Rihin - Big Slatt"
+  },
+  {
     "title": "Mamonas Assassinas - Robocop Gay",
     "artist": "Mamonas Assassinas",
     "filename": "Robocop Gay.mp3"
+  },
+  {
+    "title": "Deko - rocket town",
+    "artist": "Deko",
+    "filename": "rocket town.mp3"
+  },
+  {
+    "title": "rocstaryoshi - downtown girl",
+    "artist": "rocstaryoshi",
+    "filename": "rocstaryoshi - downtown girl.mp3"
   },
   {
     "title": "Roddy Ricch - Tip Toe",
@@ -4778,6 +8378,11 @@
     "title": "Roddy Ricch - Bacc Seat",
     "artist": "Roddy Ricch",
     "filename": "Roddy Ricch - Bacc Seat"
+  },
+  {
+    "title": "Roddy Ricch - Down Below",
+    "artist": "Roddy Ricch",
+    "filename": "Roddy Ricch - Down Below.mp3"
   },
   {
     "title": "Roddy Ricch - The Box",
@@ -4795,9 +8400,34 @@
     "filename": "Role na City.mp3"
   },
   {
+    "title": "G Sounds - romance garbage lofi 3",
+    "artist": "G Sounds",
+    "filename": "romance garbage lofi 3.mp3"
+  },
+  {
+    "title": "Claudinho & Buchecha - Romantico Ainda Sou",
+    "artist": "Claudinho & Buchecha",
+    "filename": "Romantico Ainda Sou.mp3"
+  },
+  {
     "title": "ROUBO",
     "artist": "Big Rush",
     "filename": "ROUBO.mp3"
+  },
+  {
+    "title": "ROYAL RUMBLE",
+    "artist": "Big Rush",
+    "filename": "ROYAL RUMBLE.mp3"
+  },
+  {
+    "title": "RPM Revoluções Por Minuto",
+    "artist": "RPM",
+    "filename": "RPM Revoluções Por Minuto.mp3"
+  },
+  {
+    "title": "RPM - Louras Geladas",
+    "artist": "RPM",
+    "filename": "RPM - Louras Geladas.mp3"
   },
   {
     "title": "Banda Djavú e DJ Juninho Portugal - Rubi",
@@ -4810,9 +8440,19 @@
     "filename": "RUDIES FLACKO - CHAPADINHA"
   },
   {
+    "title": "Rudies Flacko - Como que vou ficar broke",
+    "artist": "Rudies Flacko",
+    "filename": "Rudies Flacko - Como que vou ficar broke"
+  },
+  {
     "title": "RUDIES FLACKO - GLONB",
     "artist": "Rudies Flacko",
     "filename": "RUDIES FLACKO - GLONB.mp3"
+  },
+  {
+    "title": "RUDIES FLACKO - HIPER FOCO EM MIM",
+    "artist": "Rudies Flacko",
+    "filename": "RUDIES FLACKO - HIPER FOCO EM MIM"
   },
   {
     "title": "RUDIES FLACKO - INTRO",
@@ -4825,14 +8465,29 @@
     "filename": "Rudies Flacko - JEANS"
   },
   {
+    "title": "RUDIES FLACKO - OLHA VOCÊ AQUI NO QUARTO",
+    "artist": "Rudies Flacko",
+    "filename": "RUDIES FLACKO - OLHA VOCÊ AQUI NO QUARTO"
+  },
+  {
     "title": "RUDIES FLACKO - PESTINHA",
     "artist": "Rudies Flacko",
     "filename": "RUDIES FLACKO - PESTINHA.mp3"
   },
   {
+    "title": "RUDIES FLACKO - RELACIONAMENTO SÉRIO COM MEU DINHEIRO",
+    "artist": "Rudies Flacko",
+    "filename": "RUDIES FLACKO - RELACIONAMENTO SÉRIO COM MEU DINHEIRO"
+  },
+  {
     "title": "RUDIES FLACKO - ROCK",
     "artist": "Rudies Flacko",
     "filename": "RUDIES FLACKO - ROCK.mp3"
+  },
+  {
+    "title": "RUDIES FLACKO - TANTO SWAG, VOU TER QUE ANDAR DESCALÇO",
+    "artist": "Rudies Flacko",
+    "filename": "RUDIES FLACKO - TANTO SWAG VOU TER QUE ANDAR DESCALÇO"
   },
   {
     "title": "Rudies Flacko - Cala a Boca Vadia",
@@ -4845,14 +8500,99 @@
     "filename": "Russ - 3AM"
   },
   {
+    "title": "Russ - Begging You",
+    "artist": "RussVEVO",
+    "filename": "Russ - Begging You.mp3"
+  },
+  {
+    "title": "Russ - Civil War",
+    "artist": "RussVEVO",
+    "filename": "Russ - Civil War.mp3"
+  },
+  {
+    "title": "Russ - Fatima",
+    "artist": "Russ",
+    "filename": "Russ - Fatima.mp3"
+  },
+  {
+    "title": "Russ - From a Distance",
+    "artist": "RussVEVO",
+    "filename": "Russ - From a Distance 1.mp3"
+  },
+  {
+    "title": "Russ - Goodbye",
+    "artist": "RUSSVEVO",
+    "filename": "Russ - Goodbye.mp3"
+  },
+  {
     "title": "Russ - I THOUGHT YOU GOT ME",
     "artist": "Russ",
     "filename": "Russ - I THOUGHT YOU GOT ME"
   },
   {
+    "title": "Russ - In The Dirt",
+    "artist": "Russ",
+    "filename": "Russ - In The Dirt.mp3"
+  },
+  {
     "title": "Russ - Keep It Pushin",
     "artist": "RussVEVO",
     "filename": "Russ - Keep It Pushin"
+  },
+  {
+    "title": "Russ - Missin You Crazy",
+    "artist": "RussVEVO",
+    "filename": "Russ - Missin You Crazy.mp3"
+  },
+  {
+    "title": "Russ - NO TEARS LEFT",
+    "artist": "Russ",
+    "filename": "Russ - NO TEARS LEFT.mp3"
+  },
+  {
+    "title": "Russ - Our Time",
+    "artist": "RussVEVO",
+    "filename": "Russ - Our Time.mp3"
+  },
+  {
+    "title": "Russ - Psycho",
+    "artist": "Russ",
+    "filename": "Russ - Psycho.mp3"
+  },
+  {
+    "title": "Russ - Ride Slow",
+    "artist": "RussVEVO",
+    "filename": "Russ - Ride Slow.mp3"
+  },
+  {
+    "title": "Russ - Serious",
+    "artist": "RussVEVO",
+    "filename": "Russ - Serious.mp3"
+  },
+  {
+    "title": "Russ - Take You Back",
+    "artist": "Russ",
+    "filename": "Russ - Take You Back.mp3"
+  },
+  {
+    "title": "Russ - Thats My Girl",
+    "artist": "Russ",
+    "filename": "Russ - Thats My Girl.mp3"
+  },
+  {
+    "title": "Russ - The Flute Song",
+    "artist": "RussVEVO",
+    "filename": "Russ - The Flute Song.mp3"
+  },
+  {
+    "title": "Russ - What They Want",
+    "artist": "RussVEVO",
+    "filename": "Russ - What They Want.mp3"
+  },
+  {
+    "title": "Russ - When This Was All New",
+    "artist": "Russ",
+    "filename": "Russ - When This Was All New.mp3"
   },
   {
     "title": "Ryan SP DK47 Cesar Mc Kyan - Visão de Cria",
@@ -4875,9 +8615,19 @@
     "filename": "Ryu the Runner Yunk Vino Stef - Beyoncé 2.mp3"
   },
   {
+    "title": "Sacha Online - I Dont Want To Live In A World Where We Dont End Up Together",
+    "artist": "Sacha Online",
+    "filename": "Sacha Online - I Dont Want To Live In A World Where We Dont End Up Together 1.mp3"
+  },
+  {
     "title": "Lmfraga - Safari",
     "artist": "Lmfraga",
     "filename": "Safari.mp3"
+  },
+  {
+    "title": "SahBabii - Anime World",
+    "artist": "SahBabii",
+    "filename": "SahBabii - Anime World.mp3"
   },
   {
     "title": "SAINt JHN - Roses",
@@ -4895,6 +8645,11 @@
     "filename": "Samarina.mp3"
   },
   {
+    "title": "Same Mistake - Reggae",
+    "artist": "Same Mistake",
+    "filename": "Same Mistake - Reggae1.mp3"
+  },
+  {
     "title": "San Holo - We Rise",
     "artist": "San Holo, Trap Nation",
     "filename": "San Holo - We Rise.mp3"
@@ -4905,14 +8660,39 @@
     "filename": "Sauce It Up.mp3"
   },
   {
+    "title": "Saudade de Rosa",
+    "artist": "Bartô Galeno",
+    "filename": "Saudade de Rosa.mp3"
+  },
+  {
     "title": "Sauve - Choo Choo",
     "artist": "Sauve",
     "filename": "Sauve - Choo Choo.mp3"
   },
   {
-    "title": "Savage Ga$p x Shinigami x convolk - i guess i'm ov",
+    "title": "Savage Ga$p x Shinigami x convolk - i guess im ov",
     "artist": "Savage Ga$p x Shinigami x convolk",
     "filename": "Savage Gap x Shinigami x convolk - i guess im ov.mp3"
+  },
+  {
+    "title": "anesthesia - scarface",
+    "artist": "anesthesia",
+    "filename": "scarface.mp3"
+  },
+  {
+    "title": "scarlettb - ninguém brilha como você",
+    "artist": "scarlettb",
+    "filename": "scarlettb - ninguém brilha como você.mp3"
+  },
+  {
+    "title": "Deko - scattered thoughts and nice sprites",
+    "artist": "Deko",
+    "filename": "scattered thoughts and nice sprites.mp3"
+  },
+  {
+    "title": "Scribbles",
+    "artist": "8485",
+    "filename": "Scribbles.mp3"
   },
   {
     "title": "ASTROGLIDER - Secret Love My Escape",
@@ -4920,9 +8700,19 @@
     "filename": "Secret Love My Escape.mp3"
   },
   {
+    "title": "Sei Lá",
+    "artist": "Papatinho, Choji e Lil Gabi",
+    "filename": "Sei Lá.mp3"
+  },
+  {
     "title": "virgingod - sei lá",
     "artist": "virgingod",
     "filename": "sei lá.mp3"
+  },
+  {
+    "title": "Cesar Mc - Sem Saber",
+    "artist": "Cesar Mc",
+    "filename": "Sem Saber.mp3"
   },
   {
     "title": "Sempre Amei - Dudu, César, Chris e Krawk",
@@ -4930,9 +8720,29 @@
     "filename": "Sempre Amei - Dudu César Chris e Krawk 1.mp3"
   },
   {
-    "title": "Sergio Mendes & Brasil '66 - Mas Que Nada",
+    "title": "sendflowrs - bluelights",
+    "artist": "sendflowrs",
+    "filename": "sendflowrs - bluelights.mp3"
+  },
+  {
+    "title": "senses - i dont wanna change",
+    "artist": "senses",
+    "filename": "senses - i dont wanna change.mp3"
+  },
+  {
+    "title": "Sereia - Lulu Santos",
+    "artist": "Lulu Santos",
+    "filename": "Sereia - Lulu Santos.mp3"
+  },
+  {
+    "title": "Sergio Mendes & Brasil 66 - Mas Que Nada",
     "artist": "Blow Up",
     "filename": "Sergio Mendes Brasil 66 - Mas Que Nada.mp3"
+  },
+  {
+    "title": "Raken - seu herói",
+    "artist": "Raken",
+    "filename": "seu herói.mp3"
   },
   {
     "title": "sewerperson - anightmare",
@@ -4980,6 +8790,11 @@
     "filename": "sewerperson - LR7.mp3"
   },
   {
+    "title": "sewerperson - no harm no foul",
+    "artist": "sewerperson",
+    "filename": "sewerperson - no harm no foul 1.mp3"
+  },
+  {
     "title": "sewerperson - subterfuge",
     "artist": "sewerperson",
     "filename": "sewerperson - subterfuge 1.mp3"
@@ -4990,9 +8805,19 @@
     "filename": "sewerperson - the Corp.."
   },
   {
+    "title": "sewerperson - this is a lullaby",
+    "artist": "sewerperson",
+    "filename": "sewerperson - this is a lullaby 1.mp3"
+  },
+  {
     "title": "sewerperson - twelve",
     "artist": "sewerperson",
     "filename": "sewerperson - twelve.mp3"
+  },
+  {
+    "title": "Sewerperson - velvet skin",
+    "artist": "Sewerperson",
+    "filename": "Sewerperson - velvet skin.mp3"
   },
   {
     "title": "sewerperson - Walk Thru",
@@ -5000,14 +8825,39 @@
     "filename": "sewerperson - Walk Thru.mp3"
   },
   {
+    "title": "sg lily - fly or fall",
+    "artist": "sg lily",
+    "filename": "sg lily - fly or fall.mp3"
+  },
+  {
+    "title": "1nonly - Shakira!",
+    "artist": "1nonly",
+    "filename": "Shakira.mp3"
+  },
+  {
     "title": "Sheck Wes - Mo Bamba",
     "artist": "SheckWesVEVO",
     "filename": "Sheck Wes - Mo Bamba.mp3"
   },
   {
-    "title": "Shinigami - Boyz Don't Cri",
+    "title": "Shinigami - Boyz Dont Cri",
     "artist": "Shinigami",
     "filename": "Shinigami - Boyz Dont Cri"
+  },
+  {
+    "title": "Shinigami - Dont Matter",
+    "artist": "Shinigami",
+    "filename": "Shinigami - Dont Matter.mp3"
+  },
+  {
+    "title": "shinigami - gem stones",
+    "artist": "shinigami",
+    "filename": "shinigami - gem stones.mp3"
+  },
+  {
+    "title": "Shinigami - Heart Attack",
+    "artist": "you are safe here",
+    "filename": "Shinigami - Heart Attack.mp3"
   },
   {
     "title": "shinigami - home",
@@ -5023,6 +8873,11 @@
     "title": "shinigami - keygen",
     "artist": "shinigami",
     "filename": "shinigami - keygen 1.mp3"
+  },
+  {
+    "title": "shinigami - let go",
+    "artist": "shinigami",
+    "filename": "shinigami - let go.mp3"
   },
   {
     "title": "shinigami - LUV",
@@ -5045,6 +8900,11 @@
     "filename": "Shinigami - Overdramatic.mp3"
   },
   {
+    "title": "shinigami - stranger",
+    "artist": "shinigami",
+    "filename": "shinigami - stranger.mp3"
+  },
+  {
     "title": "Shinigami - Zombie",
     "artist": "Shinigami",
     "filename": "Shinigami - Zombie.mp3"
@@ -5060,9 +8920,64 @@
     "filename": "Shinigami x yurms - Too high.mp3"
   },
   {
+    "title": "Maple - shortcake path",
+    "artist": "Maple",
+    "filename": "shortcake path.mp3"
+  },
+  {
+    "title": "Shorty",
+    "artist": "Various Artists - Topic",
+    "filename": "Shorty.mp3"
+  },
+  {
     "title": "Sidoka - Drink",
     "artist": "Sidoka",
     "filename": "Sidoka - Drink.mp3"
+  },
+  {
+    "title": "Sidoka - Fumabare",
+    "artist": "Sidoka *",
+    "filename": "Sidoka - Fumabare.mp3"
+  },
+  {
+    "title": "Sidoka - London, Dry, Gin",
+    "artist": "Sidoka *",
+    "filename": "Sidoka - London Dry Gin.mp3"
+  },
+  {
+    "title": "Sidoka - Porsche",
+    "artist": "Sidoka",
+    "filename": "Sidoka - Porsche.mp3"
+  },
+  {
+    "title": "Sidoka - Sommelier",
+    "artist": "Sidoka *",
+    "filename": "Sidoka - Sommelier.mp3"
+  },
+  {
+    "title": "Sidoka louis v, menina linda",
+    "artist": "Sidoka",
+    "filename": "Sidoka louis v menina linda.mp3"
+  },
+  {
+    "title": "Sidoka 7 SOBRENATURAL",
+    "artist": "Sidoka",
+    "filename": "Sidoka 7 SOBRENATURAL.mp3"
+  },
+  {
+    "title": "Sidoka - CAFÉ DA MANHÃ 7",
+    "artist": "Sidoka",
+    "filename": "Sidoka CAFÉ DA MANHÃ 7.mp3"
+  },
+  {
+    "title": "Sidoka - FAZ UM TEMPO 7",
+    "artist": "Sidoka",
+    "filename": "Sidoka FAZ UM TEMPO 7.mp3"
+  },
+  {
+    "title": "Sidoka QUEM É ELA PT. I",
+    "artist": "Sidoka",
+    "filename": "Sidoka QUEM É ELA PT. I.mp3"
   },
   {
     "title": "Sidoka, Chris VITRINE",
@@ -5070,9 +8985,19 @@
     "filename": "Sidoka Chris VITRINE.mp3"
   },
   {
+    "title": "Sidoka, Dalua JATOPCOPACABANA 7",
+    "artist": "Sidoka",
+    "filename": "Sidoka Dalua JATOPCOPACABANA 7.mp3"
+  },
+  {
     "title": "Sidoka, DogDu, DJ Coala LUVA&OCLIN",
     "artist": "Sidoka, DogDu",
     "filename": "Sidoka DogDu DJ Coala LUVAOCLIN.mp3"
+  },
+  {
+    "title": "Sidoka, Pedrin mas eu cansei",
+    "artist": "Sidoka, Pedrin",
+    "filename": "Sidoka Pedrin mas eu cansei.mp3"
   },
   {
     "title": "Sidoka, Pedrin temos",
@@ -5085,9 +9010,64 @@
     "filename": "Sidoka Tribo da Periferia Dj Coala - Sou o Trap Ela é o Funk.mp3"
   },
   {
+    "title": "sIMBORA - CDM",
+    "artist": "Marlay",
+    "filename": "sIMBORA.mp3"
+  },
+  {
+    "title": "Bonde do Maluco - Sinta o Som",
+    "artist": "Bonde do Maluco",
+    "filename": "Sinta o Som.mp3"
+  },
+  {
+    "title": "Sinuka",
+    "artist": "Sinuka",
+    "filename": "Sinuka"
+  },
+  {
+    "title": "Sinuka",
+    "artist": "Sidoka",
+    "filename": "Sinuka"
+  },
+  {
+    "title": "Sinuka",
+    "artist": "Sinuka",
+    "filename": "Sinuka"
+  },
+  {
+    "title": "Skank - Algo Parecido",
+    "artist": "Skank",
+    "filename": "Skank - Algo Parecido.mp3"
+  },
+  {
+    "title": "Skank - Saideira",
+    "artist": "Skank",
+    "filename": "Skank - Saideira.mp3"
+  },
+  {
+    "title": "Skank - Sutilmente",
+    "artist": "SkankVEVO",
+    "filename": "Skank - Sutilmente.mp3"
+  },
+  {
+    "title": "SKANK- GAROTA NACIONAL",
+    "artist": "Skank",
+    "filename": "SKANK- GAROTA NACIONAL.mp3"
+  },
+  {
     "title": "Skiter - BAKI",
     "artist": "Skiter",
     "filename": "Skiter - BAKI.mp3"
+  },
+  {
+    "title": "Skiter - Cinderela",
+    "artist": "Skiter",
+    "filename": "Skiter - Cinderela.mp3"
+  },
+  {
+    "title": "Skiter - Marceline",
+    "artist": "Skiter",
+    "filename": "Skiter - Marceline.mp3"
   },
   {
     "title": "Skiter - Shrek",
@@ -5095,9 +9075,39 @@
     "filename": "Skiter - Shrek.mp3"
   },
   {
+    "title": "Skiter - Toy Story",
+    "artist": "Skiter",
+    "filename": "Skiter - Toy Story.mp3"
+  },
+  {
+    "title": "Skye",
+    "artist": "Promoting Sounds",
+    "filename": "Skye"
+  },
+  {
+    "title": "skyyward - do u think I should leave w/ blackwinterwells",
+    "artist": "skyyward w/ blackwinterwells",
+    "filename": "skyyward - do u think I should leave w blackwinterwells.mp3"
+  },
+  {
+    "title": "slone - wish you were gone",
+    "artist": "slone",
+    "filename": "slone - wish you were gone.mp3"
+  },
+  {
+    "title": "Slushii - All I Need",
+    "artist": "Slushii",
+    "filename": "Slushii - All I Need.mp3"
+  },
+  {
     "title": "Slushii x Marshmello - Twinbow",
     "artist": "Slushii x Marshmello",
     "filename": "Slushii x Marshmello - Twinbow.mp3"
+  },
+  {
+    "title": "Akon - Smack That",
+    "artist": "Akon",
+    "filename": "Smack That.mp3"
   },
   {
     "title": "Soca Soca",
@@ -5110,9 +9120,39 @@
     "filename": "Solar.mp3"
   },
   {
+    "title": "Bonde do Maluco - Solidao Nao Tem Fim",
+    "artist": "Bonde do Maluco",
+    "filename": "Solidao Nao Tem Fim.mp3"
+  },
+  {
+    "title": "Sonífera ilha",
+    "artist": "Titãs",
+    "filename": "Sonífera ilha.mp3"
+  },
+  {
+    "title": "Sorriso Subliminar",
+    "artist": "Krawk",
+    "filename": "Sorriso Subliminar.mp3"
+  },
+  {
+    "title": "rod shawty",
+    "artist": "rod shawty",
+    "filename": "Sorriso.mp3"
+  },
+  {
+    "title": "Soulja Boy Tellem - Kiss Me Thru The Phone",
+    "artist": "Soulja Boy Tellem",
+    "filename": "Soulja Boy Tellem - Kiss Me Thru The Phone"
+  },
+  {
     "title": "Spazi - SHOOK! 🤯",
     "artist": "Spazi",
     "filename": "Spazi - SHOOK --1.mp3"
+  },
+  {
+    "title": "Deko - Stargazer",
+    "artist": "Deko",
+    "filename": "Stargazer.mp3"
   },
   {
     "title": "StaySolidRocky - Party Girl",
@@ -5120,14 +9160,39 @@
     "filename": "StaySolidRocky - Party Girl.mp3"
   },
   {
+    "title": "Stef - Me Envolvo",
+    "artist": "Stef",
+    "filename": "Stef - Me Envolvo.mp3"
+  },
+  {
     "title": "Steve Void - Closure",
     "artist": "Steve Void",
     "filename": "Steve Void - Closure"
   },
   {
+    "title": "still . reaching",
+    "artist": "fatse & Supachefm",
+    "filename": "still . reaching.mp3"
+  },
+  {
+    "title": "blxty - story",
+    "artist": "blxty",
+    "filename": "story.mp3"
+  },
+  {
     "title": "Studio Session #2 Medeirosvk - Menor Medeiros",
     "artist": "Medeirosvk - Menor Medeiros",
     "filename": "Studio Session 2 Medeirosvk - Menor Medeiros.mp3"
+  },
+  {
+    "title": "Yung Buda - Subaru Azul",
+    "artist": "Yung Buda · Nicolas Kusanagi · Zemaru · Psycho 13",
+    "filename": "Subaru Azul.mp3"
+  },
+  {
+    "title": "Maple - SUCKERRR",
+    "artist": "Maple",
+    "filename": "SUCKERRR.mp3"
   },
   {
     "title": "Sui - Ouro",
@@ -5155,6 +9220,16 @@
     "filename": "Supercombo - Maremotos.mp3"
   },
   {
+    "title": "Supercombo - Menina Largata",
+    "artist": "Supercombo",
+    "filename": "Supercombo - Menina Largata.mp3"
+  },
+  {
+    "title": "Supercombo - Piloto Automático",
+    "artist": "supercombo",
+    "filename": "Supercombo - Piloto Automático.mp3"
+  },
+  {
     "title": "surf curse - freaks",
     "artist": "surf curse",
     "filename": "surf curse - freaks.mp3"
@@ -5163,6 +9238,11 @@
     "title": "Yung Buda - Suzuki Escudo",
     "artist": "Yung Buda",
     "filename": "Suzuki Escudo.mp3"
+  },
+  {
+    "title": "Twikipedia - swear to god",
+    "artist": "Twikipedia",
+    "filename": "swear to god.mp3"
   },
   {
     "title": "blackwinterwells - sweet dreams",
@@ -5175,6 +9255,11 @@
     "filename": "Swoopy pradaaslife - Niké ocean.mp3"
   },
   {
+    "title": "SZA - Snooze",
+    "artist": "SZAVEVO",
+    "filename": "SZA - Snooze.mp3"
+  },
+  {
     "title": "Mamonas Assassinas - Sábado De Sol",
     "artist": "Mamonas Assassinas",
     "filename": "Sábado De Sol.mp3"
@@ -5185,9 +9270,29 @@
     "filename": "Sérgio Mendes - Mas Que Nada.mp3"
   },
   {
+    "title": "Lil Vi - Só me Escuta",
+    "artist": "Lil Vi",
+    "filename": "Só me Escuta.mp3"
+  },
+  {
+    "title": "Charlie Brown Jr. - Só os Loucos Sabem",
+    "artist": "Charlie Brown Jr.",
+    "filename": "Só os Loucos Sabem.mp3"
+  },
+  {
     "title": "Big Rush - SÓ",
     "artist": "Big Rush",
     "filename": "SÓ.mp3"
+  },
+  {
+    "title": "Najjuu - súplica",
+    "artist": "Najjuu",
+    "filename": "súplica.mp3"
+  },
+  {
+    "title": "T-Rex - TA TUDO BEM",
+    "artist": "T-Rex",
+    "filename": "T-Rex - TA TUDO BEM.mp3"
   },
   {
     "title": "Coreano - Ta Com Saudade né?",
@@ -5200,6 +9305,11 @@
     "filename": "Ta Sorrindo.mp3"
   },
   {
+    "title": "taboo",
+    "artist": "skele",
+    "filename": "taboo.mp3"
+  },
+  {
     "title": "Talvez - Cesar Mc e Luccas Carlos",
     "artist": "Cesar Mc e Luccas Carlos",
     "filename": "Talvez - Cesar Mc e Luccas Carlos.mp3"
@@ -5210,9 +9320,29 @@
     "filename": "Talvez Você.mp3"
   },
   {
+    "title": "Virgingod - tamagotchi luv",
+    "artist": "Virgingod",
+    "filename": "tamagotchi luv.mp3"
+  },
+  {
+    "title": "Lippi x roddie - Tanto Mistério II",
+    "artist": "Lippi x roddie",
+    "filename": "Tanto Mistério II.mp3"
+  },
+  {
+    "title": "roddie - tanto mistério",
+    "artist": "roddie",
+    "filename": "tanto mistério.mp3"
+  },
+  {
     "title": "Virgingod - TARDE",
     "artist": "Virgingod",
     "filename": "TARDE.mp3"
+  },
+  {
+    "title": "Tavin - Astronomical",
+    "artist": "TAVIN MC",
+    "filename": "Tavin - Astronomical.mp3"
   },
   {
     "title": "Tavin - Vatin",
@@ -5223,6 +9353,11 @@
     "title": "taylor morgan - cayenne",
     "artist": "taylor morgan",
     "filename": "taylor morgan - cayenne"
+  },
+  {
+    "title": "Tchellin - Te buscar",
+    "artist": "Tchellin",
+    "filename": "Tchellin - Te buscar.mp3"
   },
   {
     "title": "TDF #1 - Jotapê, Magrão & Prado - Ruas de São Paulo",
@@ -5240,6 +9375,26 @@
     "filename": "Telefona.mp3"
   },
   {
+    "title": "Tem cabaré essa noite - Nivaldo Marques Nattan",
+    "artist": "Nivaldo Marques e Nattan",
+    "filename": "Tem cabaré essa noite - Nivaldo Marques Nattan.mp3"
+  },
+  {
+    "title": "Tempo Perdido",
+    "artist": "Legião Urbana",
+    "filename": "Tempo Perdido.mp3"
+  },
+  {
+    "title": "prkr blu - TERRIFIEDD",
+    "artist": "prkr blu",
+    "filename": "TERRIFIEDD.mp3"
+  },
+  {
+    "title": "Terror Dos Namorados",
+    "artist": "Erasmo Carlos",
+    "filename": "Terror Dos Namorados.mp3"
+  },
+  {
     "title": "Tes X - C.E.O.",
     "artist": "Tes X",
     "filename": "Tes X - C.E.O..mp3"
@@ -5253,6 +9408,21 @@
     "title": "The Black Eyed Peas - I Gotta Feeling",
     "artist": "BlackEyedPeasVEVO",
     "filename": "The Black Eyed Peas - I Gotta Feeling.mp3"
+  },
+  {
+    "title": "The Black Eyed Peas - Just Cant Get Enough",
+    "artist": "BlackEyedPeasVEVO",
+    "filename": "The Black Eyed Peas - Just Cant Get Enough.mp3"
+  },
+  {
+    "title": "The Black Eyed Peas - Where Is The Love?",
+    "artist": "BlackEyedPeasVEVO",
+    "filename": "The Black Eyed Peas - Where Is The Love.mp3"
+  },
+  {
+    "title": "the captain",
+    "artist": "Shinigami - Topic",
+    "filename": "the captain.mp3"
   },
   {
     "title": "The Chainsmokers - Closer",
@@ -5270,6 +9440,21 @@
     "filename": "The Chainsmokers Illenium - Takeaway"
   },
   {
+    "title": "The Climb",
+    "artist": "sg lily",
+    "filename": "The Climb.mp3"
+  },
+  {
+    "title": "Ode To My Family",
+    "artist": "The Cranberries",
+    "filename": "The Cranberries - Ode To My Family.mp3"
+  },
+  {
+    "title": "The Cure - Boys Dont Cry",
+    "artist": "TheCure",
+    "filename": "The Cure - Boys Dont Cry.mp3"
+  },
+  {
     "title": "The Kid LAROI - ALWAYS DO",
     "artist": "The Kid LAROI",
     "filename": "The Kid LAROI - ALWAYS DO 1.mp3"
@@ -5280,7 +9465,7 @@
     "filename": "The Kid LAROI - Diva"
   },
   {
-    "title": "The Kid LAROI - Don't Leave Me",
+    "title": "The Kid LAROI - Dont Leave Me",
     "artist": "The Kid LAROI",
     "filename": "The Kid LAROI - Dont Leave Me"
   },
@@ -5380,9 +9565,24 @@
     "filename": "The Weeknd - Starboy"
   },
   {
+    "title": "the wind whistles that song you used to sing",
+    "artist": "familypet",
+    "filename": "the wind whistles that song you used to sing.mp3"
+  },
+  {
     "title": "TheHxliday - Mistakes",
     "artist": "TheHxliday",
     "filename": "TheHxliday - Mistakes.mp3"
+  },
+  {
+    "title": "there will be blood",
+    "artist": "shinigami",
+    "filename": "there will be blood.mp3"
+  },
+  {
+    "title": "Thiago - Disfarce",
+    "artist": "Thiago",
+    "filename": "Thiago - Disfarce.mp3"
   },
   {
     "title": "Thiago - Legado",
@@ -5390,9 +9590,19 @@
     "filename": "Thiago - Legado.mp3"
   },
   {
+    "title": "Thiago - Levitou",
+    "artist": "Thiago MC",
+    "filename": "Thiago - Levitou.mp3"
+  },
+  {
     "title": "Thiago - Milionário ft.Leozin",
     "artist": "Thiago MC",
     "filename": "Thiago - Milionário ft.Leozin.mp3"
+  },
+  {
+    "title": "Thiago - Miragem",
+    "artist": "Thiago MC",
+    "filename": "Thiago - Miragem.mp3"
   },
   {
     "title": "Thiago - Onças",
@@ -5415,6 +9625,11 @@
     "filename": "Thiago Kelbert - Camomila"
   },
   {
+    "title": "Thiago Kelbert - FALSO ROMANCE",
+    "artist": "Thiago Kelbert",
+    "filename": "Thiago Kelbert - FALSO ROMANCE --.mp3"
+  },
+  {
     "title": "Thiago Kelbert - Ponteiro",
     "artist": "Thiago Kelbert",
     "filename": "Thiago Kelbert - Ponteiro"
@@ -5430,7 +9645,7 @@
     "filename": "Thiago Kelbert Menor Mc Mc Luanna - Pétalas.mp3"
   },
   {
-    "title": "Thiago Kelbert ''Panamera''",
+    "title": "Thiago Kelbert Panamera",
     "artist": "Thiago Kelbert",
     "filename": "Thiago Kelbert Panamera.mp3"
   },
@@ -5440,9 +9655,34 @@
     "filename": "Thiago x Leozin x Tchellin - Sonhando Alto.mp3"
   },
   {
+    "title": "GRAY - THIS IS HOW WE DO IT",
+    "artist": "GRAY",
+    "filename": "THIS IS HOW WE DO IT.mp3"
+  },
+  {
+    "title": "Brocasito - Tijolos e Vadias",
+    "artist": "Brocasito",
+    "filename": "Tijolos e Vadias.mp3"
+  },
+  {
     "title": "TINI, Lalo Ebratt - Fresa",
     "artist": "TINI, Lalo Ebratt",
     "filename": "TINI Lalo Ebratt - Fresa1.mp3"
+  },
+  {
+    "title": "Lil Vi - Titulos Servem de Que ?",
+    "artist": "Lil Vi",
+    "filename": "Titulos Servem de Que.mp3"
+  },
+  {
+    "title": "Titãs Epitáfioo",
+    "artist": "Lino Oliveira",
+    "filename": "Titãs Epitáfio.mp3"
+  },
+  {
+    "title": "Tobu - Candyland",
+    "artist": "NCS Release",
+    "filename": "Tobu - Candyland.mp3"
   },
   {
     "title": "Andrew Allen - Together",
@@ -5465,6 +9705,11 @@
     "filename": "Tokyo.mp3"
   },
   {
+    "title": "Toma Toma",
+    "artist": "Banda Djavú - Topic",
+    "filename": "Toma Toma.mp3"
+  },
+  {
     "title": "tommy ice - drug sick",
     "artist": "Tommy Ice",
     "filename": "tommy ice - drug sick.mp3"
@@ -5473,6 +9718,11 @@
     "title": "Tommy Ice - idk",
     "artist": "Tommy Ice",
     "filename": "Tommy Ice - idk.mp3"
+  },
+  {
+    "title": "tommy ice - Keys To The Benz",
+    "artist": "Tommy Ice",
+    "filename": "tommy ice - Keys To The Benz.mp3"
   },
   {
     "title": "Tommy Ice - Like Me",
@@ -5495,9 +9745,19 @@
     "filename": "Tommy Ice - NHL.mp3"
   },
   {
+    "title": "tommy ice - right or wrong",
+    "artist": "Promoting Sounds",
+    "filename": "tommy ice - right or wrong.mp3"
+  },
+  {
     "title": "Tommy Ice - Scars",
     "artist": "Tommy Ice",
     "filename": "Tommy Ice - Scars.mp3"
+  },
+  {
+    "title": "tommy ice - showmelove",
+    "artist": "tommy ice w/ killbunk",
+    "filename": "tommy ice - showmelove.mp3"
   },
   {
     "title": "Tommy Ice - you & me",
@@ -5510,6 +9770,11 @@
     "filename": "tommy ice x Thekidszn - Heart On My Sleeve --.mp3"
   },
   {
+    "title": "TONY TORNADO",
+    "artist": "Big Rush",
+    "filename": "TONY TORNADO.mp3"
+  },
+  {
     "title": "Toquinho - Aquarela",
     "artist": "Toquinho",
     "filename": "Toquinho - Aquarela.mp3"
@@ -5518,6 +9783,16 @@
     "title": "Xamã - Touro",
     "artist": "Xamã",
     "filename": "Touro.mp3"
+  },
+  {
+    "title": "Trajado de Lacoste",
+    "artist": "PCN Boladão",
+    "filename": "Trajado de Lacoste.mp3"
+  },
+  {
+    "title": "Trajadão de Fé 2",
+    "artist": "Krawk",
+    "filename": "Trajadão de Fé 2.mp3"
   },
   {
     "title": "Trap Manny - ALONE",
@@ -5600,6 +9875,11 @@
     "filename": "Trevor Daniel - Past Life.mp3"
   },
   {
+    "title": "Trevor Daniel - Things We Do For Love",
+    "artist": "Trevor Daniel",
+    "filename": "Trevor Daniel - Things We Do For Love.mp3"
+  },
+  {
     "title": "Trevor Daniel - Wild",
     "artist": "Trevor Daniel",
     "filename": "Trevor Daniel - Wild.mp3"
@@ -5618,6 +9898,16 @@
     "title": "Tribo da Periferia - Ela tá Virada",
     "artist": "Tribo da Periferia",
     "filename": "Tribo da Periferia - Ela tá Virada.mp3"
+  },
+  {
+    "title": "Tribo da Periferia - FESTIVAL DE NÓS DOIS",
+    "artist": "Tribo da Periferia",
+    "filename": "Tribo da Periferia - FESTIVAL DE NÓS DOIS.mp3"
+  },
+  {
+    "title": "Tribo da Periferia - Furacão de Ninar",
+    "artist": "Tribo Da Periferia",
+    "filename": "Tribo da Periferia - Furacão de Ninar.mp3"
   },
   {
     "title": "Tribo da Periferia - Imprevisível",
@@ -5650,6 +9940,11 @@
     "filename": "Tribo da Periferia - Valores.mp3"
   },
   {
+    "title": "Trippie Redd - Good Morning",
+    "artist": "Trippie Redd",
+    "filename": "Trippie Redd - Good Morning 1.mp3"
+  },
+  {
     "title": "Trippie Redd - How I Was Raised",
     "artist": "Trippie Redd",
     "filename": "Trippie Redd - How I Was Raised"
@@ -5675,6 +9970,11 @@
     "filename": "Trippie Redd - Weeeeee 1.mp3"
   },
   {
+    "title": "Trippie Redd - Who Needs Love",
+    "artist": "TrippieReddVEVO",
+    "filename": "Trippie Redd - Who Needs Love.mp3"
+  },
+  {
     "title": "Trippie Redd – Danny Phantom",
     "artist": "Trippie Redd",
     "filename": "Trippie Redd – Danny Phantom"
@@ -5685,9 +9985,24 @@
     "filename": "Trippie Redd – Finish Line.mp3"
   },
   {
+    "title": "Trippie Redd – Love Me More",
+    "artist": "Trippie Redd",
+    "filename": "Trippie Redd – Love Me More.mp3"
+  },
+  {
+    "title": "Trippie Redd – Matt Hardy 999",
+    "artist": "Trippie Redd",
+    "filename": "Trippie Redd – Matt Hardy 999"
+  },
+  {
     "title": "Trippie Redd – MP5",
     "artist": "Trippie Redd",
     "filename": "Trippie Redd – MP5"
+  },
+  {
+    "title": "Trippie Redd – SAVE YOURSELF",
+    "artist": "Trippie Redd",
+    "filename": "Trippie Redd – SAVE YOURSELF.mp3"
   },
   {
     "title": "Trippie Redd – Space Time",
@@ -5705,6 +10020,11 @@
     "filename": "TROPICO RICH THE KID - CRAZY.mp3"
   },
   {
+    "title": "Truh & Erix - Liga Pra Mim",
+    "artist": "Truh",
+    "filename": "Truh Erix - Liga Pra Mim.mp3"
+  },
+  {
     "title": "Trunks - VIBE",
     "artist": "TRUNKS",
     "filename": "Trunks - VIBE"
@@ -5718,6 +10038,21 @@
     "title": "TSUNAMI SANTO & BIG RUSH - LE KANKE",
     "artist": "Tsunami Santo BIG RUSH",
     "filename": "TSUNAMI SANTO BIGRUSH - LE KANKE.mp3"
+  },
+  {
+    "title": "TTYL",
+    "artist": "global dan - Topic",
+    "filename": "TTYL.mp3"
+  },
+  {
+    "title": "Tudo Pode Mudar",
+    "artist": "Metrô",
+    "filename": "Tudo Pode Mudar.mp3"
+  },
+  {
+    "title": "Tudo é Festa",
+    "artist": "MC Marcinho - Topic",
+    "filename": "Tudo é Festa.mp3"
   },
   {
     "title": "twenty one pilots: Stressed Out",
@@ -5765,9 +10100,39 @@
     "filename": "Tyla Yaweh - Tommy Lee ft.mp3"
   },
   {
+    "title": "Big Rush - TÁ FAZENDO OQ?",
+    "artist": "Big Rush",
+    "filename": "TÁ FAZENDO OQ.mp3"
+  },
+  {
+    "title": "Tédio",
+    "artist": "Biquini Cavadão",
+    "filename": "Tédio.mp3"
+  },
+  {
+    "title": "TÓPAZ - Se For Pra Tudo Dar Errado",
+    "artist": "bandatopaz",
+    "filename": "TÓPAZ - Se For Pra Tudo Dar Errado.mp3"
+  },
+  {
+    "title": "U2 - With Or Without You",
+    "artist": "U2VEVO",
+    "filename": "U2 - With Or Without You.mp3"
+  },
+  {
     "title": "Sacha Online - ugly love",
     "artist": "Sacha Online",
     "filename": "ugly love.mp3"
+  },
+  {
+    "title": "unimportant",
+    "artist": "Deko",
+    "filename": "unimportant"
+  },
+  {
+    "title": "Sacha Online - united flex freestyle",
+    "artist": "Sacha Online",
+    "filename": "united flex freestyle.mp3"
   },
   {
     "title": "unodavid - hostage",
@@ -5775,9 +10140,29 @@
     "filename": "unodavid - hostage.mp3"
   },
   {
+    "title": "unodavid - Hypnotized",
+    "artist": "unodavid",
+    "filename": "unodavid - Hypnotized.mp3"
+  },
+  {
+    "title": "unodavid - never forget u",
+    "artist": "unodavid",
+    "filename": "unodavid - never forget u.mp3"
+  },
+  {
+    "title": "unodavid - perfect pair",
+    "artist": "unodavid",
+    "filename": "unodavid - perfect pair.mp3"
+  },
+  {
     "title": "unodavid - rockstar",
     "artist": "unodavid",
     "filename": "unodavid - rockstar.mp3"
+  },
+  {
+    "title": "unodavid - summertime",
+    "artist": "Promoting Sounds",
+    "filename": "unodavid - summertime.mp3"
   },
   {
     "title": "uououo",
@@ -5790,8 +10175,8 @@
     "filename": "Urbanamente IGOR Kweller - Meia Noite"
   },
   {
-    "title": "fats'e & Supachefm - URDEAD2ME",
-    "artist": "fats'e & Supachefm",
+    "title": "fatse & Supachefm - URDEAD2ME",
+    "artist": "fatse & Supachefm",
     "filename": "URDEAD2ME.mp3"
   },
   {
@@ -5805,9 +10190,34 @@
     "filename": "Uxie Kid - 1 2 3 Dir. Thiago Veiga.mp3"
   },
   {
+    "title": "Uxie Kid - Era Pra Valer",
+    "artist": "Uxie Kid",
+    "filename": "Uxie Kid - Era Pra Valer.mp3"
+  },
+  {
+    "title": "Uxie Kid - Isso é um Erro",
+    "artist": "Uxie Kid",
+    "filename": "Uxie Kid - Isso é um Erro.mp3"
+  },
+  {
     "title": "Uxie Kid - P30 Lyric Vídeo Oficial",
     "artist": "Uxie Kid",
     "filename": "Uxie Kid - P30 Lyric Vídeo Oficial.mp3"
+  },
+  {
+    "title": "Uxie Kid - Verdades Viram Mentiras",
+    "artist": "Uxie Kid",
+    "filename": "Uxie Kid - Verdades Viram Mentiras.mp3"
+  },
+  {
+    "title": "Vai chegar",
+    "artist": "Aka Rasta",
+    "filename": "Vai chegar.mp3"
+  },
+  {
+    "title": "Bonde do Maluco - Vai Jogando Um",
+    "artist": "Bonde do Maluco",
+    "filename": "Vai Jogando Um.mp3"
   },
   {
     "title": "VAI NOVINHA AN AN AN - A NOVINHA SENTA PAMPAM - VITOR LIMA, DYAMANTE, KAIO VIANA TIKTOK SÃO JOÃO",
@@ -5825,14 +10235,54 @@
     "filename": "VAMPIRA.mp3"
   },
   {
+    "title": "Matuê - Vampiro",
+    "artist": "Matuê",
+    "filename": "Vampiro.mp3"
+  },
+  {
+    "title": "VAN GOGH",
+    "artist": "Big Rush",
+    "filename": "VAN GOGH.mp3"
+  },
+  {
+    "title": "VEIGH - Nois é Nois",
+    "artist": "VEIGH",
+    "filename": "VEIGH - Nois é Nois.mp3"
+  },
+  {
+    "title": "Kalli - Velho da Lancha",
+    "artist": "Kalli",
+    "filename": "Velho da Lancha.mp3"
+  },
+  {
+    "title": "Vem Meu Amor",
+    "artist": "Banda Puro Desejo - Topic",
+    "filename": "Vem Meu Amor.mp3"
+  },
+  {
+    "title": "Vento Ventania",
+    "artist": "Biquini Cavadão - Topic",
+    "filename": "Vento Ventania.mp3"
+  },
+  {
     "title": "Deko - Venus Retrograde ˑ༄ؘ ۪۪۫۫ deko ۪۪۫۫ ༄ؘ",
     "artist": "Deko",
     "filename": "Venus Retrograde ˑ༄ؘ ۪۪۫۫ deko ۪۪۫۫ ༄ؘ.mp3"
   },
   {
+    "title": "Vida de Filme",
+    "artist": "Krawk",
+    "filename": "Vida de Filme.mp3"
+  },
+  {
     "title": "Yung Buda - Vilão",
     "artist": "Yung Buda · Nicolas Kusanagi · Lord Prince · DevilGreen",
     "filename": "Vilão.mp3"
+  },
+  {
+    "title": "VIM TE VER",
+    "artist": "Big Rush",
+    "filename": "VIM TE VER1.mp3"
   },
   {
     "title": "Vino Tarantino & Trevor Daniel - Sick!",
@@ -5860,14 +10310,59 @@
     "filename": "virgingod roddie - ngm eh perfeito.mp3"
   },
   {
+    "title": "virgingod* ~ sera q ela volta?",
+    "artist": "Virgingod",
+    "filename": "virgingod sera q ela volta --.mp3"
+  },
+  {
     "title": "Vk Mac x Dudu x Drizzy x JayA Luuck - BANDO",
     "artist": "Vk Mac",
     "filename": "Vk Mac x Dudu x Drizzy x JayA Luuck - BANDO.mp3"
   },
   {
+    "title": "VMZ - Chainsaw Man",
+    "artist": "VMZ",
+    "filename": "VMZ - Chainsaw Man --.mp3"
+  },
+  {
+    "title": "VMZ - Plutão",
+    "artist": "VMZ",
+    "filename": "VMZ - Plutão.mp3"
+  },
+  {
+    "title": "Você não ama ninguém - Knust Cesar Mc Chris",
+    "artist": "Knust, Cesar MC, Xamã & Chris MC",
+    "filename": "Você não ama ninguém - Knust Cesar Mc Chris.mp3"
+  },
+  {
     "title": "Você não ama ninguém 3 - Knust, Cesar Mc, Chris Mc, Xamã",
     "artist": "Knust, Cesar Mc, Chris Mc, Xamã",
     "filename": "Você não ama ninguém 3 - Knust Cesar Mc Chris Mc Xamã.mp3"
+  },
+  {
+    "title": "Vou Te Levar Comigo",
+    "artist": "Biquini Cavadão",
+    "filename": "Vou Te Levar Comigo.mp3"
+  },
+  {
+    "title": "wait on me",
+    "artist": "d1v",
+    "filename": "wait on me.mp3"
+  },
+  {
+    "title": "wait4me",
+    "artist": "blxty",
+    "filename": "wait4me.mp3"
+  },
+  {
+    "title": "Curtains - wassup",
+    "artist": "Curtains - shinigami & naawoj",
+    "filename": "wassup.mp3"
+  },
+  {
+    "title": "Wat it feel lykë",
+    "artist": "Yeat",
+    "filename": "Wat it feel lykë.mp3"
   },
   {
     "title": "WAVE 2 Mikezin, Alva, Jovem Jafa, Andrade, Jaya Luuck",
@@ -5885,12 +10380,37 @@
     "filename": "we going up.mp3"
   },
   {
+    "title": "weird freestyle",
+    "artist": "Convolk",
+    "filename": "weird freestyle.mp3"
+  },
+  {
     "title": "Welisson & Predella - Noturna",
     "artist": "Welisson",
     "filename": "Welisson Predella - Noturna.mp3"
   },
   {
-    "title": "will.i.am, Cody Wise - It's My Birthday",
+    "title": "West - Euro$tep",
+    "artist": "West",
+    "filename": "West - Eurotep.mp3"
+  },
+  {
+    "title": "Sacha Online - whatever you want, i got it",
+    "artist": "Sacha Online",
+    "filename": "whatever you want i got it.mp3"
+  },
+  {
+    "title": "Roupa Nova - Whisky a Go-Go",
+    "artist": "Roupa Nova",
+    "filename": "Whisky a Go-Go.mp3"
+  },
+  {
+    "title": "why leave",
+    "artist": "Capoxxo emoflytrap whatafuckingbitch",
+    "filename": "why leave.mp3"
+  },
+  {
+    "title": "will.i.am, Cody Wise - Its My Birthday",
     "artist": "will.i.am, Cody Wise",
     "filename": "will.i.am Cody Wise - Its My Birthday.mp3"
   },
@@ -5900,9 +10420,24 @@
     "filename": "WillV - Okay.mp3"
   },
   {
+    "title": "Wintergatan - Marble Machine",
+    "artist": "Wintergatan",
+    "filename": "Wintergatan - Marble Machine.mp3"
+  },
+  {
+    "title": "Sacha Online - i wish you the best",
+    "artist": "Sacha Online",
+    "filename": "wish you the best.mp3"
+  },
+  {
     "title": "Wit My Hoe! - Katozaii She a thot my lil baby uh",
     "artist": "C2D",
     "filename": "Wit My Hoe - Katozaii She a thot my lil baby uh.mp3"
+  },
+  {
+    "title": "With My Hoe!",
+    "artist": "C2D",
+    "filename": "With My Hoe.mp3"
   },
   {
     "title": "WiTit Ft, 1Dae, Cameron, Yung Milyun, Lil Animated, Blank",
@@ -5910,14 +10445,54 @@
     "filename": "WiTit Ft 1Dae Cameron Yung Milyun Lil Animated Blank.mp3"
   },
   {
+    "title": "WIU - Coração de Gelo",
+    "artist": "WIU",
+    "filename": "WIU - Coração de Gelo.mp3"
+  },
+  {
+    "title": "WIU - Eu Fumei a Árvore de Natal",
+    "artist": "30PRAUM",
+    "filename": "WIU - Eu Fumei a Árvore de Natal --.mp3"
+  },
+  {
+    "title": "WIU - Natal Solteiro",
+    "artist": "30PRAUM",
+    "filename": "WIU - Natal Solteiro --.mp3"
+  },
+  {
+    "title": "WIU - Rainha da Finesse",
+    "artist": "WIU",
+    "filename": "WIU - Rainha da Finesse.mp3"
+  },
+  {
+    "title": "WIU - Rolê de Sempre",
+    "artist": "30PRAUM",
+    "filename": "WIU - Rolê de Sempre.mp3"
+  },
+  {
     "title": "Wiz Khalifa - Still Wiz",
     "artist": "Wiz Khalifa",
     "filename": "Wiz Khalifa - Still Wiz.mp3"
   },
   {
+    "title": "Wonders Of Nature",
+    "artist": "Ten Towers",
+    "filename": "Wonders Of Nature 1.mp3"
+  },
+  {
     "title": "workaholikos remix w/ jovem fenrir, virgingod, 27lippi, roddie, cashfilter, flameboi matt & big rush",
     "artist": "jovem fenrir, virgingod, 27lippi, roddie, cashfilter, flameboi matt & big rush",
     "filename": "workaholikos remix w jovem fenrir virgingod 27lippi roddie cashfilter flameboi matt big rush.mp3"
+  },
+  {
+    "title": "WRLD On Drugs",
+    "artist": "Various Artists - Topic",
+    "filename": "WRLD On Drugs.mp3"
+  },
+  {
+    "title": "swoopy -Wu wei",
+    "artist": "swoopy",
+    "filename": "Wu wei.mp3"
   },
   {
     "title": "Claudinho & Buchecha - Xereta / Superfreak",
@@ -5928,6 +10503,11 @@
     "title": "Deko - xxx",
     "artist": "Deko",
     "filename": "xxx.mp3"
+  },
+  {
+    "title": "XXXTENTACION - bad vibes forever",
+    "artist": "XXXTENTACION",
+    "filename": "XXXTENTACION - bad vibes forever.mp3"
   },
   {
     "title": "XXXTENTACION - BAD!",
@@ -5960,6 +10540,11 @@
     "filename": "XXXTENTACION - SAUCE.mp3"
   },
   {
+    "title": "XXXTENTACION - STARING AT THE SKY",
+    "artist": "XXXTENTACION",
+    "filename": "XXXTENTACION - STARING AT THE SKY.mp3"
+  },
+  {
     "title": "XXXTENTACION HOPE LYRICS VIDEO",
     "artist": "Family guy Best moments",
     "filename": "XXXTENTACION HOPE LYRICS VIDEO.mp3"
@@ -5970,9 +10555,14 @@
     "filename": "XXXTENTACION Lil Pump"
   },
   {
-    "title": "XXXTENTACION & Lil Uzi Vert - I'm Not Human",
+    "title": "XXXTENTACION & Lil Uzi Vert - Im Not Human",
     "artist": "XXXTENTACION & Lil Uzi Vert",
     "filename": "XXXTENTACION Lil Uzi Vert - Im Not Human.mp3"
+  },
+  {
+    "title": "XXXTentacion A Ghetto Christmas Carol",
+    "artist": "WORLDSTARHIPHOP",
+    "filename": "XXXTentacion A Ghetto Christmas Carol"
   },
   {
     "title": "XXXTentacion Sauce!",
@@ -5990,6 +10580,16 @@
     "filename": "yameii deko PINK.mp3"
   },
   {
+    "title": "YAMEII - whered u go? oo .*+MV",
+    "artist": "OSEAN WORLD",
+    "filename": "YAMEII - whered u go oo . MV.mp3"
+  },
+  {
+    "title": "YAMEII - BABY MY PHONE",
+    "artist": "YAMEII",
+    "filename": "YAMEII - BABY MY PHONE1.mp3"
+  },
+  {
     "title": "YAMEII - cyberkids777 + deko",
     "artist": "Deko + cyberkids777",
     "filename": "YAMEII - cyberkids777 deko.mp3"
@@ -6005,9 +10605,24 @@
     "filename": "YAMEII - PLS FT.DEKOMV.mp3"
   },
   {
+    "title": "yameii - yameii vs the world!!!",
+    "artist": "yameii",
+    "filename": "yameii - yameii vs the world.mp3"
+  },
+  {
     "title": "YAMEII- SHORT+SWEETMV",
     "artist": "OSEAN WORLD",
     "filename": "YAMEII- SHORT SWEETMV.mp3"
+  },
+  {
+    "title": "Yeat - Out thë way",
+    "artist": "Yeat",
+    "filename": "Yeat - Out thë way.mp3"
+  },
+  {
+    "title": "Yes Sir",
+    "artist": "Marlay",
+    "filename": "Yes Sir sem vozes.mp3"
   },
   {
     "title": "yfg rush & kauai shawty: Tudo Bem! Alright! Ok!",
@@ -6025,6 +10640,16 @@
     "filename": "YNW Melly"
   },
   {
+    "title": "Dave Matthews Band - You Might Die Trying",
+    "artist": "Dave Matthews Band",
+    "filename": "You Might Die Trying.mp3"
+  },
+  {
+    "title": "Young Nudy - Hell Shell",
+    "artist": "",
+    "filename": "Young Nudy - Hell Shell.mp3"
+  },
+  {
     "title": "Young Thug - Hot INSTRUMENTAL @SheLovesMeechie",
     "artist": "Hiikey SheLovesMeechie",
     "filename": "Young Thug - Hot INSTRUMENTAL SheLovesMeechie.mp3"
@@ -6035,9 +10660,89 @@
     "filename": "Young Thug - Surf"
   },
   {
+    "title": "Toniside - Your Too Slow",
+    "artist": "Toniside",
+    "filename": "Your Too Slow.mp3"
+  },
+  {
+    "title": "Youve Got 2 Minutes",
+    "artist": "Michael Kadelbach",
+    "filename": "Youve Got 2 Minutes.mp3"
+  },
+  {
+    "title": "Youve Got 25 Minutes",
+    "artist": "Michael Kadelbach",
+    "filename": "Youve Got 25 Minutes.mp3"
+  },
+  {
+    "title": "Youve Got 30 Minutes",
+    "artist": "Michael Kadelbach",
+    "filename": "Youve Got 30 Minutes.mp3"
+  },
+  {
+    "title": "Youve Got 39 Minutes",
+    "artist": "Michael Kadelbach",
+    "filename": "Youve Got 39 Minutes.mp3"
+  },
+  {
+    "title": "Youve Got 41 Minutes",
+    "artist": "Michael Kadelbach",
+    "filename": "Youve Got 41 Minutes.mp3"
+  },
+  {
+    "title": "Youve Got 43 Minutes",
+    "artist": "Michael Kadelbach",
+    "filename": "Youve Got 43 Minutes.mp3"
+  },
+  {
+    "title": "Youve Got 44 Minutes",
+    "artist": "Michael Kadelbach",
+    "filename": "Youve Got 44 Minutes.mp3"
+  },
+  {
+    "title": "Youve Got 49 Minutes",
+    "artist": "Michael Kadelbach",
+    "filename": "Youve Got 49 Minutes.mp3"
+  },
+  {
+    "title": "Youve Got 51 Minutes",
+    "artist": "Michael Kadelbach",
+    "filename": "Youve Got 51 Minutes.mp3"
+  },
+  {
+    "title": "Youve Got 6 Minutes",
+    "artist": "Michael Kadelbach",
+    "filename": "Youve Got 6 Minutes.mp3"
+  },
+  {
+    "title": "Youve Got 9 Minutes",
+    "artist": "Michael Kadelbach",
+    "filename": "Youve Got 9 Minutes.mp3"
+  },
+  {
+    "title": "yugen - stranger",
+    "artist": "yugen",
+    "filename": "yugen - stranger"
+  },
+  {
+    "title": "Yung Bans - Straight Cash",
+    "artist": "Yung Bans",
+    "filename": "Yung Bans - Straight Cash.mp3"
+  },
+  {
+    "title": "Yung Lince - Cicatrizes",
+    "artist": "YUNG LINCE",
+    "filename": "Yung Lince - Cicatrizes.mp3"
+  },
+  {
     "title": "Yunk Vino - CyberPunk",
     "artist": "Yunk Vino",
     "filename": "Yunk Vino - CyberPunk.mp3"
+  },
+  {
+    "title": "Yunk Vino - Miami Vice",
+    "artist": "Yunk Vino",
+    "filename": "Yunk Vino - Miami Vice.mp3"
   },
   {
     "title": "Yunk Vino",
@@ -6048,6 +10753,21 @@
     "title": "Yunk Vino x Mc Igu - Only Fans",
     "artist": "Yunk Vino x Mc Igu",
     "filename": "Yunk Vino x Mc Igu - Only Fans.mp3"
+  },
+  {
+    "title": "yurms - http mulholland drive",
+    "artist": "yurms",
+    "filename": "yurms - http mulholland drive.mp3"
+  },
+  {
+    "title": "YUZION - In My Pocket",
+    "artist": "Astari",
+    "filename": "YUZION - In My Pocket.mp3"
+  },
+  {
+    "title": "Yuzion - Jealousy",
+    "artist": "Yuzion",
+    "filename": "Yuzion - Jealousy.mp3"
   },
   {
     "title": "yxng lady - blunt de morango",
@@ -6068,6 +10788,11 @@
     "title": "GaaL - Zonzo",
     "artist": "GaaL",
     "filename": "Zonzo.mp3"
+  },
+  {
+    "title": "ZOOM!",
+    "artist": "1nonly",
+    "filename": "ZOOM.mp3"
   },
   {
     "title": "Big Rush - ZORRA",
@@ -6125,9 +10850,19 @@
     "filename": "NOT - Like Me.mp3"
   },
   {
+    "title": "PARAMEDICS - CYPHER",
+    "artist": "CYPHER",
+    "filename": "PARAMEDICS CYPHER.mp3"
+  },
+  {
     "title": "@pgiscoming - Alguns Corres",
     "artist": "Part. Big Rush, Gebster, Saukèn",
     "filename": "pgiscoming - Alguns Corres.mp3"
+  },
+  {
+    "title": "prkr blu - #SOANNOYING",
+    "artist": "prkr blu",
+    "filename": "SOANNOYING.mp3"
   },
   {
     "title": "$teven Cannon, Lil Xan - Girls Girls Girls",
@@ -6143,6 +10878,11 @@
     "title": "·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ Deko Twilight City *̩̩̥͙˚̩̥̩̥*",
     "artist": "Deko",
     "filename": "·͙̩̩͙˚̩̥̩̥̩̩̥͙ Deko Twilight City ̩̩̥͙˚̩̥̩̥.mp3"
+  },
+  {
+    "title": "ÂNSIA DE POSSUIR, TÉDIO DE TER",
+    "artist": "Big Rush",
+    "filename": "ÂNSIA DE POSSUIR TÉDIO DE TER.mp3"
   },
   {
     "title": "Legião Urbana - Índios",
@@ -6163,5 +10903,10 @@
     "title": "andxresu - ᐳ me",
     "artist": "andxresu",
     "filename": "ᐳ me.mp3"
+  },
+  {
+    "title": "༓*˚⁺‧͙ moonrise",
+    "artist": "Deko",
+    "filename": "༓˚⁺‧͙ moonrise"
   }
 ]

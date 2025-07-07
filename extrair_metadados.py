@@ -4,7 +4,7 @@ from mutagen.easyid3 import EasyID3
 from mutagen import File
 
 PASTA_MUSICAS = "E:\Geral\Músicas"
-SAIDA_ARQUIVO = "musicas.json"
+SAIDA_ARQUIVO = "database/musicas.json"
 
 def extrair_metadados(pasta):
     musicas = []
