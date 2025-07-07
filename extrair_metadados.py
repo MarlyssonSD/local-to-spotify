@@ -1,29 +1,29 @@
 import os
 import json
-from mutagen.easyid3 import EasyID3
 from mutagen import File
 
-PASTA_MUSICAS = "E:\Geral\Músicas"
+PASTA_MUSICAS = r"E:\Geral\Músicas"
 SAIDA_ARQUIVO = "database/musicas.json"
+FORMATOS_SUPORTADOS = (".mp3", ".m4a")
 
 def extrair_metadados(pasta):
     musicas = []
-    arquivos = [f for f in os.listdir(pasta) if f.endswith(".mp3")]
+    arquivos = [f for f in os.listdir(pasta) if f.lower().endswith(FORMATOS_SUPORTADOS)]
 
     for arquivo in arquivos:
         caminho = os.path.join(pasta, arquivo)
-        try:
-            # Tenta ler com ID3
-            audio = EasyID3(caminho)
-            title = audio.get("title", [None])[0]
-            artist = audio.get("artist", [None])[0]
-        except Exception:
-            # Se falhar, tenta outro formato
-            audio = File(caminho)
-            title = None
-            artist = None
+        title = None
+        artist = None
 
-        # Fallback: usa o nome do arquivo se não tiver tag
+        try:
+            audio = File(caminho, easy=True)
+            if audio is not None:
+                title = audio.get("title", [None])[0]
+                artist = audio.get("artist", [None])[0]
+        except Exception as e:
+            print(f"Erro ao ler {arquivo}: {e}")
+
+        # Fallback
         if not title:
             title = os.path.splitext(arquivo)[0]
         if not artist:

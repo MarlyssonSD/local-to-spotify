@@ -44,7 +44,7 @@ def buscar_musica(titulo, artista=""):
 
 if __name__ == "__main__":
     # Exemplo: altere aqui pra testar outras músicas
-    titulo = "te ver"
-    artista = "virgingod"
+    titulo = "capoxxo shawty yung shame & ppgcasper"
+    artista = ""
 
     buscar_musica(titulo, artista)
