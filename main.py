@@ -3,8 +3,6 @@ from spotipy import Spotify
 from spotipy.oauth2 import SpotifyOAuth
 from dotenv import load_dotenv
 import time
-import difflib
-import os
 
 load_dotenv()
 
@@ -44,7 +42,7 @@ def main():
     track_ids = []
 
     nao_encontradas = []
-    
+    id_nao_encontradas = 1  # ID para as músicas não encontradas
     # musicas = musicas[:300]  # Limita a 600 músicas para testes
     for m in musicas:
         query = m['title'].strip()  # só título, sem artista
@@ -66,6 +64,8 @@ def main():
         else:
             print(f"  ❌ Não encontrado: {query}")
             m["score"] = round(melhor_score, 2)  # adiciona o score no JSON
+            m["id"] = id_nao_encontradas  
+            id_nao_encontradas += 1       
             nao_encontradas.append(m)
 
         print(f"Score: {melhor_score:.2f}")
