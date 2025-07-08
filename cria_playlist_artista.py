@@ -42,8 +42,8 @@ def criar_playlist_com_musicas(playlist_name, track_ids):
     print(f"✅ Playlist '{playlist_name}' criada com {len(track_ids)} faixas.")
 
 def main():
-    playlist_origem_id = "0dlooFr2cdwtQ7ODoglBXR"  # Substitua pelo ID da playlist origem
-    artista_desejado = "Virgingod"  # Substitua pelo nome do artista desejado
+    playlist_origem_id = "2b8DSYBpxpmOssYkNOIzC9"  # Substitua pelo ID da playlist origem
+    artista_desejado = "krawk"  # Substitua pelo nome do artista desejado
 
     faixas = buscar_musicas_por_nome_ou_artista(playlist_origem_id, artista_desejado)
     if not faixas:

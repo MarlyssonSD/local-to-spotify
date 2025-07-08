@@ -8,6 +8,7 @@ FORMATOS_SUPORTADOS = (".mp3", ".m4a")
 
 def extrair_metadados(pasta):
     musicas = []
+    id = 1 
     arquivos = [f for f in os.listdir(pasta) if f.lower().endswith(FORMATOS_SUPORTADOS)]
 
     for arquivo in arquivos:
@@ -30,11 +31,12 @@ def extrair_metadados(pasta):
             artist = ""
 
         musicas.append({
+            "ID": id,
             "title": title,
             "artist": artist,
             "filename": arquivo
         })
-
+        id += 1
     return musicas
 
 def salvar_em_json(musicas, arquivo_saida):
