@@ -55,5 +55,16 @@ def main():
         artista = input("🎤 Digite o nome do artista (ou deixe em branco): ").strip()
         buscar_musica(sp, titulo, artista)
 
-if __name__ == "__main__":
-    main()
+def executar_busca_interativa():
+    sp = Spotify(auth_manager=SpotifyOAuth(scope=SCOPE, cache_path=".cache"))
+
+    while True:
+        titulo = input("\n🎵 Digite o título da música (ou 'sair' pra encerrar): ").strip()
+        if titulo.lower() == "sair":
+            print("👋 Encerrando...")
+            break
+
+        artista = input("🎤 Digite o nome do artista (ou deixe em branco): ").strip()
+        buscar_musica(sp, titulo, artista)
+        
+# executar_busca_interativa() # Rodar para teste
