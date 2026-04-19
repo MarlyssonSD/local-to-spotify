@@ -1,6 +1,10 @@
+from datetime import datetime
+
+from pyautogui import sleep
 from spotipy import Spotify
 from spotipy.oauth2 import SpotifyOAuth
 from dotenv import load_dotenv
+import utils
 import json
 
 load_dotenv()
@@ -10,7 +14,15 @@ sp = Spotify(auth_manager=SpotifyOAuth(scope=SCOPE, cache_path=".cache"))
 
 def listar_musicas_da_playlist(playlist_id):
     musicas = []
-    resultados = sp.playlist_items(playlist_id, fields="items.track.name,items.track.artists.name,next", additional_types=["track"])
+
+    # pega info da playlist (nome, dono etc)
+    playlist_info = sp.playlist(playlist_id)
+
+    resultados = sp.playlist_items(
+        playlist_id,
+        fields="items.track.name,items.track.artists.name,next",
+        additional_types=["track"]
+    )
 
     while resultados:
         for item in resultados["items"]:
@@ -19,49 +31,86 @@ def listar_musicas_da_playlist(playlist_id):
                 nome = track["name"]
                 artista = track["artists"][0]["name"]
                 musicas.append((nome, artista))
+
         if resultados.get("next"):
             resultados = sp.next(resultados)
         else:
             break
-    return musicas
 
-def salvar_em_txt(musicas, nome_arquivo):
+    metadata = {
+        "playlist_id": playlist_id,
+        "playlist_nome": playlist_info["name"],
+        "total_musicas": len(musicas)
+    }
+
+    return musicas, metadata
+
+def salvar_em_txt(musicas, metadata, nome_arquivo):
     with open(nome_arquivo, "w", encoding="utf-8") as f:
+        metadata["exportado_em"] = datetime.now().isoformat()
+        
+        # Cabeçalho
+        f.write(f"Playlist: {metadata['playlist_nome']}\n")
+        f.write(f"ID: {metadata['playlist_id']}\n")
+        f.write(f"Gerado em: {metadata['exportado_em']}\n")
+        f.write(f"Total de músicas: {metadata['total_musicas']}\n")
+        f.write("-" * 40 + "\n")
+
+        # Lista (teu código original)
         for i, (nome, artista) in enumerate(musicas, 1):
             f.write(f"{i}. {nome} — {artista}\n")
+
     print(f"✅ Arquivo .txt salvo em: {nome_arquivo}")
 
-def salvar_em_json(musicas, nome_arquivo):
-    lista_dict = [{"id": i + 1, "title": nome, "artist": artista} for i, (nome, artista) in enumerate(musicas)]
+def salvar_em_json(musicas, metadata, nome_arquivo):
+    lista_dict = [
+        {"id": i + 1, "title": nome, "artist": artista}
+        for i, (nome, artista) in enumerate(musicas)
+    ]
+    
+    metadata["exportado_em"] = datetime.now().isoformat()
+    estrutura_final = {
+        "metadata": metadata,
+        "musicas": lista_dict
+    }
+
     with open(nome_arquivo, "w", encoding="utf-8") as f:
-        json.dump(lista_dict, f, indent=2, ensure_ascii=False)
+        json.dump(estrutura_final, f, indent=2, ensure_ascii=False)
+
     print(f"✅ Arquivo .json salvo em: {nome_arquivo}")
 
-def exibir_musicas(musicas):
-    print(f"\n🎵 Total de músicas: {len(musicas)}\n")
+def exibir_musicas(nome_playlist, musicas):
+    print(f"\nMúsicas da playlist {nome_playlist} \n🎵 Total de músicas: {len(musicas)}\n")
+    sleep(2)
+
     for i, (nome, artista) in enumerate(musicas, 1):
         print(f"{i:02d}. {nome} — {artista}")
 
-def main():
+def exporta_musicas_playlist():
     print("🔍 Analisando músicas da playlist...")
-    playlist_id = "0dlooFr2cdwtQ7ODoglBXR"  # troque pela sua
-    musicas = listar_musicas_da_playlist(playlist_id)
+    playlist_id = "2b8DSYBpxpmOssYkNOIzC9"  # troque pela sua
+    nome_playlist = utils.obter_nome_playlist_id(sp, playlist_id)
+    musicas, metadata = listar_musicas_da_playlist(playlist_id)
+    print(f"✅ Análise concluída para a playlist: {nome_playlist} ({len(musicas)} músicas)")
+    while True:
+        print("\nEscolha uma opção:")
+        print("1 - Salvar como TXT")
+        print("2 - Salvar como JSON")
+        print("3 - Apenas exibir no terminal")
+        print("4 - Sair")
 
-    print("\nEscolha uma opção:")
-    print("1 - Salvar como TXT")
-    print("2 - Salvar como JSON")
-    print("3 - Apenas exibir no terminal")
+        escolha = input("Digite o número da opção: ")
 
-    escolha = input("Digite o número da opção: ")
+        if escolha == "1":
+            salvar_em_txt(musicas, metadata, f"database/musicas_da_playlist_{nome_playlist}.txt")
+        elif escolha == "2":
+            salvar_em_json(musicas, metadata, f"database/musicas_da_playlist_{nome_playlist}.json")
+        elif escolha == "3":
+            exibir_musicas(nome_playlist,musicas)
+        elif escolha == "4":
+            print("✅ Saindo...")
+            return
+        else:
+            print("❌ Opção inválida.")
 
-    if escolha == "1":
-        salvar_em_txt(musicas, "database/musicas_da_playlist.txt")
-    elif escolha == "2":
-        salvar_em_json(musicas, "database/musicas_da_playlist.json")
-    elif escolha == "3":
-        exibir_musicas(musicas)
-    else:
-        print("❌ Opção inválida.")
-
-if __name__ == "__main__":
-    main()
+exporta_musicas_playlist()
