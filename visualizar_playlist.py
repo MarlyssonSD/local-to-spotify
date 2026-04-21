@@ -1,17 +1,15 @@
 from datetime import datetime
 
 from pyautogui import sleep
-from spotipy import Spotify
-from spotipy.oauth2 import SpotifyOAuth
 from dotenv import load_dotenv
+import autentica_spotify as conect
 import utils
 import json
 
 load_dotenv()
 
 SCOPE = "playlist-read-private playlist-read-collaborative"
-sp = Spotify(auth_manager=SpotifyOAuth(scope=SCOPE, cache_path=".cache"))
-
+sp = conect.autentica_spotify()
 def listar_musicas_da_playlist(playlist_id):
     musicas = []
 
@@ -113,4 +111,4 @@ def exporta_musicas_playlist():
         else:
             print("❌ Opção inválida.")
 
-exporta_musicas_playlist()
+# exporta_musicas_playlist()
