@@ -1,11 +1,10 @@
-from spotipy import Spotify
-from spotipy.oauth2 import SpotifyOAuth
+import autentica_spotify as connect
 from dotenv import load_dotenv
 
 load_dotenv()
 
 SCOPE = "playlist-read-private playlist-modify-private playlist-read-collaborative playlist-modify-public"
-sp = Spotify(auth_manager=SpotifyOAuth(scope=SCOPE, cache_path=".cache"), requests_timeout=15)
+sp = connect.autentica_spotify()
 user_id = sp.current_user()["id"]
 
 def buscar_musicas_por_nome_ou_artista(playlist_id, termo):
@@ -44,7 +43,8 @@ def criar_playlist_com_musicas(playlist_name, track_ids):
 def main():
     playlist_origem_id = "2b8DSYBpxpmOssYkNOIzC9"  # Substitua pelo ID da playlist origem
     artista_desejado = "krawk"  # Substitua pelo nome do artista desejado
-
+    artista_desejado = input("Digite o nome do artista para criar a playlist: ").strip()
+    
     faixas = buscar_musicas_por_nome_ou_artista(playlist_origem_id, artista_desejado)
     if not faixas:
         print(f"❌ Nenhuma música encontrada com o artista '{artista_desejado}'.")

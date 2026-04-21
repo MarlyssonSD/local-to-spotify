@@ -1,5 +1,4 @@
-from spotipy import Spotify
-from spotipy.oauth2 import SpotifyOAuth
+import autentica_spotify as connect
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -44,7 +43,7 @@ def buscar_musica(sp, titulo, artista=""):
         print(f"{i}. {r['nome']} - {r['artistas']} (Score: {r['score']}) - ID: {r['id']}")
 
 def main():
-    sp = Spotify(auth_manager=SpotifyOAuth(scope=SCOPE, cache_path=".cache"))
+    sp = connect.autentica_spotify()
 
     while True:
         titulo = input("\n🎵 Digite o título da música (ou 'sair' pra encerrar): ").strip()
@@ -56,7 +55,7 @@ def main():
         buscar_musica(sp, titulo, artista)
 
 def executar_busca_interativa():
-    sp = Spotify(auth_manager=SpotifyOAuth(scope=SCOPE, cache_path=".cache"))
+    sp = connect.autentica_spotify()
 
     while True:
         titulo = input("\n🎵 Digite o título da música (ou 'sair' pra encerrar): ").strip()
@@ -67,4 +66,4 @@ def executar_busca_interativa():
         artista = input("🎤 Digite o nome do artista (ou deixe em branco): ").strip()
         buscar_musica(sp, titulo, artista)
         
-# executar_busca_interativa() # Rodar para teste
+executar_busca_interativa() # Rodar para teste
