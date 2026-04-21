@@ -1,6 +1,5 @@
 import json
-from spotipy import Spotify
-from spotipy.oauth2 import SpotifyOAuth
+import autentica_spotify as connect
 from dotenv import load_dotenv
 import time
 
@@ -28,7 +27,7 @@ def ler_musicas(arquivo):
 
 def main():
     inicio = time.time() # Marca o início da execução
-    sp = Spotify(auth_manager=SpotifyOAuth(scope=SCOPE, cache_path=".cache"), requests_timeout=15)
+    sp = connect.autentica_spotify()
 
     user_id = sp.current_user()["id"]
     print(f"Usuário autenticado: {user_id}")

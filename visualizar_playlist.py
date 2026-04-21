@@ -2,14 +2,14 @@ from datetime import datetime
 
 from pyautogui import sleep
 from dotenv import load_dotenv
-import autentica_spotify as conect
+import autentica_spotify as connect
 import utils
 import json
 
 load_dotenv()
 
 SCOPE = "playlist-read-private playlist-read-collaborative"
-sp = conect.autentica_spotify()
+sp = connect.autentica_spotify()
 def listar_musicas_da_playlist(playlist_id):
     musicas = []
 
