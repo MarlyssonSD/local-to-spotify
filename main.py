@@ -1,17 +1,11 @@
 import json
 import autentica_spotify as connect
-from dotenv import load_dotenv
 import time
+import config as c
+
+from dotenv import load_dotenv
 
 load_dotenv()
-
-# Configurações
-ARQUIVO_MUSICAS = "database/musicas_nomes_organizados.json"
-NOME_PLAYLIST = "X-Tudinho"
-
-# Escopo para criar playlists privadas
-SCOPE = "playlist-modify-private"
-
 
 def jaccard_sim(a, b):
     a_set = set(a.lower().split())
@@ -33,11 +27,11 @@ def main():
     print(f"Usuário autenticado: {user_id}")
 
     # Cria a playlist (privada/pública)
-    playlist = sp.user_playlist_create(user=user_id, name=NOME_PLAYLIST, public=False, description="Playlist migrada de músicas locais.")
+    playlist = sp.user_playlist_create(user=user_id, name=c.NOME_PLAYLIST, public=False, description="Playlist migrada de músicas locais.")
     playlist_id = playlist["id"]
-    print(f"Playlist criada: {NOME_PLAYLIST} (ID: {playlist_id})")
+    print(f"Playlist criada: {c.NOME_PLAYLIST} (ID: {playlist_id})")
 
-    musicas = ler_musicas(ARQUIVO_MUSICAS)
+    musicas = ler_musicas(c.ARQUIVO_MUSICAS)
     track_ids = []
 
     nao_encontradas = []
