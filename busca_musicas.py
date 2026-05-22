@@ -1,4 +1,4 @@
-import autentica_spotify as connect
+import backend.core.autenticar_spotify as connect
 from dotenv import load_dotenv
 
 load_dotenv()

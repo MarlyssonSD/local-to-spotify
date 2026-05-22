@@ -1,18 +1,13 @@
 import json
-import autentica_spotify as connect
+import backend.core.autenticar_spotify as connect
 import time
 import config as c
 
 from dotenv import load_dotenv
+from backend.utils.utils import jaccard_sim
 
 load_dotenv()
 
-def jaccard_sim(a, b):
-    a_set = set(a.lower().split())
-    b_set = set(b.lower().split())
-    intersec = a_set.intersection(b_set)
-    union = a_set.union(b_set)
-    return len(intersec) / len(union) if union else 0
 
 
 def ler_musicas(arquivo):

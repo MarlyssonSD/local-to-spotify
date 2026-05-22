@@ -2,8 +2,8 @@ from datetime import datetime
 
 from pyautogui import sleep
 from dotenv import load_dotenv
-import autentica_spotify as connect
-import utils
+import backend.core.autenticar_spotify as connect
+import backend.utils.utils as utils
 import json
 
 load_dotenv()

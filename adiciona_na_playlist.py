@@ -1,6 +1,6 @@
 import json
 from dotenv import load_dotenv
-import autentica_spotify as connect
+import backend.core.autenticar_spotify as connect
 import time
 
 load_dotenv()
