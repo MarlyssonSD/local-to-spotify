@@ -85,6 +85,24 @@ def jaccard_sim(a, b):
     union = a_set.union(b_set)
     return len(intersec) / len(union) if union else 0
 
+# Verifica se tem música duplicada na playlist
+def verificar_musica_existente_playlist(sp, playlist_id, track_id):
+    try:
+        resultados = sp.playlist_items(playlist_id, fields="items.track.id,next", additional_types=["track"])
+        while resultados:
+            for item in resultados["items"]:
+                track = item["track"]
+                if track and track["id"] == track_id:
+                    return True
+            if resultados.get("next"):
+                resultados = sp.next(resultados)
+            else:
+                break
+        return False
+    except Exception as e:
+        logger.error(f"❌ Erro ao verificar música duplicada na playlist: {e}")
+        return False
+
 # teste de ler listar playlists
 if __name__ == "__main__":
     from backend.core import autenticar_spotify as connect
