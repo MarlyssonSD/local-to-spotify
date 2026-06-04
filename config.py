@@ -1,9 +1,10 @@
+import logging
 
 # Configurações
 ARQUIVO_MUSICAS = "database/musicas_nomes_organizados.json"
 NOME_PLAYLIST = "X-Tudinho"
 
-# Escopo para criar playlists privadas
+# Escopos Spotify
 SCOPE_PRIVATE = (
     "user-library-read "
     "playlist-read-private "
@@ -18,5 +19,10 @@ SCOPE_PRIVATE = (
     "user-follow-modify"
 )
 
-# Nível de log (DEBUG, INFO, WARNING, ERROR, CRITICAL)
-LOG_LEVEL = "INFO"
+# Logging
+LOG_LEVEL = logging.INFO
+
+logging.basicConfig(
+    level=LOG_LEVEL,
+    format="%(levelname)s | %(name)s | %(message)s"
+)
