@@ -1,9 +1,15 @@
+import logging
+
+logging.basicConfig(level=logging.INFO)
+
+logger = logging.getLogger(__name__)
+
 def obter_nome_playlist_id(sp, playlist_id):
     try:
         playlist = sp.playlist(playlist_id)
         return playlist["name"]
     except Exception as e:
-        print(f"❌ Erro ao obter nome da playlist: {e}")
+        logger.error(f"❌ Erro ao obter nome da playlist: {e}")
         return "playlist_desconecida"
     
 def verificar_musica_na_playlist(sp, playlist_id, track_id):
@@ -20,7 +26,7 @@ def verificar_musica_na_playlist(sp, playlist_id, track_id):
                 break
         return False
     except Exception as e:
-        print(f"❌ Erro ao verificar música na playlist: {e}")
+        logger.error(f"❌ Erro ao verificar música na playlist: {e}")
         return False
     
 def listar_playlists(sp):
@@ -40,9 +46,9 @@ def listar_playlists(sp):
             resultados = sp.next(resultados)
         else:
             break
-    print(f"✅ Total de playlists encontradas: {len(playlists)}")
+    logger.info(f"✅ Total de playlists encontradas: {len(playlists)}")
     for p in playlists:
-        print(f"- {p['nome']} (ID: {p['id']}, Total de músicas: {p['total_musicas']})")
+        logger.info(f"- {p['nome']} (ID: {p['id']}, Total de músicas: {p['total_musicas']})")
         
     return playlists
 
@@ -65,9 +71,9 @@ def listar_musicas_curtidas(sp):
             resultados = sp.next(resultados)
         else:
             break
-    print(f"✅ Total de músicas curtidas encontradas: {len(musicas)}")
+    logger.info(f"✅ Total de músicas curtidas encontradas: {len(musicas)}")
     for m in musicas:
-        print(f"- {m['nome']} - {m['artista']} (ID: {m['id']})")
+        logger.info(f"- {m['nome']} - {m['artista']} (ID: {m['id']})")
     return musicas
 
 def jaccard_sim(a, b):
