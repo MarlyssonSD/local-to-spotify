@@ -46,6 +46,30 @@ def listar_playlists(sp):
         
     return playlists
 
+def listar_musicas_curtidas(sp):
+    musicas = []
+
+    resultados = sp.current_user_saved_tracks()
+
+    while resultados:
+        for item in resultados["items"]:
+            track = item["track"]
+
+            musicas.append({
+                "nome": track["name"],
+                "artista": track["artists"][0]["name"],
+                "id": track["id"]
+            })
+
+        if resultados["next"]:
+            resultados = sp.next(resultados)
+        else:
+            break
+    print(f"✅ Total de músicas curtidas encontradas: {len(musicas)}")
+    for m in musicas:
+        print(f"- {m['nome']} - {m['artista']} (ID: {m['id']})")
+    return musicas
+
 def jaccard_sim(a, b):
     '''Calcula a similaridade de Jaccard entre duas strings.
     A similaridade de Jaccard é definida como o tamanho da interseção dividido pelo tamanho da união dos conjuntos de palavras.
@@ -56,8 +80,9 @@ def jaccard_sim(a, b):
     union = a_set.union(b_set)
     return len(intersec) / len(union) if union else 0
 
-# # teste de ler listar playlists
-# if __name__ == "__main__":
-#     from backend.core import autenticar_spotify as connect
-#     sp = connect.autentica_spotify()
-#     listar_playlists(sp)
+# teste de ler listar playlists
+if __name__ == "__main__":
+    from backend.core import autenticar_spotify as connect
+    sp = connect.autentica_spotify()
+    # listar_playlists(sp)
+    listar_musicas_curtidas(sp)
