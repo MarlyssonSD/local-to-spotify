@@ -1,7 +1,7 @@
 import json
 import backend.core.autenticar_spotify as connect
 import time
-import config as c
+import backend.core.config as c
 
 from dotenv import load_dotenv
 from backend.utils.utils import jaccard_sim

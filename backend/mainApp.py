@@ -20,7 +20,7 @@ def buscar(titulo: str, artista: str = ""):
 
 # Listar playlists do usuário
 @app.get("/listar-playlists")
-def listar_playlists():
+def listar_playlists_user():
     sp = connect.autentica_spotify()
-    playlists = connect.listar_playlists(sp)
+    playlists = listar_playlists(sp)
     return {"playlists": playlists}

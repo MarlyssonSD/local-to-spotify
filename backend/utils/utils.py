@@ -1,4 +1,4 @@
-import config 
+import backend.core.config as config 
 import logging
 
 logger = logging.getLogger(__name__)

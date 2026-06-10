@@ -3,7 +3,7 @@ import logging
 from spotipy import Spotify
 from spotipy.oauth2 import SpotifyOAuth
 from dotenv import load_dotenv
-import config as c
+import backend.core.config as c
 
 load_dotenv()
 
