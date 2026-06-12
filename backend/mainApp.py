@@ -12,7 +12,7 @@ def home():
     return {"mensagem": "Olá mundo"}
 
 @app.get("/buscar-musica")
-def buscar(titulo: str, artista: str = ""):
+def get_buscar_musica(titulo: str, artista: str = ""):
 
     sp = connect.autentica_spotify()
     resultados = sv.buscar_musica(sp, titulo, artista)
@@ -20,7 +20,7 @@ def buscar(titulo: str, artista: str = ""):
 
 # Listar playlists do usuário
 @app.get("/listar-playlists")
-def listar_playlists_user():
+def get_playlists_usuario():
     sp = connect.autentica_spotify()
     playlists = sv.listar_playlists(sp)
     return {"playlists": playlists}
